@@ -1,0 +1,1491 @@
+[
+    {
+        "slug": "burnley_vs_liverpool_football_09_14_2025_09:00_am",
+        "sport": "Football",
+        "league": "England. Premier League",
+        "team1": "Burnley",
+        "team2": "Liverpool",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Turf Moor (Burnley)",
+        "odds": {
+            "team1_win": 8.7,
+            "draw": 5.52,
+            "team2_win": 1.369
+        },
+        "winning_percentage": {
+            "team1": 11.2,
+            "draw": 17.65,
+            "team2": 71.16
+        },
+        "details": {
+            "round": "Round 4",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "81",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "754",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "79",
+            "wind_direction_deg": "8",
+            "weather_condition": "Cloudy, rain",
+            "wind_description": "SSE wind, m/s",
+            "wind_speed_ms": "5.6",
+            "temperature_celsius": "+13°C"
+        }
+    },
+    {
+        "slug": "barcelona_vs_valencia_football_09_14_2025_03:00_pm",
+        "sport": "Football",
+        "league": "Spain. La Liga",
+        "team1": "Barcelona",
+        "team2": "Valencia",
+        "date_us": "09-14-2025",
+        "time_us": "03:00 PM",
+        "venue": "Camp Nou (Barcelona)",
+        "odds": {
+            "team1_win": 1.33,
+            "draw": 6.24,
+            "team2_win": 9.65
+        },
+        "winning_percentage": {
+            "team1": 74.02,
+            "draw": 15.78,
+            "team2": 10.2
+        },
+        "details": {
+            "round": "Round 4",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "4",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "765",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "74",
+            "wind_direction_deg": "9",
+            "weather_condition": "Clear skies",
+            "wind_description": "S wind, m/s",
+            "wind_speed_ms": "3.1",
+            "temperature_celsius": "+25°C"
+        }
+    },
+    {
+        "slug": "paris_saint_germain_vs_rc_lens_football_09_14_2025_11:15_am",
+        "sport": "Football",
+        "league": "France. Ligue 1",
+        "team1": "Paris Saint-Germain",
+        "team2": "RC Lens",
+        "date_us": "09-14-2025",
+        "time_us": "11:15 AM",
+        "venue": "Parc des Princes (Paris)",
+        "odds": {
+            "team1_win": 1.394,
+            "draw": 5.79,
+            "team2_win": 7.95
+        },
+        "winning_percentage": {
+            "team1": 70.62,
+            "draw": 17.0,
+            "team2": 12.38
+        },
+        "details": {
+            "round": "Round 4",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "10",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "760",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "90",
+            "wind_direction_deg": "9",
+            "weather_condition": "Gloomy",
+            "wind_description": "S wind, m/s",
+            "wind_speed_ms": "4.4",
+            "temperature_celsius": "+19°C"
+        }
+    },
+    {
+        "slug": "roma_vs_torino_football_09_14_2025_06:30_am",
+        "sport": "Football",
+        "league": "Italy. Serie A",
+        "team1": "Roma",
+        "team2": "Torino",
+        "date_us": "09-14-2025",
+        "time_us": "06:30 AM",
+        "venue": "Stadio Olimpico (Roma)",
+        "odds": {
+            "team1_win": 1.556,
+            "draw": 4.325,
+            "team2_win": 7.06
+        },
+        "winning_percentage": {
+            "team1": 63.28,
+            "draw": 22.77,
+            "team2": 13.95
+        },
+        "details": {
+            "round": "Round 3",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "0",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "53",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "764",
+            "wind_description": "SW wind, m/s",
+            "wind_speed_ms": "3.3",
+            "wind_direction_deg": "11",
+            "weather_condition": "Gloomy",
+            "temperature_celsius": "+27°C"
+        }
+    },
+    {
+        "slug": "manchester_city_vs_manchester_united_football_09_14_2025_11:30_am",
+        "sport": "Football",
+        "league": "England. Premier League",
+        "team1": "Manchester City",
+        "team2": "Manchester United",
+        "date_us": "09-14-2025",
+        "time_us": "11:30 AM",
+        "venue": "Etihad (Manchester)",
+        "odds": {
+            "team1_win": 1.803,
+            "draw": 4.25,
+            "team2_win": 4.435
+        },
+        "winning_percentage": {
+            "team1": 54.62,
+            "draw": 23.17,
+            "team2": 22.21
+        },
+        "details": {
+            "round": "Round 4",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "68",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "84",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "749",
+            "wind_description": "SE wind, m/s",
+            "wind_speed_ms": "5.6",
+            "wind_direction_deg": "7",
+            "weather_condition": "Cloudy, rain",
+            "temperature_celsius": "+14°C"
+        }
+    },
+    {
+        "slug": "real_madrid_vs_olympique_de_marseille_football_09_16_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Real Madrid",
+        "team2": "Olympique de Marseille",
+        "date_us": "09-16-2025",
+        "time_us": "03:00 PM",
+        "venue": "Santiago Bernabeu (Madrid)",
+        "odds": {
+            "team1_win": 1.359,
+            "draw": 5.44,
+            "team2_win": 8.15
+        },
+        "winning_percentage": {
+            "team1": 70.59,
+            "draw": 17.64,
+            "team2": 11.77
+        },
+        "details": {
+            "round": "League phase. Round 1",
+            "temperature_celsius": "+30°C",
+            "weather_condition": "Clear skies",
+            "wind_direction_deg": "12",
+            "wind_speed_ms": "2.2",
+            "wind_description": "WSW wind, m/s",
+            "humidity_percent": "21",
+            "humidity_unit": "Humidity, %",
+            "pressure_mmhg": "764",
+            "pressure_unit": "Pressure, mmHg",
+            "precipitation_percent": "0",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "atalanta_vs_lecce_football_09_14_2025_09:00_am",
+        "sport": "Football",
+        "league": "Italy. Serie A",
+        "team1": "Atalanta",
+        "team2": "Lecce",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Gewiss Stadium (Bergamo)",
+        "odds": {
+            "team1_win": 1.411,
+            "draw": 4.96,
+            "team2_win": 9.5
+        },
+        "winning_percentage": {
+            "team1": 69.78,
+            "draw": 19.85,
+            "team2": 10.36
+        },
+        "details": {
+            "round": "Round 3",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "0",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "762",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "58",
+            "wind_direction_deg": "12",
+            "weather_condition": "Some cloud",
+            "wind_description": "WSW wind, m/s",
+            "wind_speed_ms": "2.8",
+            "temperature_celsius": "+24°C"
+        }
+    },
+    {
+        "slug": "athletic_bilbao_vs_arsenal_football_09_16_2025_12:45_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Athletic Bilbao",
+        "team2": "Arsenal",
+        "date_us": "09-16-2025",
+        "time_us": "12:45 PM",
+        "venue": "San Mames (Bilbao)",
+        "odds": {
+            "team1_win": 4.14,
+            "draw": 3.49,
+            "team2_win": 1.946
+        },
+        "winning_percentage": {
+            "team1": 23.18,
+            "draw": 27.5,
+            "team2": 49.32
+        },
+        "details": {
+            "round": "League phase. Round 1",
+            "temperature_celsius": "+22°C",
+            "weather_condition": "Some cloud",
+            "wind_direction_deg": "3",
+            "wind_speed_ms": "3.1",
+            "wind_description": "NE wind, m/s",
+            "humidity_percent": "69",
+            "humidity_unit": "Humidity, %",
+            "pressure_mmhg": "767",
+            "pressure_unit": "Pressure, mmHg",
+            "precipitation_percent": "2",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "lille_osc_vs_toulouse_football_09_14_2025_09:00_am",
+        "sport": "Football",
+        "league": "France. Ligue 1",
+        "team1": "Lille OSC",
+        "team2": "Toulouse",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Pierre-Mauroy (Villeneuve-d'Ascq)",
+        "odds": {
+            "team1_win": 1.913,
+            "draw": 3.885,
+            "team2_win": 4.245
+        },
+        "winning_percentage": {
+            "team1": 51.47,
+            "draw": 25.34,
+            "team2": 23.19
+        },
+        "details": {
+            "round": "Round 4",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "9",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "66",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "759",
+            "wind_description": "S wind, m/s",
+            "wind_speed_ms": "5.6",
+            "wind_direction_deg": "9",
+            "weather_condition": "Gloomy",
+            "temperature_celsius": "+19°C"
+        }
+    },
+    {
+        "slug": "newcastle_united_vs_barcelona_football_09_18_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Newcastle United",
+        "team2": "Barcelona",
+        "date_us": "09-18-2025",
+        "time_us": "03:00 PM",
+        "venue": "St. James' Park (Newcastle upon Tyne)",
+        "odds": {
+            "team1_win": 3.215,
+            "draw": 3.835,
+            "team2_win": 2.127
+        },
+        "winning_percentage": {
+            "team1": 29.85,
+            "draw": 25.03,
+            "team2": 45.12
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "paris_saint_germain_vs_atalanta_football_09_17_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Paris Saint-Germain",
+        "team2": "Atalanta",
+        "date_us": "09-17-2025",
+        "time_us": "03:00 PM",
+        "venue": "Parc des Princes (Paris)",
+        "odds": {
+            "team1_win": 1.368,
+            "draw": 5.29,
+            "team2_win": 8.15
+        },
+        "winning_percentage": {
+            "team1": 70.1,
+            "draw": 18.13,
+            "team2": 11.77
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "liverpool_vs_atletico_madrid_football_09_17_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Liverpool",
+        "team2": "Atletico Madrid",
+        "date_us": "09-17-2025",
+        "time_us": "03:00 PM",
+        "venue": "Anfield (Liverpool)",
+        "odds": {
+            "team1_win": 1.587,
+            "draw": 4.29,
+            "team2_win": 5.59
+        },
+        "winning_percentage": {
+            "team1": 60.47,
+            "draw": 22.37,
+            "team2": 17.17
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "benfica_vs_qarabag_football_09_16_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Benfica",
+        "team2": "Qarabag",
+        "date_us": "09-16-2025",
+        "time_us": "03:00 PM",
+        "venue": "Estadio da Luz (Lisbon)",
+        "odds": {
+            "team1_win": 1.208,
+            "draw": 6.74,
+            "team2_win": 15
+        },
+        "winning_percentage": {
+            "team1": 79.38,
+            "draw": 14.23,
+            "team2": 6.39
+        },
+        "details": {
+            "round": "League phase. Round 1",
+            "temperature_celsius": "+24°C",
+            "weather_condition": "Clear skies",
+            "wind_direction_deg": "15",
+            "wind_speed_ms": "4.4",
+            "wind_description": "NW wind, m/s",
+            "humidity_percent": "52",
+            "humidity_unit": "Humidity, %",
+            "pressure_mmhg": "765",
+            "pressure_unit": "Pressure, mmHg",
+            "precipitation_percent": "0",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "celta_vs_girona_football_09_14_2025_08:00_am",
+        "sport": "Football",
+        "league": "Spain. La Liga",
+        "team1": "Celta",
+        "team2": "Girona",
+        "date_us": "09-14-2025",
+        "time_us": "08:00 AM",
+        "venue": "Balaídos (Vigo)",
+        "odds": {
+            "team1_win": 1.669,
+            "draw": 4.25,
+            "team2_win": 5.53
+        },
+        "winning_percentage": {
+            "team1": 59.01,
+            "draw": 23.18,
+            "team2": 17.81
+        },
+        "details": {
+            "round": "Round 4",
+            "temperature_celsius": "+22°C",
+            "weather_condition": "Gloomy",
+            "wind_direction_deg": "11",
+            "wind_speed_ms": "1.9",
+            "wind_description": "SW wind, m/s",
+            "humidity_percent": "84",
+            "humidity_unit": "Humidity, %",
+            "pressure_mmhg": "768",
+            "pressure_unit": "Pressure, mmHg",
+            "precipitation_percent": "7",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "bayern_munich_vs_chelsea_football_09_17_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Bayern Munich",
+        "team2": "Chelsea",
+        "date_us": "09-17-2025",
+        "time_us": "03:00 PM",
+        "venue": "Allianz Arena (Munich)",
+        "odds": {
+            "team1_win": 1.656,
+            "draw": 4.32,
+            "team2_win": 4.835
+        },
+        "winning_percentage": {
+            "team1": 57.94,
+            "draw": 22.21,
+            "team2": 19.85
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "milan_vs_bologna_1909_football_09_14_2025_02:45_pm",
+        "sport": "Football",
+        "league": "Italy. Serie A",
+        "team1": "Milan",
+        "team2": "Bologna 1909",
+        "date_us": "09-14-2025",
+        "time_us": "02:45 PM",
+        "venue": "Giuseppe Meazza (Milan)",
+        "odds": {
+            "team1_win": 1.938,
+            "draw": 3.585,
+            "team2_win": 4.535
+        },
+        "winning_percentage": {
+            "team1": 50.81,
+            "draw": 27.47,
+            "team2": 21.72
+        },
+        "details": {
+            "round": "Round 3",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "3",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "70",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "763",
+            "wind_description": "W wind, m/s",
+            "wind_speed_ms": "1.4",
+            "wind_direction_deg": "13",
+            "weather_condition": "Clear skies",
+            "temperature_celsius": "+21°C"
+        }
+    },
+    {
+        "slug": "tottenham_hotspur_vs_villarreal_football_09_16_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Tottenham Hotspur",
+        "team2": "Villarreal",
+        "date_us": "09-16-2025",
+        "time_us": "03:00 PM",
+        "venue": "Tottenham Hotspur (London)",
+        "odds": {
+            "team1_win": 1.876,
+            "draw": 3.83,
+            "team2_win": 4.04
+        },
+        "winning_percentage": {
+            "team1": 51.17,
+            "draw": 25.07,
+            "team2": 23.76
+        },
+        "details": {
+            "round": "League phase. Round 1",
+            "temperature_celsius": "+15°C",
+            "weather_condition": "Gloomy",
+            "wind_direction_deg": "12",
+            "wind_speed_ms": "4.2",
+            "wind_description": "WSW wind, m/s",
+            "humidity_percent": "71",
+            "humidity_unit": "Humidity, %",
+            "pressure_mmhg": "763",
+            "pressure_unit": "Pressure, mmHg",
+            "precipitation_percent": "15",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "ajax_vs_internazionale_milano_football_09_17_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Ajax",
+        "team2": "Internazionale Milano",
+        "date_us": "09-17-2025",
+        "time_us": "03:00 PM",
+        "venue": "Johan Cruyff Arena (Amsterdam)",
+        "odds": {
+            "team1_win": 3.895,
+            "draw": 3.875,
+            "team2_win": 1.898
+        },
+        "winning_percentage": {
+            "team1": 24.65,
+            "draw": 24.77,
+            "team2": 50.58
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "manchester_city_vs_napoli_football_09_18_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Manchester City",
+        "team2": "Napoli",
+        "date_us": "09-18-2025",
+        "time_us": "03:00 PM",
+        "venue": "Etihad (Manchester)",
+        "odds": {
+            "team1_win": 1.696,
+            "draw": 4.04,
+            "team2_win": 4.885
+        },
+        "winning_percentage": {
+            "team1": 56.59,
+            "draw": 23.76,
+            "team2": 19.65
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "fenerbahce_vs_trabzonspor_football_09_14_2025_12:00_pm",
+        "sport": "Football",
+        "league": "Turkey. SuperLiga",
+        "team1": "Fenerbahce",
+        "team2": "Trabzonspor",
+        "date_us": "09-14-2025",
+        "time_us": "12:00 PM",
+        "venue": "Sukru Saracoglu (Istanbul)",
+        "odds": {
+            "team1_win": 1.471,
+            "draw": 4.535,
+            "team2_win": 6.8
+        },
+        "winning_percentage": {
+            "team1": 64.91,
+            "draw": 21.05,
+            "team2": 14.04
+        },
+        "details": {
+            "round": "Round 5",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "1",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "763",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "63",
+            "wind_direction_deg": "3",
+            "weather_condition": "Clear skies",
+            "wind_description": "NE wind, m/s",
+            "wind_speed_ms": "5.8",
+            "temperature_celsius": "+22°C"
+        }
+    },
+    {
+        "slug": "psv_eindhoven_vs_royale_union_saint_gilloise_football_09_16_2025_12:45_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "PSV Eindhoven",
+        "team2": "Royale Union Saint-Gilloise",
+        "date_us": "09-16-2025",
+        "time_us": "12:45 PM",
+        "venue": "Philips (Eindhoven)",
+        "odds": {
+            "team1_win": 1.865,
+            "draw": 3.83,
+            "team2_win": 4.09
+        },
+        "winning_percentage": {
+            "team1": 51.47,
+            "draw": 25.06,
+            "team2": 23.47
+        },
+        "details": {
+            "round": "League phase. Round 1",
+            "temperature_celsius": "+17°C",
+            "weather_condition": "Gloomy",
+            "wind_direction_deg": "12",
+            "wind_speed_ms": "5.8",
+            "wind_description": "WSW wind, m/s",
+            "humidity_percent": "58",
+            "humidity_unit": "Humidity, %",
+            "pressure_mmhg": "763",
+            "pressure_unit": "Pressure, mmHg",
+            "precipitation_percent": "1",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "levante_ud_vs_real_betis_football_09_14_2025_10:15_am",
+        "sport": "Football",
+        "league": "Spain. La Liga",
+        "team1": "Levante UD",
+        "team2": "Real Betis",
+        "date_us": "09-14-2025",
+        "time_us": "10:15 AM",
+        "venue": "Ciudad de Valencia (Valencia)",
+        "odds": {
+            "team1_win": 3.38,
+            "draw": 3.705,
+            "team2_win": 2.223
+        },
+        "winning_percentage": {
+            "team1": 29.13,
+            "draw": 26.58,
+            "team2": 44.29
+        },
+        "details": {
+            "round": "Round 4",
+            "temperature_celsius": "+29°C",
+            "wind_speed_ms": "4.7",
+            "wind_description": "E wind, m/s",
+            "weather_condition": "Clear skies",
+            "wind_direction_deg": "5",
+            "pressure_mmhg": "765",
+            "pressure_unit": "Pressure, mmHg",
+            "humidity_percent": "68",
+            "humidity_unit": "Humidity, %",
+            "precipitation_percent": "1",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "juventus_vs_borussia_dortmund_football_09_16_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Juventus",
+        "team2": "Borussia Dortmund",
+        "date_us": "09-16-2025",
+        "time_us": "03:00 PM",
+        "venue": "Allianz (Torino)",
+        "odds": {
+            "team1_win": 2.087,
+            "draw": 3.575,
+            "team2_win": 3.535
+        },
+        "winning_percentage": {
+            "team1": 45.99,
+            "draw": 26.85,
+            "team2": 27.15
+        },
+        "details": {
+            "round": "League phase. Round 1",
+            "temperature_celsius": "+20°C",
+            "weather_condition": "Gloomy",
+            "wind_direction_deg": "5",
+            "wind_speed_ms": "2.8",
+            "wind_description": "E wind, m/s",
+            "humidity_percent": "71",
+            "humidity_unit": "Humidity, %",
+            "pressure_mmhg": "762",
+            "pressure_unit": "Pressure, mmHg",
+            "precipitation_percent": "3",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "sassuolo_calcio_vs_lazio_football_09_14_2025_12:00_pm",
+        "sport": "Football",
+        "league": "Italy. Serie A",
+        "team1": "Sassuolo Calcio",
+        "team2": "Lazio",
+        "date_us": "09-14-2025",
+        "time_us": "12:00 PM",
+        "venue": "Mapei Stadium – Città del Tricolore (Reggio Emilia)",
+        "odds": {
+            "team1_win": 3.645,
+            "draw": 3.645,
+            "team2_win": 2.142
+        },
+        "winning_percentage": {
+            "team1": 27.01,
+            "draw": 27.01,
+            "team2": 45.97
+        },
+        "details": {
+            "round": "Round 3",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "0",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "762",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "60",
+            "wind_direction_deg": "12",
+            "weather_condition": "Gloomy",
+            "wind_description": "WSW wind, m/s",
+            "wind_speed_ms": "3.1",
+            "temperature_celsius": "+26°C"
+        }
+    },
+    {
+        "slug": "sporting_clube_de_portugal_vs_kairat_football_09_18_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Sporting Clube de Portugal",
+        "team2": "Kairat",
+        "date_us": "09-18-2025",
+        "time_us": "03:00 PM",
+        "venue": "Jose Alvalade (Lisboa)",
+        "odds": {
+            "team1_win": 1.108,
+            "draw": 10.2,
+            "team2_win": 23
+        },
+        "winning_percentage": {
+            "team1": 86.45,
+            "draw": 9.39,
+            "team2": 4.16
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "braga_vs_gil_vicente_football_09_14_2025_03:30_pm",
+        "sport": "Football",
+        "league": "Portugal. Primeira Liga",
+        "team1": "Braga",
+        "team2": "Gil Vicente",
+        "date_us": "09-14-2025",
+        "time_us": "03:30 PM",
+        "venue": "Municipal (Braga)",
+        "odds": {
+            "team1_win": 1.56,
+            "draw": 4.05,
+            "team2_win": 6.1
+        },
+        "winning_percentage": {
+            "team1": 60.94,
+            "draw": 23.47,
+            "team2": 15.58
+        },
+        "details": {
+            "round": "Round 5",
+            "temperature_celsius": "+19°C",
+            "wind_speed_ms": "1.4",
+            "wind_description": "W wind, m/s",
+            "weather_condition": "Clear skies",
+            "wind_direction_deg": "13",
+            "pressure_mmhg": "768",
+            "pressure_unit": "Pressure, mmHg",
+            "humidity_percent": "87",
+            "humidity_unit": "Humidity, %",
+            "precipitation_percent": "7",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "osasuna_vs_rayo_vallecano_football_09_14_2025_12:30_pm",
+        "sport": "Football",
+        "league": "Spain. La Liga",
+        "team1": "Osasuna",
+        "team2": "Rayo Vallecano",
+        "date_us": "09-14-2025",
+        "time_us": "12:30 PM",
+        "venue": "El Sadar (Pamplona)",
+        "odds": {
+            "team1_win": 2.69,
+            "draw": 3.175,
+            "team2_win": 3.04
+        },
+        "winning_percentage": {
+            "team1": 36.6,
+            "draw": 31.01,
+            "team2": 32.39
+        },
+        "details": {
+            "round": "Round 4",
+            "temperature_celsius": "+26°C",
+            "wind_speed_ms": "3.6",
+            "wind_description": "N wind, m/s",
+            "weather_condition": "Clear skies",
+            "wind_direction_deg": "1",
+            "pressure_mmhg": "765",
+            "pressure_unit": "Pressure, mmHg",
+            "humidity_percent": "50",
+            "humidity_unit": "Humidity, %",
+            "precipitation_percent": "0",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "copenhagen_vs_bayer_04_leverkusen_football_09_18_2025_12:45_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Copenhagen",
+        "team2": "Bayer 04 Leverkusen",
+        "date_us": "09-18-2025",
+        "time_us": "12:45 PM",
+        "venue": "Parken (Copenhagen)",
+        "odds": {
+            "team1_win": 3.275,
+            "draw": 3.695,
+            "team2_win": 2.147
+        },
+        "winning_percentage": {
+            "team1": 29.31,
+            "draw": 25.98,
+            "team2": 44.71
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "al_nassr_vs_al_kholood_football_09_14_2025_02:00_pm",
+        "sport": "Football",
+        "league": "Saudi Arabia. Saudi Professional League",
+        "team1": "Al Nassr",
+        "team2": "Al Kholood",
+        "date_us": "09-14-2025",
+        "time_us": "02:00 PM",
+        "venue": "AL AWWAL PARK Stadium (Riyadh)",
+        "odds": {
+            "team1_win": 1.121,
+            "draw": 7.9,
+            "team2_win": 14
+        },
+        "winning_percentage": {
+            "team1": 81.84,
+            "draw": 11.61,
+            "team2": 6.55
+        },
+        "details": {
+            "round": "Round 2",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "0",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "757",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "8",
+            "wind_direction_deg": "2",
+            "weather_condition": "Clear skies",
+            "wind_description": "NNE wind, m/s",
+            "wind_speed_ms": "2.5",
+            "temperature_celsius": "+34°C"
+        }
+    },
+    {
+        "slug": "club_brugge_vs_as_monaco_football_09_18_2025_12:45_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Club Brugge",
+        "team2": "AS Monaco",
+        "date_us": "09-18-2025",
+        "time_us": "12:45 PM",
+        "venue": "Jan Breydel (Bruges)",
+        "odds": {
+            "team1_win": 2.656,
+            "draw": 3.71,
+            "team2_win": 2.526
+        },
+        "winning_percentage": {
+            "team1": 36.14,
+            "draw": 25.87,
+            "team2": 38.0
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "eintracht_frankfurt_vs_galatasaray_football_09_18_2025_03:00_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Eintracht Frankfurt",
+        "team2": "Galatasaray",
+        "date_us": "09-18-2025",
+        "time_us": "03:00 PM",
+        "venue": "Deutsche Bank Park (Frankfurt)",
+        "odds": {
+            "team1_win": 2.059,
+            "draw": 3.955,
+            "team2_win": 3.295
+        },
+        "winning_percentage": {
+            "team1": 46.61,
+            "draw": 24.27,
+            "team2": 29.13
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "baltika_kaliningrad_vs_zenit_saint_petersburg_football_09_14_2025_10:00_am",
+        "sport": "Football",
+        "league": "Russia. Premier League",
+        "team1": "Baltika Kaliningrad",
+        "team2": "Zenit Saint Petersburg",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Rostec Arena (Kaliningrad)",
+        "odds": {
+            "team1_win": 4.76,
+            "draw": 3.605,
+            "team2_win": 1.894
+        },
+        "winning_percentage": {
+            "team1": 20.69,
+            "draw": 27.32,
+            "team2": 51.99
+        },
+        "details": {
+            "round": "Round 8",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "86",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "98",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "759",
+            "wind_description": "ESE wind, m/s",
+            "wind_speed_ms": "3.1",
+            "wind_direction_deg": "6",
+            "weather_condition": "Cloudy, rain",
+            "temperature_celsius": "+17°C"
+        }
+    },
+    {
+        "slug": "barcelona_vs_getafe_football_09_21_2025_03:00_pm",
+        "sport": "Football",
+        "league": "Spain. La Liga",
+        "team1": "Barcelona",
+        "team2": "Getafe",
+        "date_us": "09-21-2025",
+        "time_us": "03:00 PM",
+        "venue": "Camp Nou (Barcelona)",
+        "odds": {
+            "team1_win": 1.286,
+            "draw": 6.36,
+            "team2_win": 12.4
+        },
+        "winning_percentage": {
+            "team1": 76.57,
+            "draw": 15.48,
+            "team2": 7.94
+        },
+        "details": {
+            "round": "Round 5"
+        }
+    },
+    {
+        "slug": "stade_rennais_vs_lyon_football_09_14_2025_02:45_pm",
+        "sport": "Football",
+        "league": "France. Ligue 1",
+        "team1": "Stade Rennais",
+        "team2": "Lyon",
+        "date_us": "09-14-2025",
+        "time_us": "02:45 PM",
+        "venue": "Roazhon Park (Rennes)",
+        "odds": {
+            "team1_win": 2.471,
+            "draw": 3.74,
+            "team2_win": 2.912
+        },
+        "winning_percentage": {
+            "team1": 39.85,
+            "draw": 26.33,
+            "team2": 33.82
+        },
+        "details": {
+            "round": "Round 4",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "8",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "759",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "87",
+            "wind_direction_deg": "11",
+            "weather_condition": "Gloomy",
+            "wind_description": "SW wind, m/s",
+            "wind_speed_ms": "6.7",
+            "temperature_celsius": "+21°C"
+        }
+    },
+    {
+        "slug": "olympiacos_piraeus_vs_pafos_football_09_17_2025_12:45_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Olympiacos Piraeus",
+        "team2": "Pafos",
+        "date_us": "09-17-2025",
+        "time_us": "12:45 PM",
+        "venue": "Karaiskakis (Piraeus)",
+        "odds": {
+            "team1_win": 1.448,
+            "draw": 4.59,
+            "team2_win": 7.49
+        },
+        "winning_percentage": {
+            "team1": 66.28,
+            "draw": 20.91,
+            "team2": 12.81
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "borussia_monchengladbach_vs_werder_bremen_football_09_14_2025_11:30_am",
+        "sport": "Football",
+        "league": "Germany. Bundesliga",
+        "team1": "Borussia Monchengladbach",
+        "team2": "Werder Bremen",
+        "date_us": "09-14-2025",
+        "time_us": "11:30 AM",
+        "venue": "Borussia-Park (Monchengladbach)",
+        "odds": {
+            "team1_win": 1.999,
+            "draw": 4.305,
+            "team2_win": 3.535
+        },
+        "winning_percentage": {
+            "team1": 49.27,
+            "draw": 22.88,
+            "team2": 27.86
+        },
+        "details": {
+            "round": "Round 3",
+            "temperature_celsius": "+18°C",
+            "wind_speed_ms": "3.1",
+            "wind_description": "S wind, m/s",
+            "weather_condition": "Gloomy",
+            "wind_direction_deg": "9",
+            "pressure_mmhg": "760",
+            "pressure_unit": "Pressure, mmHg",
+            "humidity_percent": "54",
+            "humidity_unit": "Humidity, %",
+            "precipitation_percent": "0",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "liverpool_vs_everton_football_09_20_2025_07:30_am",
+        "sport": "Football",
+        "league": "England. Premier League",
+        "team1": "Liverpool",
+        "team2": "Everton",
+        "date_us": "09-20-2025",
+        "time_us": "07:30 AM",
+        "venue": "Anfield (Liverpool)",
+        "odds": {
+            "team1_win": 1.481,
+            "draw": 4.865,
+            "team2_win": 6.89
+        },
+        "winning_percentage": {
+            "team1": 65.82,
+            "draw": 20.04,
+            "team2": 14.15
+        },
+        "details": {
+            "round": "Round 5"
+        }
+    },
+    {
+        "slug": "st._pauli_vs_augsburg_football_09_14_2025_09:30_am",
+        "sport": "Football",
+        "league": "Germany. Bundesliga",
+        "team1": "St. Pauli",
+        "team2": "Augsburg",
+        "date_us": "09-14-2025",
+        "time_us": "09:30 AM",
+        "venue": "Millerntor (Hamburg)",
+        "odds": {
+            "team1_win": 2.142,
+            "draw": 3.565,
+            "team2_win": 3.73
+        },
+        "winning_percentage": {
+            "team1": 45.97,
+            "draw": 27.62,
+            "team2": 26.4
+        },
+        "details": {
+            "round": "Round 3",
+            "temperature_celsius": "+18°C",
+            "weather_condition": "Some cloud",
+            "wind_direction_deg": "12",
+            "wind_speed_ms": "4.7",
+            "wind_description": "WSW wind, m/s",
+            "humidity_percent": "58",
+            "humidity_unit": "Humidity, %",
+            "pressure_mmhg": "760",
+            "pressure_unit": "Pressure, mmHg",
+            "precipitation_percent": "2",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "heracles_almelo_vs_az_alkmaar_football_09_14_2025_08:30_am",
+        "sport": "Football",
+        "league": "Netherlands. Eredivisie",
+        "team1": "Heracles Almelo",
+        "team2": "AZ Alkmaar",
+        "date_us": "09-14-2025",
+        "time_us": "08:30 AM",
+        "venue": "Erve Asito (Almelo)",
+        "odds": {
+            "team1_win": 5.72,
+            "draw": 4.605,
+            "team2_win": 1.539
+        },
+        "winning_percentage": {
+            "team1": 16.78,
+            "draw": 20.85,
+            "team2": 62.37
+        },
+        "details": {
+            "round": "Round 5",
+            "temperature_celsius": "+19°C",
+            "wind_speed_ms": "4.7",
+            "wind_description": "SW wind, m/s",
+            "weather_condition": "Gloomy",
+            "wind_direction_deg": "11",
+            "pressure_mmhg": "760",
+            "pressure_unit": "Pressure, mmHg",
+            "humidity_percent": "56",
+            "humidity_unit": "Humidity, %",
+            "precipitation_percent": "1",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "strasbourg_vs_le_havre_football_09_14_2025_11:15_am",
+        "sport": "Football",
+        "league": "France. Ligue 1",
+        "team1": "Strasbourg",
+        "team2": "Le Havre",
+        "date_us": "09-14-2025",
+        "time_us": "11:15 AM",
+        "venue": "Stade de la Meinau (Strasbourg)",
+        "odds": {
+            "team1_win": 1.804,
+            "draw": 4.015,
+            "team2_win": 4.715
+        },
+        "winning_percentage": {
+            "team1": 54.59,
+            "draw": 24.53,
+            "team2": 20.89
+        },
+        "details": {
+            "round": "Round 4",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "1",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "763",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "64",
+            "wind_direction_deg": "10",
+            "weather_condition": "Gloomy",
+            "wind_description": "SSW wind, m/s",
+            "wind_speed_ms": "3.1",
+            "temperature_celsius": "+20°C"
+        }
+    },
+    {
+        "slug": "slavia_prague_vs_bodo_glimt_football_09_17_2025_12:45_pm",
+        "sport": "Football",
+        "league": "UEFA Champions League",
+        "team1": "Slavia Prague",
+        "team2": "Bodo-Glimt",
+        "date_us": "09-17-2025",
+        "time_us": "12:45 PM",
+        "venue": "Fortuna Arena (Prague)",
+        "odds": {
+            "team1_win": 1.868,
+            "draw": 4.045,
+            "team2_win": 3.855
+        },
+        "winning_percentage": {
+            "team1": 51.38,
+            "draw": 23.73,
+            "team2": 24.9
+        },
+        "details": {
+            "round": "League phase. Round 1"
+        }
+    },
+    {
+        "slug": "stade_brestois_29_vs_paris_football_09_14_2025_11:15_am",
+        "sport": "Football",
+        "league": "France. Ligue 1",
+        "team1": "Stade Brestois 29",
+        "team2": "Paris",
+        "date_us": "09-14-2025",
+        "time_us": "11:15 AM",
+        "venue": "Stade Francis-Le Ble (Brest)",
+        "odds": {
+            "team1_win": 2.625,
+            "draw": 3.605,
+            "team2_win": 2.799
+        },
+        "winning_percentage": {
+            "team1": 37.51,
+            "draw": 27.31,
+            "team2": 35.18
+        },
+        "details": {
+            "round": "Round 4",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "21",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "758",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "90",
+            "wind_direction_deg": "11",
+            "weather_condition": "Gloomy",
+            "wind_description": "SW wind, m/s",
+            "wind_speed_ms": "10.3",
+            "temperature_celsius": "+19°C"
+        }
+    },
+    {
+        "slug": "tsg_1899_hoffenheim_vs_bayern_munich_football_09_20_2025_09:30_am",
+        "sport": "Football",
+        "league": "Germany. Bundesliga",
+        "team1": "TSG 1899 Hoffenheim",
+        "team2": "Bayern Munich",
+        "date_us": "09-20-2025",
+        "time_us": "09:30 AM",
+        "venue": "PreZero Arena (Sinsheim)",
+        "odds": {
+            "team1_win": 7.47,
+            "draw": 5.58,
+            "team2_win": 1.424
+        },
+        "winning_percentage": {
+            "team1": 13.18,
+            "draw": 17.65,
+            "team2": 69.16
+        },
+        "details": {
+            "round": "Round 4"
+        }
+    },
+    {
+        "slug": "real_madrid_vs_espanyol_football_09_20_2025_10:15_am",
+        "sport": "Football",
+        "league": "Spain. La Liga",
+        "team1": "Real Madrid",
+        "team2": "Espanyol",
+        "date_us": "09-20-2025",
+        "time_us": "10:15 AM",
+        "venue": "Santiago Bernabeu (Madrid)",
+        "odds": {
+            "team1_win": 1.253,
+            "draw": 7.18,
+            "team2_win": 12.8
+        },
+        "winning_percentage": {
+            "team1": 78.59,
+            "draw": 13.72,
+            "team2": 7.69
+        },
+        "details": {
+            "round": "Round 5"
+        }
+    },
+    {
+        "slug": "utrecht_vs_groningen_football_09_14_2025_08:30_am",
+        "sport": "Football",
+        "league": "Netherlands. Eredivisie",
+        "team1": "Utrecht",
+        "team2": "Groningen",
+        "date_us": "09-14-2025",
+        "time_us": "08:30 AM",
+        "venue": "Galgenwaard (Utrecht)",
+        "odds": {
+            "team1_win": 1.77,
+            "draw": 3.78,
+            "team2_win": 4.7
+        },
+        "winning_percentage": {
+            "team1": 54.2,
+            "draw": 25.38,
+            "team2": 20.41
+        },
+        "details": {
+            "round": "Round 5",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "0",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "53",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "760",
+            "wind_description": "SSW wind, m/s",
+            "wind_speed_ms": "5.6",
+            "wind_direction_deg": "10",
+            "weather_condition": "Gloomy",
+            "temperature_celsius": "+19°C"
+        }
+    },
+    {
+        "slug": "pisa_1909_vs_udinese_calcio_football_09_14_2025_09:00_am",
+        "sport": "Football",
+        "league": "Italy. Serie A",
+        "team1": "Pisa 1909",
+        "team2": "Udinese Calcio",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Arena Garibaldi - Stadio Romeo Anconetani (Pisa)",
+        "odds": {
+            "team1_win": 2.895,
+            "draw": 3.13,
+            "team2_win": 2.853
+        },
+        "winning_percentage": {
+            "team1": 34.02,
+            "draw": 31.46,
+            "team2": 34.52
+        },
+        "details": {
+            "round": "Round 3",
+            "temperature_celsius": "+24°C",
+            "wind_speed_ms": "4.7",
+            "wind_description": "WSW wind, m/s",
+            "weather_condition": "Gloomy",
+            "wind_direction_deg": "12",
+            "pressure_mmhg": "764",
+            "pressure_unit": "Pressure, mmHg",
+            "humidity_percent": "82",
+            "humidity_unit": "Humidity, %",
+            "precipitation_percent": "11",
+            "precipitation_unit": "Precipitation, %"
+        }
+    },
+    {
+        "slug": "kilmarnock_vs_celtic_football_09_14_2025_10:00_am",
+        "sport": "Football",
+        "league": "Scotland. Premier League",
+        "team1": "Kilmarnock",
+        "team2": "Celtic",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Rugby Park (Kilmarnock)",
+        "odds": {
+            "team1_win": 10.5,
+            "draw": 5.6,
+            "team2_win": 1.29
+        },
+        "winning_percentage": {
+            "team1": 9.08,
+            "draw": 17.02,
+            "team2": 73.9
+        },
+        "details": {
+            "round": "Round 5",
+            "precipitation_unit": "Precipitation, %",
+            "precipitation_percent": "79",
+            "pressure_unit": "Pressure, mmHg",
+            "pressure_mmhg": "749",
+            "humidity_unit": "Humidity, %",
+            "humidity_percent": "81",
+            "wind_direction_deg": "7",
+            "weather_condition": "Cloudy, rain",
+            "wind_description": "SE wind, m/s",
+            "wind_speed_ms": "6.7",
+            "temperature_celsius": "+14°C"
+        }
+    },
+    {
+        "slug": "as_monaco_vs_metz_football_09_21_2025_11:15_am",
+        "sport": "Football",
+        "league": "France. Ligue 1",
+        "team1": "AS Monaco",
+        "team2": "Metz",
+        "date_us": "09-21-2025",
+        "time_us": "11:15 AM",
+        "venue": "Louis II (Monaco)",
+        "odds": {
+            "team1_win": 1.33,
+            "draw": 6.38,
+            "team2_win": 9.35
+        },
+        "winning_percentage": {
+            "team1": 74.04,
+            "draw": 15.43,
+            "team2": 10.53
+        },
+        "details": {
+            "round": "Round 5"
+        }
+    },
+    {
+        "slug": "russia_vs_iran_football_10_06_2025_11:00_am",
+        "sport": "Football",
+        "league": "Friendlies. National Teams",
+        "team1": "Russia",
+        "team2": "Iran",
+        "date_us": "10-06-2025",
+        "time_us": "11:00 AM",
+        "venue": "Azadi Stadium (Tehran)",
+        "odds": {
+            "team1_win": 1.717,
+            "draw": 3.91,
+            "team2_win": 5.48
+        },
+        "winning_percentage": {
+            "team1": 57.06,
+            "draw": 25.06,
+            "team2": 17.88
+        },
+        "details": null
+    },
+    {
+        "slug": "olympique_de_marseille_vs_paris_saint_germain_football_09_21_2025_02:45_pm",
+        "sport": "Football",
+        "league": "France. Ligue 1",
+        "team1": "Olympique de Marseille",
+        "team2": "Paris Saint-Germain",
+        "date_us": "09-21-2025",
+        "time_us": "02:45 PM",
+        "venue": "Velodrome (Marseille)",
+        "odds": {
+            "team1_win": 3.895,
+            "draw": 3.945,
+            "team2_win": 1.979
+        },
+        "winning_percentage": {
+            "team1": 25.28,
+            "draw": 24.96,
+            "team2": 49.76
+        },
+        "details": {
+            "round": "Round 5"
+        }
+    }
+]

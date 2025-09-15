@@ -1,0 +1,1024 @@
+[
+    {
+        "slug": "minnesota_lynx_(women)_vs_golden_state_valkyries_(women)_basketball_09_14_2025_0100_pm",
+        "league": "WNBA",
+        "match_format": null,
+        "match_description": "Play-off. Round 1",
+        "team1": "Minnesota Lynx (Women)",
+        "team2": "Golden State Valkyries (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "01:00 PM",
+        "venue": "Target Center (Minneapolis)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 85.0,
+            "team2_percent": 15.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Play-off. Round 1",
+            "venue": "Target Center (Minneapolis)",
+            "country": "USA"
+        }
+    },
+    {
+        "slug": "atlanta_dream_(women)_vs_indiana_fever_(women)_basketball_09_14_2025_0300_pm",
+        "league": "WNBA",
+        "match_format": null,
+        "match_description": "Play-off. Round 1",
+        "team1": "Atlanta Dream (Women)",
+        "team2": "Indiana Fever (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "03:00 PM",
+        "venue": "Gateway Center (College Park)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 73.0,
+            "team2_percent": 27.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Play-off. Round 1",
+            "venue": "Gateway Center (College Park)",
+            "country": "USA"
+        }
+    },
+    {
+        "slug": "phoenix_mercury_(women)_vs_new_york_liberty_(women)_basketball_09_14_2025_0500_pm",
+        "league": "WNBA",
+        "match_format": null,
+        "match_description": "Play-off. Round 1",
+        "team1": "Phoenix Mercury (Women)",
+        "team2": "New York Liberty (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "05:00 PM",
+        "venue": "Footprint Center (Phoenix)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 44.0,
+            "team2_percent": 56.00000000000001,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Play-off. Round 1",
+            "venue": "Footprint Center (Phoenix)",
+            "country": "USA"
+        }
+    },
+    {
+        "slug": "home_(points)_vs_away_(points)_basketball_09_14_2025_0100_pm",
+        "league": "WNBA",
+        "match_format": null,
+        "match_description": "4 Matches",
+        "team1": "Home (Points)",
+        "team2": "Away (Points)",
+        "date_us": "09-14-2025",
+        "time_us": "01:00 PM",
+        "venue": "N/A",
+        "odds": null,
+        "win_probability": null,
+        "details": {
+            "round_stage": "Play-off. Round 1",
+            "country": "USA"
+        }
+    },
+    {
+        "slug": "greece_vs_finland_basketball_09_14_2025_1000_am",
+        "league": "FIBA EuroBasket",
+        "match_format": null,
+        "match_description": "3rd Place",
+        "team1": "Greece",
+        "team2": "Finland",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Xiaomi Arena (Riga)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 64.0,
+            "team2_percent": 36.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "3rd Place",
+            "venue": "Xiaomi Arena (Riga)"
+        }
+    },
+    {
+        "slug": "turkey_vs_germany_basketball_09_14_2025_0200_pm",
+        "league": "FIBA EuroBasket",
+        "match_format": null,
+        "match_description": "Play-off. Final",
+        "team1": "Turkey",
+        "team2": "Germany",
+        "date_us": "09-14-2025",
+        "time_us": "02:00 PM",
+        "venue": "Xiaomi Arena (Riga)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 43.0,
+            "team2_percent": 56.99999999999999,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Play-off. Final",
+            "venue": "Xiaomi Arena (Riga)"
+        }
+    },
+    {
+        "slug": "1st_teams_(points)_vs_2nd_teams_(points)_basketball_09_14_2025_1000_am",
+        "league": "FIBA EuroBasket",
+        "match_format": null,
+        "match_description": "2 Matches",
+        "team1": "1st teams (Points)",
+        "team2": "2nd teams (Points)",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "N/A",
+        "odds": null,
+        "win_probability": null,
+        "details": null
+    },
+    {
+        "slug": "a.m.i.c.s._castello_vs_mataro_basketball_09_14_2025_0600_am",
+        "league": "Spanish Cup",
+        "match_format": null,
+        "match_description": "Tour 1",
+        "team1": "A.M.I.C.S. Castello",
+        "team2": "Mataro",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Ciutat de Castelló (Castellon de la Plana)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 78.0,
+            "team2_percent": 22.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Tour 1",
+            "venue": "Ciutat de Castelló (Castellon de la Plana)",
+            "country": "Spain"
+        }
+    },
+    {
+        "slug": "cb_clavijo_vs_iraurgi_saski_baloia_basketball_09_14_2025_0600_am",
+        "league": "Spanish Cup",
+        "match_format": null,
+        "match_description": "Tour 1",
+        "team1": "CB Clavijo",
+        "team2": "Iraurgi Saski Baloia",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Palacio de los Deportes de La Rioja (Logrono)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 53.0,
+            "team2_percent": 47.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Tour 1",
+            "venue": "Palacio de los Deportes de La Rioja (Logrono)",
+            "country": "Spain"
+        }
+    },
+    {
+        "slug": "moron_vs_caja_87_baloncesto_basketball_09_14_2025_0600_am",
+        "league": "Spanish Cup",
+        "match_format": null,
+        "match_description": "Tour 1",
+        "team1": "Moron",
+        "team2": "Caja 87 Baloncesto",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Pabellon Alameda (Moron de la Frontera)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 65.0,
+            "team2_percent": 35.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Tour 1",
+            "venue": "Pabellon Alameda (Moron de la Frontera)",
+            "country": "Spain"
+        }
+    },
+    {
+        "slug": "pearl_queens_(women)_vs_amazon_rhinos_(women)_basketball_09_14_2025_0600_am",
+        "league": "Uganda Championship. Division 1. Women",
+        "match_format": null,
+        "match_description": "Tour 18",
+        "team1": "Pearl Queens (Women)",
+        "team2": "Amazon Rhinos (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Hamz (Kampala)",
+        "odds": null,
+        "win_probability": null,
+        "details": {
+            "round_stage": "Tour 18",
+            "venue": "Hamz (Kampala)",
+            "country": "Uganda"
+        }
+    },
+    {
+        "slug": "alba_berlin_(women)_vs_hannover_(women)_basketball_09_14_2025_0630_am",
+        "league": "Club Friendlies. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Alba Berlin (Women)",
+        "team2": "Hannover (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "06:30 AM",
+        "venue": "Sömmeringhalle (Berlin)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 71.0,
+            "team2_percent": 28.999999999999996,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Sömmeringhalle (Berlin)"
+        }
+    },
+    {
+        "slug": "shandong_kirins_vs_qingdao_guoxin_haitian_eagle_basketball_09_14_2025_0700_am",
+        "league": "China. CBA. Summer League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Shandong Kirins",
+        "team2": "Qingdao Guoxin Haitian Eagle",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Pingdu Olympic Sports (Qingdao)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 65.0,
+            "team2_percent": 35.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Pingdu Olympic Sports (Qingdao)",
+            "country": "China"
+        }
+    },
+    {
+        "slug": "den_helder_suns_vs_kangoeroes_mechelen_basketball_09_14_2025_0700_am",
+        "league": "Club Friendlies",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Den Helder Suns",
+        "team2": "Kangoeroes Mechelen",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Den Helder Suns (Den Helder)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 31.0,
+            "team2_percent": 69.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Den Helder Suns (Den Helder)"
+        }
+    },
+    {
+        "slug": "tofas_vs_galatasaray_medical_park_basketball_09_14_2025_0700_am",
+        "league": "Club Friendlies",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Tofas",
+        "team2": "Galatasaray Medical Park",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Tofas Spor Salonu (Bursa)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 63.0,
+            "team2_percent": 37.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Tofas Spor Salonu (Bursa)"
+        }
+    },
+    {
+        "slug": "nokia_(women)_vs_espoo_team_(women)_basketball_09_14_2025_0700_am",
+        "league": "Club Friendlies. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Nokia (Women)",
+        "team2": "Espoo Team (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "AGCO Power Arena (Nokia)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 57.99999999999999,
+            "team2_percent": 42.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "AGCO Power Arena (Nokia)"
+        }
+    },
+    {
+        "slug": "umoja_vs_ulinzi_basketball_09_14_2025_0700_am",
+        "league": "Kenya. Premier League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Umoja",
+        "team2": "Ulinzi",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Nyayo Stadium Indoor Arena (Nairobi)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 48.0,
+            "team2_percent": 52.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Nyayo Stadium Indoor Arena (Nairobi)",
+            "country": "Kenya"
+        }
+    },
+    {
+        "slug": "kampala_rockets_vs_ucu_canons_basketball_09_14_2025_0700_am",
+        "league": "Uganda. NBL",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Kampala Rockets",
+        "team2": "UCU Canons",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Lugogo indoor (Kampala)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 47.0,
+            "team2_percent": 53.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Lugogo indoor (Kampala)",
+            "country": "Uganda"
+        }
+    },
+    {
+        "slug": "guangzhou_long_lions_u21_vs_tianjin_pioneers_u21_basketball_09_14_2025_0730_am",
+        "league": "China Championship U21",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Guangzhou Long-Lions U21",
+        "team2": "Tianjin Pioneers U21",
+        "date_us": "09-14-2025",
+        "time_us": "07:30 AM",
+        "venue": "Shaoquan Sports Center (Hefei)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 35.0,
+            "team2_percent": 65.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Shaoquan Sports Center (Hefei)",
+            "country": "China"
+        }
+    },
+    {
+        "slug": "shandong_hi_speed_(women)_vs_beijing_great_wall_(women)_basketball_09_14_2025_0730_am",
+        "league": "China Championship. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Shandong Hi Speed (Women)",
+        "team2": "Beijing Great Wall (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "07:30 AM",
+        "venue": "Jiyang Sports Center Gymnasium (Zhuji)",
+        "odds": null,
+        "win_probability": null,
+        "details": {
+            "venue": "Jiyang Sports Center Gymnasium (Zhuji)",
+            "country": "China"
+        }
+    },
+    {
+        "slug": "sichuan_yuanda_merlot_(women)_vs_shanxi_xing_rui_flame_(women)_basketball_09_14_2025_0730_am",
+        "league": "China Championship. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Sichuan Yuanda Merlot (Women)",
+        "team2": "Shanxi Xing Rui Flame (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "07:30 AM",
+        "venue": "Gymnasium of Wuhan Institute of Physical Education (Wuhan)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 82.0,
+            "team2_percent": 18.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Gymnasium of Wuhan Institute of Physical Education (Wuhan)",
+            "country": "China"
+        }
+    },
+    {
+        "slug": "hunan_jinjian_rice_industry_vs_hong_kong_golden_bulls_basketball_09_14_2025_0730_am",
+        "league": "China. NBL",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Hunan Jinjian Rice Industry",
+        "team2": "Hong Kong Golden Bulls",
+        "date_us": "09-14-2025",
+        "time_us": "07:30 AM",
+        "venue": "Changsha Social Work College (Changsha)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 43.0,
+            "team2_percent": 56.99999999999999,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Changsha Social Work College (Changsha)",
+            "country": "China"
+        }
+    },
+    {
+        "slug": "gs_cosider_(women)_vs_al_qurain_(women)_basketball_09_14_2025_0800_am",
+        "league": "Championship of Arabic clubs. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "GS Cosider (Women)",
+        "team2": "Al Qurain (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "08:00 AM",
+        "venue": "Prince Mohammad bin Abdulaziz (Medina)",
+        "odds": null,
+        "win_probability": null,
+        "details": {
+            "venue": "Prince Mohammad bin Abdulaziz (Medina)"
+        }
+    },
+    {
+        "slug": "ymca_hamstars_vs_knight_riders_basketball_09_14_2025_0800_am",
+        "league": "Uganda. Division 1",
+        "match_format": null,
+        "match_description": "Tour 18",
+        "team1": "YMCA Hamstars",
+        "team2": "Knight Riders",
+        "date_us": "09-14-2025",
+        "time_us": "08:00 AM",
+        "venue": "YMCA (Kampala)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 38.0,
+            "team2_percent": 62.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Tour 18",
+            "venue": "YMCA (Kampala)",
+            "country": "Uganda"
+        }
+    },
+    {
+        "slug": "avanti_brugge_vs_ldp_donza_basketball_09_14_2025_0830_am",
+        "league": "Belgium. First Division",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Avanti Brugge",
+        "team2": "LDP Donza",
+        "date_us": "09-14-2025",
+        "time_us": "08:30 AM",
+        "venue": "Sporthal stamina (Brugge)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 51.0,
+            "team2_percent": 49.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Sporthal stamina (Brugge)",
+            "country": "Belgium"
+        }
+    },
+    {
+        "slug": "instituto_viva_vida_u22_vs_vasco_da_gama_u22_basketball_09_14_2025_0830_am",
+        "league": "Brazil Championship. LDB U22",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Instituto Viva Vida U22",
+        "team2": "Vasco Da Gama U22",
+        "date_us": "09-14-2025",
+        "time_us": "08:30 AM",
+        "venue": "N/A",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 53.0,
+            "team2_percent": 47.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "country": "Brazil"
+        }
+    },
+    {
+        "slug": "hanoi_buffaloes_vs_nha_trang_dolphins_basketball_09_14_2025_0830_am",
+        "league": "Vietnam Championship. VBA",
+        "match_format": null,
+        "match_description": "Play-off. Final. 1st leg",
+        "team1": "Hanoi Buffaloes",
+        "team2": "Nha Trang Dolphins",
+        "date_us": "09-14-2025",
+        "time_us": "08:30 AM",
+        "venue": "TT Tay Ho (Hanoi)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 65.0,
+            "team2_percent": 35.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Play-off. Final. 1st leg",
+            "venue": "TT Tay Ho (Hanoi)",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "slug": "alba_berlin_vs_rostock_seawolves_basketball_09_14_2025_0900_am",
+        "league": "Club Friendlies",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Alba Berlin",
+        "team2": "Rostock Seawolves",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Sporthalle Charlottenburg (Berlin)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 59.0,
+            "team2_percent": 41.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Sporthalle Charlottenburg (Berlin)"
+        }
+    },
+    {
+        "slug": "dinamo_bucuresti_vs_csu_sibiu_basketball_09_14_2025_0900_am",
+        "league": "Club Friendlies",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Dinamo Bucuresti",
+        "team2": "CSU Sibiu",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Arena de Baschet (Bucharest)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 53.0,
+            "team2_percent": 47.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Arena de Baschet (Bucharest)"
+        }
+    },
+    {
+        "slug": "kenya_ports_authority_(women)_vs_zetech_university_(women)_basketball_09_14_2025_0900_am",
+        "league": "Kenya. Premier League. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Kenya Ports Authority (Women)",
+        "team2": "Zetech University (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Nyayo Stadium Indoor Arena (Nairobi)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 65.0,
+            "team2_percent": 35.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Nyayo Stadium Indoor Arena (Nairobi)",
+            "country": "Kenya"
+        }
+    },
+    {
+        "slug": "den_bosch_vs_donar_groningen_basketball_09_14_2025_0900_am",
+        "league": "Netherlands. Super Cup",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Den Bosch",
+        "team2": "Donar Groningen",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Maaspoort (Hertogenbosch)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 85.0,
+            "team2_percent": 15.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Maaspoort (Hertogenbosch)",
+            "country": "Netherlands"
+        }
+    },
+    {
+        "slug": "olympiacos_sfp_pireus_vs_paris_basketball_09_14_2025_0915_am",
+        "league": "International Club Tournament",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Olympiacos SFP Pireus",
+        "team2": "Paris",
+        "date_us": "09-14-2025",
+        "time_us": "09:15 AM",
+        "venue": "Eleftheria Sports Arena (Nicosia)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 63.0,
+            "team2_percent": 37.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Eleftheria Sports Arena (Nicosia)"
+        }
+    },
+    {
+        "slug": "anadolu_efes_vs_zalgiris_basketball_09_14_2025_0930_am",
+        "league": "Gloria Cup",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Anadolu Efes",
+        "team2": "Zalgiris",
+        "date_us": "09-14-2025",
+        "time_us": "09:30 AM",
+        "venue": "Gloria Sports Arena (Belek)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 47.0,
+            "team2_percent": 53.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Gloria Sports Arena (Belek)"
+        }
+    },
+    {
+        "slug": "al_hala_(women)_vs_al_fatat_(women)_basketball_09_14_2025_1000_am",
+        "league": "Championship of Arabic clubs. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Al Hala (Women)",
+        "team2": "Al Fatat (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Prince Mohammad bin Abdulaziz (Medina)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 41.0,
+            "team2_percent": 59.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Prince Mohammad bin Abdulaziz (Medina)"
+        }
+    },
+    {
+        "slug": "araski_(women)_vs_ensino_lugo_(women)_basketball_09_14_2025_1100_am",
+        "league": "Club Friendlies. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Araski (Women)",
+        "team2": "Ensino Lugo (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "11:00 AM",
+        "venue": "Mendizorrotza (Vitoria-Gasteiz)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 56.00000000000001,
+            "team2_percent": 44.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Mendizorrotza (Vitoria-Gasteiz)"
+        }
+    },
+    {
+        "slug": "hapoel_jerusalem_vs_ironi_ramat_gan_basketball_09_14_2025_1100_am",
+        "league": "Israel Cup",
+        "match_format": null,
+        "match_description": "Group Stage. Group A",
+        "team1": "Hapoel Jerusalem",
+        "team2": "Ironi Ramat Gan",
+        "date_us": "09-14-2025",
+        "time_us": "11:00 AM",
+        "venue": "Pais Arena (Jerusalem)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 90.0,
+            "team2_percent": 10.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Group Stage. Group A",
+            "venue": "Pais Arena (Jerusalem)",
+            "country": "Israel"
+        }
+    },
+    {
+        "slug": "kpa_vs_nairobi_city_thunder_basketball_09_14_2025_1100_am",
+        "league": "Kenya. Premier League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "KPA",
+        "team2": "Nairobi City Thunder",
+        "date_us": "09-14-2025",
+        "time_us": "11:00 AM",
+        "venue": "Nyayo Stadium Indoor Arena (Nairobi)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 12.0,
+            "team2_percent": 88.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Nyayo Stadium Indoor Arena (Nairobi)",
+            "country": "Kenya"
+        }
+    },
+    {
+        "slug": "crvena_zvezda_vs_monaco_basketball_09_14_2025_1130_am",
+        "league": "International Club Tournament",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Crvena Zvezda",
+        "team2": "Monaco",
+        "date_us": "09-14-2025",
+        "time_us": "11:30 AM",
+        "venue": "Tassos Papadopoulos (Nicosia)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 37.0,
+            "team2_percent": 63.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Tassos Papadopoulos (Nicosia)"
+        }
+    },
+    {
+        "slug": "maccabi_rishon_lezion_vs_hapoel_beer_sheva_basketball_09_14_2025_1155_am",
+        "league": "Israel Cup",
+        "match_format": null,
+        "match_description": "Group Stage. Group A",
+        "team1": "Maccabi Rishon LeZion",
+        "team2": "Hapoel Beer Sheva",
+        "date_us": "09-14-2025",
+        "time_us": "11:55 AM",
+        "venue": "Pais Arena (Jerusalem)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 37.0,
+            "team2_percent": 63.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Group Stage. Group A",
+            "venue": "Pais Arena (Jerusalem)",
+            "country": "Israel"
+        }
+    },
+    {
+        "slug": "marbella_3x3_vs_diadema_3x3_basketball_09_14_2025_1200_pm",
+        "league": "Challenger 3x3. Brasilia",
+        "match_format": null,
+        "match_description": "Round of 8",
+        "team1": "Marbella 3x3",
+        "team2": "Diadema 3x3",
+        "date_us": "09-14-2025",
+        "time_us": "12:00 PM",
+        "venue": "Patio Brasil Shopping (Brasilia)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 79.0,
+            "team2_percent": 21.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round of 8",
+            "venue": "Patio Brasil Shopping (Brasilia)",
+            "country": "Brazil"
+        }
+    },
+    {
+        "slug": "al_ula_(women)_vs_al_fuheis_(women)_basketball_09_14_2025_1200_pm",
+        "league": "Championship of Arabic clubs. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Al Ula (Women)",
+        "team2": "Al-Fuheis (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "12:00 PM",
+        "venue": "Prince Mohammad bin Abdulaziz (Medina)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 16.0,
+            "team2_percent": 84.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Prince Mohammad bin Abdulaziz (Medina)"
+        }
+    },
+    {
+        "slug": "czarni_slupsk_vs_trefl_sopot_basketball_09_14_2025_1200_pm",
+        "league": "Friendly Club Tournament",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Czarni Slupsk",
+        "team2": "Trefl Sopot",
+        "date_us": "09-14-2025",
+        "time_us": "12:00 PM",
+        "venue": "N/A",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 52.0,
+            "team2_percent": 48.0,
+            "draw_percent": 0
+        },
+        "details": null
+    },
+    {
+        "slug": "partizan_3x3_vs_barcelona_3x3_basketball_09_14_2025_1225_pm",
+        "league": "Challenger 3x3. Brasilia",
+        "match_format": null,
+        "match_description": "Round of 8",
+        "team1": "Partizan 3x3",
+        "team2": "Barcelona 3x3",
+        "date_us": "09-14-2025",
+        "time_us": "12:25 PM",
+        "venue": "Patio Brasil Shopping (Brasilia)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 60.0,
+            "team2_percent": 40.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round of 8",
+            "venue": "Patio Brasil Shopping (Brasilia)",
+            "country": "Brazil"
+        }
+    },
+    {
+        "slug": "cd_leonesa_vs_valladolid_basketball_09_14_2025_1230_pm",
+        "league": "Spanish Cup",
+        "match_format": null,
+        "match_description": "Tour 1",
+        "team1": "CD Leonesa",
+        "team2": "Valladolid",
+        "date_us": "09-14-2025",
+        "time_us": "12:30 PM",
+        "venue": "Palacio de los Deportes de Leon (Leon)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 51.0,
+            "team2_percent": 49.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Tour 1",
+            "venue": "Palacio de los Deportes de Leon (Leon)",
+            "country": "Spain"
+        }
+    },
+    {
+        "slug": "caxias_do_sul_u22_vs_pato_basquete_u22_basketball_09_14_2025_0100_pm",
+        "league": "Brazil Championship. LDB U22",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Caxias do Sul U22",
+        "team2": "Pato Basquete U22",
+        "date_us": "09-14-2025",
+        "time_us": "01:00 PM",
+        "venue": "Helio Mauricio (Rio de Janeiro)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 75.0,
+            "team2_percent": 25.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Helio Mauricio (Rio de Janeiro)",
+            "country": "Brazil"
+        }
+    },
+    {
+        "slug": "raudondvaris_hoptrans_3x3_vs_sao_paulo_3x3_basketball_09_14_2025_0105_pm",
+        "league": "Challenger 3x3. Brasilia",
+        "match_format": null,
+        "match_description": "Round of 8",
+        "team1": "Raudondvaris Hoptrans 3x3",
+        "team2": "Sao Paulo 3x3",
+        "date_us": "09-14-2025",
+        "time_us": "01:05 PM",
+        "venue": "Patio Brasil Shopping (Brasilia)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 73.0,
+            "team2_percent": 27.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round of 8",
+            "venue": "Patio Brasil Shopping (Brasilia)",
+            "country": "Brazil"
+        }
+    },
+    {
+        "slug": "breakpoint_waregem_(women)_vs_kortrijk_(women)_basketball_09_14_2025_0130_pm",
+        "league": "Belgium Championship. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Breakpoint Waregem (Women)",
+        "team2": "Kortrijk (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "01:30 PM",
+        "venue": "Sporthal De Treffer (Waregem)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 59.0,
+            "team2_percent": 41.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Sporthal De Treffer (Waregem)",
+            "country": "Belgium"
+        }
+    },
+    {
+        "slug": "riffa_3x3_vs_amsterdam_3x3_basketball_09_14_2025_0130_pm",
+        "league": "Challenger 3x3. Brasilia",
+        "match_format": null,
+        "match_description": "Round of 8",
+        "team1": "Riffa 3x3",
+        "team2": "Amsterdam 3x3",
+        "date_us": "09-14-2025",
+        "time_us": "01:30 PM",
+        "venue": "Patio Brasil Shopping (Brasilia)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 56.99999999999999,
+            "team2_percent": 43.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round of 8",
+            "venue": "Patio Brasil Shopping (Brasilia)",
+            "country": "Brazil"
+        }
+    },
+    {
+        "slug": "lobos_coquimbo_u21_vs_san_francisco_u21_basketball_09_14_2025_0300_pm",
+        "league": "Chile. Liga Desarrollo U21",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Lobos Coquimbo U21",
+        "team2": "San Francisco U21",
+        "date_us": "09-14-2025",
+        "time_us": "03:00 PM",
+        "venue": "Techado Municipal (Coquimbo)",
+        "odds": null,
+        "win_probability": null,
+        "details": {
+            "venue": "Techado Municipal (Coquimbo)",
+            "country": "Chile"
+        }
+    },
+    {
+        "slug": "providencia_u21_vs_new_leader´s_u21_basketball_09_14_2025_0300_pm",
+        "league": "Chile. Liga Desarrollo U21",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Providencia U21",
+        "team2": "New Leader´s U21",
+        "date_us": "09-14-2025",
+        "time_us": "03:00 PM",
+        "venue": "Centro Deportivo El Aguilucho (Providencia)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 59.0,
+            "team2_percent": 41.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Centro Deportivo El Aguilucho (Providencia)",
+            "country": "Chile"
+        }
+    }
+]

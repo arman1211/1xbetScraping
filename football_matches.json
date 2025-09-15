@@ -1,0 +1,1481 @@
+[
+    {
+        "slug": "espanyol_vs_mallorca_football_09_15_2025_0300_pm",
+        "league": "Spain. La Liga",
+        "match_format": null,
+        "match_description": "Round 4",
+        "team1": "Espanyol",
+        "team2": "Mallorca",
+        "date_us": "09-15-2025",
+        "time_us": "03:00 PM",
+        "venue": "RCDE Stadium (Barcelona)",
+        "odds": {
+            "team1_win": 2.296,
+            "draw": 3.34,
+            "team2_win": 3.565
+        },
+        "win_probability": {
+            "team1_percent": 43.0,
+            "team2_percent": 28.000000000000004,
+            "draw_percent": 28.999999999999996
+        },
+        "details": {
+            "round_stage": "Round 4",
+            "venue": "RCDE Stadium (Barcelona)",
+            "temperature_celsius": "+25°C",
+            "country": "Spain",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "765",
+            "humidity_percent": "84",
+            "precipitation_percent": "6"
+        }
+    },
+    {
+        "slug": "hellas_verona_vs_cremonese_football_09_15_2025_1230_pm",
+        "league": "Italy. Serie A",
+        "match_format": null,
+        "match_description": "Round 3",
+        "team1": "Hellas Verona",
+        "team2": "Cremonese",
+        "date_us": "09-15-2025",
+        "time_us": "12:30 PM",
+        "venue": "Marc'Antonio Bentegodi (Verona)",
+        "odds": {
+            "team1_win": 2.789,
+            "draw": 3.105,
+            "team2_win": 2.985
+        },
+        "win_probability": {
+            "team1_percent": 35.0,
+            "team2_percent": 33.0,
+            "draw_percent": 32.0
+        },
+        "details": {
+            "round_stage": "Round 3",
+            "venue": "Marc'Antonio Bentegodi (Verona)",
+            "temperature_celsius": "+25°C",
+            "country": "Italy",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "763",
+            "humidity_percent": "60",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "como_vs_genoa_football_09_15_2025_0245_pm",
+        "league": "Italy. Serie A",
+        "match_format": null,
+        "match_description": "Round 3",
+        "team1": "Como",
+        "team2": "Genoa",
+        "date_us": "09-15-2025",
+        "time_us": "02:45 PM",
+        "venue": "Giuseppe Sinigaglia (Como)",
+        "odds": {
+            "team1_win": 1.721,
+            "draw": 3.81,
+            "team2_win": 5.82
+        },
+        "win_probability": {
+            "team1_percent": 56.99999999999999,
+            "team2_percent": 17.0,
+            "draw_percent": 26.0
+        },
+        "details": {
+            "round_stage": "Round 3",
+            "venue": "Giuseppe Sinigaglia (Como)",
+            "temperature_celsius": "+21°C",
+            "country": "Italy",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "764",
+            "humidity_percent": "80",
+            "precipitation_percent": "8"
+        }
+    },
+    {
+        "slug": "home_vs_away_football_09_15_2025_1230_pm",
+        "league": "Italy. Serie A",
+        "match_format": null,
+        "match_description": "2 Matches",
+        "team1": "Home",
+        "team2": "Away",
+        "date_us": "09-15-2025",
+        "time_us": "12:30 PM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 1.701,
+            "draw": 4.885,
+            "team2_win": 3.515
+        },
+        "win_probability": {
+            "team1_percent": 55.00000000000001,
+            "team2_percent": 26.0,
+            "draw_percent": 19.0
+        },
+        "details": {
+            "round_stage": "Round 3",
+            "country": "Italy"
+        }
+    },
+    {
+        "slug": "al_sharjah_vs_al_gharafa_football_09_15_2025_0945_am",
+        "league": "AFC Champions League Elite",
+        "match_format": null,
+        "match_description": "League Stage West. Round 1",
+        "team1": "Al Sharjah",
+        "team2": "Al-Gharafa",
+        "date_us": "09-15-2025",
+        "time_us": "09:45 AM",
+        "venue": "Sharjah (Sharjah)",
+        "odds": {
+            "team1_win": 1.97,
+            "draw": 3.46,
+            "team2_win": 3.905
+        },
+        "win_probability": {
+            "team1_percent": 48.0,
+            "team2_percent": 24.0,
+            "draw_percent": 28.000000000000004
+        },
+        "details": {
+            "round_stage": "League Stage West. Round 1",
+            "venue": "Sharjah (Sharjah)",
+            "temperature_celsius": "+35°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "753",
+            "humidity_percent": "55",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "al_wahda_abu_dhabi_vs_al_ittihad_jeddah_football_09_15_2025_1200_pm",
+        "league": "AFC Champions League Elite",
+        "match_format": null,
+        "match_description": "League Stage West. Round 1",
+        "team1": "Al-Wahda Abu Dhabi",
+        "team2": "Al-Ittihad Jeddah",
+        "date_us": "09-15-2025",
+        "time_us": "12:00 PM",
+        "venue": "Al Nahyan (Abu Dhabi)",
+        "odds": {
+            "team1_win": 4.1,
+            "draw": 4,
+            "team2_win": 1.79
+        },
+        "win_probability": {
+            "team1_percent": 23.0,
+            "team2_percent": 53.0,
+            "draw_percent": 24.0
+        },
+        "details": {
+            "round_stage": "League Stage West. Round 1",
+            "venue": "Al Nahyan (Abu Dhabi)",
+            "temperature_celsius": "+34°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "754",
+            "humidity_percent": "64",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "ufa_vs_ural_football_09_15_2025_1000_am",
+        "league": "Russian Championship. League 1",
+        "match_format": null,
+        "match_description": "Round 10",
+        "team1": "Ufa",
+        "team2": "Ural",
+        "date_us": "09-15-2025",
+        "time_us": "10:00 AM",
+        "venue": "Neftyanik (Ufa)",
+        "odds": {
+            "team1_win": 4.62,
+            "draw": 3.29,
+            "team2_win": 1.899
+        },
+        "win_probability": {
+            "team1_percent": 21.0,
+            "team2_percent": 50.0,
+            "draw_percent": 28.999999999999996
+        },
+        "details": {
+            "round_stage": "Round 10",
+            "venue": "Neftyanik (Ufa)",
+            "temperature_celsius": "+15°C",
+            "country": "Russia",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "770",
+            "humidity_percent": "63",
+            "precipitation_percent": "3"
+        }
+    },
+    {
+        "slug": "neftekhimik_nizhnekamsk_vs_yenisey_krasnoyarsk_football_09_15_2025_1130_am",
+        "league": "Russian Championship. League 1",
+        "match_format": null,
+        "match_description": "Round 10",
+        "team1": "Neftekhimik Nizhnekamsk",
+        "team2": "Yenisey Krasnoyarsk",
+        "date_us": "09-15-2025",
+        "time_us": "11:30 AM",
+        "venue": "Neftekhimik (Nizhnekamsk)",
+        "odds": {
+            "team1_win": 2.531,
+            "draw": 3.15,
+            "team2_win": 2.988
+        },
+        "win_probability": {
+            "team1_percent": 38.0,
+            "team2_percent": 32.0,
+            "draw_percent": 30.0
+        },
+        "details": {
+            "round_stage": "Round 10",
+            "venue": "Neftekhimik (Nizhnekamsk)",
+            "temperature_celsius": "+14°C",
+            "country": "Russia",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "770",
+            "humidity_percent": "73",
+            "precipitation_percent": "4"
+        }
+    },
+    {
+        "slug": "chernomorets_novorossiysk_vs_chaika_peschanokopskoye_football_09_15_2025_1200_pm",
+        "league": "Russian Championship. League 1",
+        "match_format": null,
+        "match_description": "Round 10",
+        "team1": "Chernomorets Novorossiysk",
+        "team2": "Chaika Peschanokopskoye",
+        "date_us": "09-15-2025",
+        "time_us": "12:00 PM",
+        "venue": "Centralnyi (Novorossiysk)",
+        "odds": {
+            "team1_win": 1.536,
+            "draw": 4.025,
+            "team2_win": 6.76
+        },
+        "win_probability": {
+            "team1_percent": 62.0,
+            "team2_percent": 14.000000000000002,
+            "draw_percent": 24.0
+        },
+        "details": {
+            "round_stage": "Round 10",
+            "venue": "Centralnyi (Novorossiysk)",
+            "temperature_celsius": "+22°C",
+            "country": "Russia",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "762",
+            "humidity_percent": "45",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "home_vs_away_football_09_15_2025_1000_am",
+        "league": "Russian Championship. League 1",
+        "match_format": null,
+        "match_description": "4 Matches",
+        "team1": "Home",
+        "team2": "Away",
+        "date_us": "09-15-2025",
+        "time_us": "10:00 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 1.781,
+            "draw": 6.47,
+            "team2_win": 2.777
+        },
+        "win_probability": {
+            "team1_percent": 52.0,
+            "team2_percent": 33.0,
+            "draw_percent": 15.0
+        },
+        "details": {
+            "round_stage": "Round 10",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "tokyo_vs_tokyo_verdy_football_09_15_2025_0600_am",
+        "league": "Japan. J-League",
+        "match_format": null,
+        "match_description": "Round 29",
+        "team1": "Tokyo",
+        "team2": "Tokyo Verdy",
+        "date_us": "09-15-2025",
+        "time_us": "06:00 AM",
+        "venue": "Ajinomoto (Chofu)",
+        "odds": {
+            "team1_win": 2.348,
+            "draw": 3.1,
+            "team2_win": 3.345
+        },
+        "win_probability": {
+            "team1_percent": 41.0,
+            "team2_percent": 28.999999999999996,
+            "draw_percent": 30.0
+        },
+        "details": {
+            "round_stage": "Round 29",
+            "venue": "Ajinomoto (Chofu)",
+            "temperature_celsius": "+29°C",
+            "country": "Japan",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "762",
+            "humidity_percent": "76",
+            "precipitation_percent": "24"
+        }
+    },
+    {
+        "slug": "dinamo_brest_vs_neman_grodno_football_09_15_2025_1200_pm",
+        "league": "Belarus. Premier League",
+        "match_format": null,
+        "match_description": "Round 21",
+        "team1": "Dinamo Brest",
+        "team2": "Neman Grodno",
+        "date_us": "09-15-2025",
+        "time_us": "12:00 PM",
+        "venue": "Sport Complex Brestsky (Brest)",
+        "odds": {
+            "team1_win": 2.51,
+            "draw": 3.24,
+            "team2_win": 2.897
+        },
+        "win_probability": {
+            "team1_percent": 38.0,
+            "team2_percent": 33.0,
+            "draw_percent": 28.999999999999996
+        },
+        "details": {
+            "round_stage": "Round 21",
+            "venue": "Sport Complex Brestsky (Brest)",
+            "temperature_celsius": "+17°C",
+            "country": "Belarus",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "762",
+            "humidity_percent": "68",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "home_vs_away_football_09_15_2025_1200_pm",
+        "league": "Belarus. Premier League",
+        "match_format": null,
+        "match_description": "2 Matches",
+        "team1": "Home",
+        "team2": "Away",
+        "date_us": "09-15-2025",
+        "time_us": "12:00 PM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 2,
+            "draw": 3.8,
+            "team2_win": 3.035
+        },
+        "win_probability": {
+            "team1_percent": 46.0,
+            "team2_percent": 30.0,
+            "draw_percent": 24.0
+        },
+        "details": {
+            "round_stage": "Round 21",
+            "country": "Belarus"
+        }
+    },
+    {
+        "slug": "tzeirey_umm_el_fahem_vs_hapoel_beit_shean_mesilot_football_09_15_2025_1130_am",
+        "league": "Israel State Cup",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Tzeirey Umm El Fahem",
+        "team2": "Hapoel Beit Shean Mesilot",
+        "date_us": "09-15-2025",
+        "time_us": "11:30 AM",
+        "venue": "HaShalom (Umm al-Fahm)",
+        "odds": {
+            "team1_win": 1.92,
+            "draw": 3.52,
+            "team2_win": 3.4
+        },
+        "win_probability": {
+            "team1_percent": 47.0,
+            "team2_percent": 27.0,
+            "draw_percent": 26.0
+        },
+        "details": {
+            "venue": "HaShalom (Umm al-Fahm)",
+            "temperature_celsius": "+25°C",
+            "country": "Israel",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "758",
+            "humidity_percent": "69",
+            "precipitation_percent": "3"
+        }
+    },
+    {
+        "slug": "asahi_intecc_loveledge_nagoya_(women)_vs_speranza_osaka_takatsuki_(women)_football_09_15_2025_0100_am",
+        "league": "Japan. League 1. Women",
+        "match_format": null,
+        "match_description": "Round 18",
+        "team1": "Asahi Intecc Loveledge Nagoya (Women)",
+        "team2": "Speranza Osaka-Takatsuki (Women)",
+        "date_us": "09-15-2025",
+        "time_us": "01:00 AM",
+        "venue": "Green Field Nakaike (Seki)",
+        "odds": {
+            "team1_win": 1.23,
+            "draw": 4.9,
+            "team2_win": 12.3
+        },
+        "win_probability": {
+            "team1_percent": 74.0,
+            "team2_percent": 7.000000000000001,
+            "draw_percent": 19.0
+        },
+        "details": {
+            "round_stage": "Round 18",
+            "venue": "Green Field Nakaike (Seki)",
+            "temperature_celsius": "+35°C",
+            "country": "Japan",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "760",
+            "humidity_percent": "48",
+            "precipitation_percent": "6"
+        }
+    },
+    {
+        "slug": "nojima_stella_(women)_vs_inac_kobe_leonessa_(women)_football_09_15_2025_0100_am",
+        "league": "Japan. WE League. Women",
+        "match_format": null,
+        "match_description": "Round 6",
+        "team1": "Nojima Stella (Women)",
+        "team2": "INAC Kobe Leonessa (Women)",
+        "date_us": "09-15-2025",
+        "time_us": "01:00 AM",
+        "venue": "Sagamihara Gion (Sagamihara)",
+        "odds": {
+            "team1_win": 14,
+            "draw": 4.65,
+            "team2_win": 1.23
+        },
+        "win_probability": {
+            "team1_percent": 6.0,
+            "team2_percent": 74.0,
+            "draw_percent": 20.0
+        },
+        "details": {
+            "round_stage": "Round 6",
+            "venue": "Sagamihara Gion (Sagamihara)",
+            "temperature_celsius": "+30°C",
+            "country": "Japan",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "63",
+            "precipitation_percent": "13"
+        }
+    },
+    {
+        "slug": "tiamo_hirakata_vs_yokogawa_musashino_football_09_15_2025_0130_am",
+        "league": "Japan. Japan Football League",
+        "match_format": null,
+        "match_description": "Round 21",
+        "team1": "Tiamo Hirakata",
+        "team2": "Yokogawa Musashino",
+        "date_us": "09-15-2025",
+        "time_us": "01:30 AM",
+        "venue": "Hirakata City Stadium (Hirakata)",
+        "odds": {
+            "team1_win": 1.91,
+            "draw": 3.32,
+            "team2_win": 3.645
+        },
+        "win_probability": {
+            "team1_percent": 48.0,
+            "team2_percent": 25.0,
+            "draw_percent": 27.0
+        },
+        "details": {
+            "round_stage": "Round 21",
+            "venue": "Hirakata City Stadium (Hirakata)",
+            "temperature_celsius": "+33°C",
+            "country": "Japan",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "760",
+            "humidity_percent": "58",
+            "precipitation_percent": "8"
+        }
+    },
+    {
+        "slug": "harima_albion_(women)_vs_nippon_sport_science_university_(women)_football_09_15_2025_0200_am",
+        "league": "Japan. League 1. Women",
+        "match_format": null,
+        "match_description": "Round 18",
+        "team1": "Harima Albion (Women)",
+        "team2": "Nippon Sport Science University (Women)",
+        "date_us": "09-15-2025",
+        "time_us": "02:00 AM",
+        "venue": "Himeji City Stadium (Himeji)",
+        "odds": {
+            "team1_win": 2,
+            "draw": 3.1,
+            "team2_win": 3.615
+        },
+        "win_probability": {
+            "team1_percent": 45.0,
+            "team2_percent": 25.0,
+            "draw_percent": 30.0
+        },
+        "details": {
+            "round_stage": "Round 18",
+            "venue": "Himeji City Stadium (Himeji)",
+            "temperature_celsius": "+32°C",
+            "country": "Japan",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "761",
+            "humidity_percent": "63",
+            "precipitation_percent": "6"
+        }
+    },
+    {
+        "slug": "salsette_vs_mumbai_marines_football_09_15_2025_0330_am",
+        "league": "India. Mumbai. Super League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Salsette",
+        "team2": "Mumbai Marines",
+        "date_us": "09-15-2025",
+        "time_us": "03:30 AM",
+        "venue": "Neville D'souza (Mumbai)",
+        "odds": {
+            "team1_win": 10.8,
+            "draw": 6.25,
+            "team2_win": 1.182
+        },
+        "win_probability": {
+            "team1_percent": 8.0,
+            "team2_percent": 77.0,
+            "draw_percent": 15.0
+        },
+        "details": {
+            "venue": "Neville D'souza (Mumbai)",
+            "temperature_celsius": "+28°C",
+            "country": "India",
+            "weather_condition": "Cloudy, rain",
+            "pressure_mmhg": "755",
+            "humidity_percent": "84",
+            "precipitation_percent": "99"
+        }
+    },
+    {
+        "slug": "sc_bengaluru_vs_hindustan_aeronautics_limited_s.c._football_09_15_2025_0400_am",
+        "league": "India. Bangalore. Super Division",
+        "match_format": null,
+        "match_description": null,
+        "team1": "SC Bengaluru",
+        "team2": "Hindustan Aeronautics Limited S.C.",
+        "date_us": "09-15-2025",
+        "time_us": "04:00 AM",
+        "venue": "Bangalore Football Stadium (Bengaluru)",
+        "odds": {
+            "team1_win": 1.929,
+            "draw": 3.32,
+            "team2_win": 3.585
+        },
+        "win_probability": {
+            "team1_percent": 47.0,
+            "team2_percent": 25.0,
+            "draw_percent": 28.000000000000004
+        },
+        "details": {
+            "venue": "Bangalore Football Stadium (Bengaluru)",
+            "temperature_celsius": "+28°C",
+            "country": "India",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "756",
+            "humidity_percent": "59",
+            "precipitation_percent": "8"
+        }
+    },
+    {
+        "slug": "osaka_vs_tochigi_city_football_09_15_2025_0400_am",
+        "league": "Japan. J3 League",
+        "match_format": null,
+        "match_description": "Round 27",
+        "team1": "Osaka",
+        "team2": "Tochigi City",
+        "date_us": "09-15-2025",
+        "time_us": "04:00 AM",
+        "venue": "Hanazono Rugby Stadium (Higashiosaka)",
+        "odds": {
+            "team1_win": 2.54,
+            "draw": 3.24,
+            "team2_win": 2.46
+        },
+        "win_probability": {
+            "team1_percent": 36.0,
+            "team2_percent": 37.0,
+            "draw_percent": 27.0
+        },
+        "details": {
+            "round_stage": "Round 27",
+            "venue": "Hanazono Rugby Stadium (Higashiosaka)",
+            "temperature_celsius": "+32°C",
+            "country": "Japan",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "58",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "cerezo_osaka_(women)_vs_ntv_beleza_(women)_football_09_15_2025_0400_am",
+        "league": "Japan. WE League. Women",
+        "match_format": null,
+        "match_description": "Round 6",
+        "team1": "Cerezo Osaka (Women)",
+        "team2": "NTV Beleza (Women)",
+        "date_us": "09-15-2025",
+        "time_us": "04:00 AM",
+        "venue": "Yodoko Sakura (Osaka)",
+        "odds": {
+            "team1_win": 11.5,
+            "draw": 5.05,
+            "team2_win": 1.23
+        },
+        "win_probability": {
+            "team1_percent": 8.0,
+            "team2_percent": 74.0,
+            "draw_percent": 18.0
+        },
+        "details": {
+            "round_stage": "Round 6",
+            "venue": "Yodoko Sakura (Osaka)",
+            "temperature_celsius": "+32°C",
+            "country": "Japan",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "59",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "persela_lamongan_vs_deltras_football_09_15_2025_0430_am",
+        "league": "Indonesia. Championship",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Persela Lamongan",
+        "team2": "Deltras",
+        "date_us": "09-15-2025",
+        "time_us": "04:30 AM",
+        "venue": "Surajaya (Lamongan)",
+        "odds": {
+            "team1_win": 1.84,
+            "draw": 3.3,
+            "team2_win": 3.955
+        },
+        "win_probability": {
+            "team1_percent": 49.0,
+            "team2_percent": 23.0,
+            "draw_percent": 28.000000000000004
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Surajaya (Lamongan)",
+            "temperature_celsius": "+32°C",
+            "country": "Indonesia",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "756",
+            "humidity_percent": "59",
+            "precipitation_percent": "12"
+        }
+    },
+    {
+        "slug": "ryukyu_vs_zweigen_kanazawa_football_09_15_2025_0500_am",
+        "league": "Japan. J3 League",
+        "match_format": null,
+        "match_description": "Round 27",
+        "team1": "Ryukyu",
+        "team2": "Zweigen Kanazawa",
+        "date_us": "09-15-2025",
+        "time_us": "05:00 AM",
+        "venue": "Tapic Kenso Hiyagon (Okinawa)",
+        "odds": {
+            "team1_win": 3.585,
+            "draw": 3.35,
+            "team2_win": 1.92
+        },
+        "win_probability": {
+            "team1_percent": 25.0,
+            "team2_percent": 47.0,
+            "draw_percent": 28.000000000000004
+        },
+        "details": {
+            "round_stage": "Round 27",
+            "venue": "Tapic Kenso Hiyagon (Okinawa)",
+            "temperature_celsius": "+30°C",
+            "country": "Japan",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "761",
+            "humidity_percent": "73",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "vonds_ichihara_vs_tokyo_united_football_09_15_2025_0500_am",
+        "league": "Japan. Regional League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Vonds Ichihara",
+        "team2": "Tokyo United",
+        "date_us": "09-15-2025",
+        "time_us": "05:00 AM",
+        "venue": "ZA Oripri (Ichihara)",
+        "odds": {
+            "team1_win": 2.6,
+            "draw": 3.8,
+            "team2_win": 2.22
+        },
+        "win_probability": {
+            "team1_percent": 35.0,
+            "team2_percent": 41.0,
+            "draw_percent": 24.0
+        },
+        "details": {
+            "venue": "ZA Oripri (Ichihara)",
+            "temperature_celsius": "+28°C",
+            "country": "Japan",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "761",
+            "humidity_percent": "81",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "saikhamakawn_vs_chanmari_football_09_15_2025_0530_am",
+        "league": "India. Mizoram Premier League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Saikhamakawn",
+        "team2": "Chanmari",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "Rajiv Gandhi (Aizawl)",
+        "odds": {
+            "team1_win": 4.12,
+            "draw": 3.44,
+            "team2_win": 1.77
+        },
+        "win_probability": {
+            "team1_percent": 22.0,
+            "team2_percent": 51.0,
+            "draw_percent": 27.0
+        },
+        "details": {
+            "venue": "Rajiv Gandhi (Aizawl)",
+            "temperature_celsius": "+23°C",
+            "country": "India",
+            "weather_condition": "Gloomy, rain",
+            "pressure_mmhg": "755",
+            "humidity_percent": "87",
+            "precipitation_percent": "43"
+        }
+    },
+    {
+        "slug": "rtc_vs_paro_football_09_15_2025_0600_am",
+        "league": "Bhutan. Premier League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "RTC",
+        "team2": "Paro",
+        "date_us": "09-15-2025",
+        "time_us": "06:00 AM",
+        "venue": "RTC (Thimphu)",
+        "odds": {
+            "team1_win": 6.88,
+            "draw": 4.95,
+            "team2_win": 1.33
+        },
+        "win_probability": {
+            "team1_percent": 13.0,
+            "team2_percent": 68.0,
+            "draw_percent": 19.0
+        },
+        "details": {
+            "venue": "RTC (Thimphu)",
+            "temperature_celsius": "+18°C",
+            "country": "Bhutan",
+            "weather_condition": "Gloomy, rain",
+            "pressure_mmhg": "757",
+            "humidity_percent": "89",
+            "precipitation_percent": "39"
+        }
+    },
+    {
+        "slug": "roasso_kumamoto_vs_tokushima_vortis_football_09_15_2025_0600_am",
+        "league": "Japan. J-League Division 2",
+        "match_format": null,
+        "match_description": "Round 29",
+        "team1": "Roasso Kumamoto",
+        "team2": "Tokushima Vortis",
+        "date_us": "09-15-2025",
+        "time_us": "06:00 AM",
+        "venue": "Egao Kenko (Kumamoto)",
+        "odds": {
+            "team1_win": 2.81,
+            "draw": 3.08,
+            "team2_win": 2.45
+        },
+        "win_probability": {
+            "team1_percent": 33.0,
+            "team2_percent": 37.0,
+            "draw_percent": 30.0
+        },
+        "details": {
+            "round_stage": "Round 29",
+            "venue": "Egao Kenko (Kumamoto)",
+            "temperature_celsius": "+29°C",
+            "country": "Japan",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "762",
+            "humidity_percent": "81",
+            "precipitation_percent": "4"
+        }
+    },
+    {
+        "slug": "changnyeong_(women)_vs_suwon_(women)_football_09_15_2025_0600_am",
+        "league": "South Korea. WK-League",
+        "match_format": null,
+        "match_description": "Round 24",
+        "team1": "Changnyeong (Women)",
+        "team2": "Suwon (Women)",
+        "date_us": "09-15-2025",
+        "time_us": "06:00 AM",
+        "venue": "Changning (Bugok)",
+        "odds": {
+            "team1_win": 10.1,
+            "draw": 5.35,
+            "team2_win": 1.23
+        },
+        "win_probability": {
+            "team1_percent": 9.0,
+            "team2_percent": 74.0,
+            "draw_percent": 17.0
+        },
+        "details": {
+            "round_stage": "Round 24",
+            "venue": "Changning (Bugok)",
+            "temperature_celsius": "+24°C",
+            "country": "South Korea",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "762",
+            "humidity_percent": "84",
+            "precipitation_percent": "5"
+        }
+    },
+    {
+        "slug": "gyeongju_(women)_vs_sejong_sportstoto_(women)_football_09_15_2025_0600_am",
+        "league": "South Korea. WK-League",
+        "match_format": null,
+        "match_description": "Round 24",
+        "team1": "Gyeongju (Women)",
+        "team2": "Sejong Sportstoto (Women)",
+        "date_us": "09-15-2025",
+        "time_us": "06:00 AM",
+        "venue": "Sports Complex (Gyeongju)",
+        "odds": {
+            "team1_win": 1.7,
+            "draw": 3.52,
+            "team2_win": 4.405
+        },
+        "win_probability": {
+            "team1_percent": 54.0,
+            "team2_percent": 21.0,
+            "draw_percent": 25.0
+        },
+        "details": {
+            "round_stage": "Round 24",
+            "venue": "Sports Complex (Gyeongju)",
+            "temperature_celsius": "+26°C",
+            "country": "South Korea",
+            "weather_condition": "Gloomy, rain",
+            "pressure_mmhg": "762",
+            "humidity_percent": "83",
+            "precipitation_percent": "51"
+        }
+    },
+    {
+        "slug": "hyundai_steel_red_angels_(women)_vs_hwacheon_kspo_(women)_football_09_15_2025_0600_am",
+        "league": "South Korea. WK-League",
+        "match_format": null,
+        "match_description": "Round 24",
+        "team1": "Hyundai Steel Red Angels (Women)",
+        "team2": "Hwacheon KSPO (Women)",
+        "date_us": "09-15-2025",
+        "time_us": "06:00 AM",
+        "venue": "Namdong Rugby (Namdong)",
+        "odds": {
+            "team1_win": 3.21,
+            "draw": 3.32,
+            "team2_win": 2.06
+        },
+        "win_probability": {
+            "team1_percent": 28.000000000000004,
+            "team2_percent": 44.0,
+            "draw_percent": 28.000000000000004
+        },
+        "details": {
+            "round_stage": "Round 24",
+            "venue": "Namdong Rugby (Namdong)",
+            "temperature_celsius": "+26°C",
+            "country": "South Korea",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "761",
+            "humidity_percent": "81",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "seoul_city_amazones_(women)_vs_mungyeong_sangmu_(women)_football_09_15_2025_0600_am",
+        "league": "South Korea. WK-League",
+        "match_format": null,
+        "match_description": "Round 24",
+        "team1": "Seoul City Amazones (Women)",
+        "team2": "Mungyeong Sangmu (Women)",
+        "date_us": "09-15-2025",
+        "time_us": "06:00 AM",
+        "venue": "Sangam Auxiliary Stadium (Seoul)",
+        "odds": {
+            "team1_win": 1.66,
+            "draw": 3.82,
+            "team2_win": 4.26
+        },
+        "win_probability": {
+            "team1_percent": 55.00000000000001,
+            "team2_percent": 21.0,
+            "draw_percent": 24.0
+        },
+        "details": {
+            "round_stage": "Round 24",
+            "venue": "Sangam Auxiliary Stadium (Seoul)",
+            "temperature_celsius": "+27°C",
+            "country": "South Korea",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "761",
+            "humidity_percent": "70",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "south_united_bangalore_vs_kodagu_football_09_15_2025_0630_am",
+        "league": "India. Bangalore. Super Division",
+        "match_format": null,
+        "match_description": null,
+        "team1": "South United Bangalore",
+        "team2": "Kodagu",
+        "date_us": "09-15-2025",
+        "time_us": "06:30 AM",
+        "venue": "Bangalore Football Stadium (Bengaluru)",
+        "odds": {
+            "team1_win": 2.903,
+            "draw": 3.44,
+            "team2_win": 2.16
+        },
+        "win_probability": {
+            "team1_percent": 31.0,
+            "team2_percent": 42.0,
+            "draw_percent": 27.0
+        },
+        "details": {
+            "venue": "Bangalore Football Stadium (Bengaluru)",
+            "temperature_celsius": "+27°C",
+            "country": "India",
+            "weather_condition": "Gloomy, rain and thunderstorms",
+            "pressure_mmhg": "754",
+            "humidity_percent": "63",
+            "precipitation_percent": "32"
+        }
+    },
+    {
+        "slug": "crewe_alexandra_u21_vs_brentford_u21_football_09_15_2025_0700_am",
+        "league": "England. Development League U21",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Crewe Alexandra U21",
+        "team2": "Brentford U21",
+        "date_us": "09-15-2025",
+        "time_us": "07:00 AM",
+        "venue": "Alexandra (Crewe)",
+        "odds": {
+            "team1_win": 5.36,
+            "draw": 4.7,
+            "team2_win": 1.43
+        },
+        "win_probability": {
+            "team1_percent": 17.0,
+            "team2_percent": 64.0,
+            "draw_percent": 19.0
+        },
+        "details": {
+            "venue": "Alexandra (Crewe)",
+            "temperature_celsius": "+15°C",
+            "country": "England",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "749",
+            "humidity_percent": "72",
+            "precipitation_percent": "24"
+        }
+    },
+    {
+        "slug": "club_nacional_ii_vs_club_olimpia_ii_football_09_15_2025_0700_am",
+        "league": "Paraguay. Reserve League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Club Nacional II",
+        "team2": "Club Olimpia II",
+        "date_us": "09-15-2025",
+        "time_us": "07:00 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 1.55,
+            "draw": 4.25,
+            "team2_win": 4.595
+        },
+        "win_probability": {
+            "team1_percent": 59.0,
+            "team2_percent": 20.0,
+            "draw_percent": 21.0
+        },
+        "details": {
+            "country": "Paraguay"
+        }
+    },
+    {
+        "slug": "holy_family_vs_bentiu_city_football_09_15_2025_0700_am",
+        "league": "South Sudan. Premier League",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Holy Family",
+        "team2": "Bentiu City",
+        "date_us": "09-15-2025",
+        "time_us": "07:00 AM",
+        "venue": "Juba (Juba)",
+        "odds": {
+            "team1_win": 1.42,
+            "draw": 5.1,
+            "team2_win": 4.725
+        },
+        "win_probability": {
+            "team1_percent": 63.0,
+            "team2_percent": 19.0,
+            "draw_percent": 18.0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Juba (Juba)",
+            "temperature_celsius": "+31°C",
+            "country": "South Sudan",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "756",
+            "humidity_percent": "54",
+            "precipitation_percent": "18"
+        }
+    },
+    {
+        "slug": "fergana_state_university_vs_jayxun_football_09_15_2025_0700_am",
+        "league": "Uzbekistan. Pro League",
+        "match_format": null,
+        "match_description": "Round 14",
+        "team1": "Fergana State University",
+        "team2": "Jayxun",
+        "date_us": "09-15-2025",
+        "time_us": "07:00 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 2.39,
+            "draw": 3,
+            "team2_win": 2.948
+        },
+        "win_probability": {
+            "team1_percent": 38.0,
+            "team2_percent": 31.0,
+            "draw_percent": 31.0
+        },
+        "details": {
+            "round_stage": "Round 14",
+            "country": "Uzbekistan"
+        }
+    },
+    {
+        "slug": "hulbuk_vs_barkchi_gissar_football_09_15_2025_0715_am",
+        "league": "Tajikistan Championship",
+        "match_format": null,
+        "match_description": "Round 16",
+        "team1": "Hulbuk",
+        "team2": "Barkchi Gissar",
+        "date_us": "09-15-2025",
+        "time_us": "07:15 AM",
+        "venue": "Central (Kulob)",
+        "odds": {
+            "team1_win": 2.56,
+            "draw": 3.04,
+            "team2_win": 2.56
+        },
+        "win_probability": {
+            "team1_percent": 35.0,
+            "team2_percent": 35.0,
+            "draw_percent": 30.0
+        },
+        "details": {
+            "round_stage": "Round 16",
+            "venue": "Central (Kulob)",
+            "temperature_celsius": "+31°C",
+            "country": "Tajikistan",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "759",
+            "humidity_percent": "27",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "mawlai_vs_mylliem_football_09_15_2025_0730_am",
+        "league": "India. Premier League. Shillong",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Mawlai",
+        "team2": "Mylliem",
+        "date_us": "09-15-2025",
+        "time_us": "07:30 AM",
+        "venue": "SSA (Shillong)",
+        "odds": {
+            "team1_win": 1.64,
+            "draw": 4.1,
+            "team2_win": 4.14
+        },
+        "win_probability": {
+            "team1_percent": 56.00000000000001,
+            "team2_percent": 22.0,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "venue": "SSA (Shillong)",
+            "temperature_celsius": "+19°C",
+            "country": "India",
+            "weather_condition": "Cloudy, rain",
+            "pressure_mmhg": "756",
+            "humidity_percent": "93",
+            "precipitation_percent": "31"
+        }
+    },
+    {
+        "slug": "coventry_city_u21_vs_bournemouth_u21_football_09_15_2025_0800_am",
+        "league": "England. Development League U21",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Coventry City U21",
+        "team2": "Bournemouth U21",
+        "date_us": "09-15-2025",
+        "time_us": "08:00 AM",
+        "venue": "Ricoh Arena (Coventry)",
+        "odds": {
+            "team1_win": 2.44,
+            "draw": 4,
+            "team2_win": 2.22
+        },
+        "win_probability": {
+            "team1_percent": 37.0,
+            "team2_percent": 41.0,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "venue": "Ricoh Arena (Coventry)",
+            "temperature_celsius": "+17°C",
+            "country": "England",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "751",
+            "humidity_percent": "60",
+            "precipitation_percent": "15"
+        }
+    },
+    {
+        "slug": "sheffield_wednesday_u21_vs_queens_park_rangers_u21_football_09_15_2025_0800_am",
+        "league": "England. Development League U21",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Sheffield Wednesday U21",
+        "team2": "Queens Park Rangers U21",
+        "date_us": "09-15-2025",
+        "time_us": "08:00 AM",
+        "venue": "Middlewood Road Training Ground (Sheffield)",
+        "odds": {
+            "team1_win": 1.92,
+            "draw": 4,
+            "team2_win": 3.045
+        },
+        "win_probability": {
+            "team1_percent": 47.0,
+            "team2_percent": 30.0,
+            "draw_percent": 23.0
+        },
+        "details": {
+            "venue": "Middlewood Road Training Ground (Sheffield)",
+            "temperature_celsius": "+15°C",
+            "country": "England",
+            "weather_condition": "Gloomy, rain",
+            "pressure_mmhg": "747",
+            "humidity_percent": "73",
+            "precipitation_percent": "41"
+        }
+    },
+    {
+        "slug": "pss_sleman_vs_persiba_balikpapan_football_09_15_2025_0800_am",
+        "league": "Indonesia. Championship",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "PSS Sleman",
+        "team2": "Persiba Balikpapan",
+        "date_us": "09-15-2025",
+        "time_us": "08:00 AM",
+        "venue": "Maguwoharjo (Yogyakarta)",
+        "odds": {
+            "team1_win": 1.199,
+            "draw": 5.65,
+            "team2_win": 11.4
+        },
+        "win_probability": {
+            "team1_percent": 76.0,
+            "team2_percent": 8.0,
+            "draw_percent": 16.0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Maguwoharjo (Yogyakarta)",
+            "temperature_celsius": "+26°C",
+            "country": "Indonesia",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "759",
+            "humidity_percent": "88",
+            "precipitation_percent": "13"
+        }
+    },
+    {
+        "slug": "kitchee_u22_vs_southern_district_u22_football_09_15_2025_0845_am",
+        "league": "Hong Kong. Premier League U22",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Kitchee U22",
+        "team2": "Southern District U22",
+        "date_us": "09-15-2025",
+        "time_us": "08:45 AM",
+        "venue": "Kowloon Bay Park (Kowloon)",
+        "odds": {
+            "team1_win": 2.18,
+            "draw": 3.72,
+            "team2_win": 2.696
+        },
+        "win_probability": {
+            "team1_percent": 42.0,
+            "team2_percent": 34.0,
+            "draw_percent": 24.0
+        },
+        "details": {
+            "venue": "Kowloon Bay Park (Kowloon)",
+            "temperature_celsius": "+29°C",
+            "country": "Hong Kong",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "759",
+            "humidity_percent": "77",
+            "precipitation_percent": "13"
+        }
+    },
+    {
+        "slug": "perlis_gsa_vs_darul_takzim_ii_football_09_15_2025_0845_am",
+        "league": "Malaysia. Liga A1",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Perlis GSA",
+        "team2": "Darul Takzim II",
+        "date_us": "09-15-2025",
+        "time_us": "08:45 AM",
+        "venue": "Tuanku Syed Putra (Kangar)",
+        "odds": {
+            "team1_win": 2.914,
+            "draw": 3.44,
+            "team2_win": 2.15
+        },
+        "win_probability": {
+            "team1_percent": 31.0,
+            "team2_percent": 42.0,
+            "draw_percent": 27.0
+        },
+        "details": {
+            "venue": "Tuanku Syed Putra (Kangar)",
+            "temperature_celsius": "+27°C",
+            "country": "Malaysia",
+            "weather_condition": "Gloomy, rain",
+            "pressure_mmhg": "758",
+            "humidity_percent": "87",
+            "precipitation_percent": "47"
+        }
+    },
+    {
+        "slug": "egypt_stars_vs_el_minya_football_09_15_2025_0900_am",
+        "league": "Egypt. Second Division B",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Egypt Stars",
+        "team2": "El Minya",
+        "date_us": "09-15-2025",
+        "time_us": "09:00 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 2.33,
+            "draw": 2.79,
+            "team2_win": 3.21
+        },
+        "win_probability": {
+            "team1_percent": 39.0,
+            "team2_percent": 28.000000000000004,
+            "draw_percent": 33.0
+        },
+        "details": {
+            "country": "Egypt"
+        }
+    },
+    {
+        "slug": "ms_tamya_vs_beni_mazar_football_09_15_2025_0900_am",
+        "league": "Egypt. Second Division B",
+        "match_format": null,
+        "match_description": null,
+        "team1": "MS Tamya",
+        "team2": "Beni Mazar",
+        "date_us": "09-15-2025",
+        "time_us": "09:00 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 2.54,
+            "draw": 2.82,
+            "team2_win": 2.77
+        },
+        "win_probability": {
+            "team1_percent": 35.0,
+            "team2_percent": 33.0,
+            "draw_percent": 32.0
+        },
+        "details": {
+            "country": "Egypt"
+        }
+    },
+    {
+        "slug": "penang_vs_melaka_football_09_15_2025_0900_am",
+        "league": "Malaysia. FA Cup",
+        "match_format": null,
+        "match_description": "Round of 16",
+        "team1": "Penang",
+        "team2": "Melaka",
+        "date_us": "09-15-2025",
+        "time_us": "09:00 AM",
+        "venue": "Bandar Raya Pulau Penang (Georgetown)",
+        "odds": {
+            "team1_win": 2.34,
+            "draw": 3.48,
+            "team2_win": 2.53
+        },
+        "win_probability": {
+            "team1_percent": 39.0,
+            "team2_percent": 36.0,
+            "draw_percent": 25.0
+        },
+        "details": {
+            "round_stage": "Round of 16",
+            "venue": "Bandar Raya Pulau Penang (Georgetown)",
+            "temperature_celsius": "+27°C",
+            "country": "Malaysia",
+            "weather_condition": "Cloudy, rain",
+            "pressure_mmhg": "758",
+            "humidity_percent": "79",
+            "precipitation_percent": "30"
+        }
+    },
+    {
+        "slug": "paris_saint_germain_vs_atalanta_football_09_17_2025_0300_pm",
+        "league": "UEFA Champions League",
+        "match_format": null,
+        "match_description": "League phase. Round 1",
+        "team1": "Paris Saint-Germain",
+        "team2": "Atalanta",
+        "date_us": "09-17-2025",
+        "time_us": "03:00 PM",
+        "venue": "Parc des Princes (Paris)",
+        "odds": {
+            "team1_win": 1.468,
+            "draw": 4.79,
+            "team2_win": 6.59
+        },
+        "win_probability": {
+            "team1_percent": 65.0,
+            "team2_percent": 15.0,
+            "draw_percent": 20.0
+        },
+        "details": {
+            "round_stage": "League phase. Round 1",
+            "venue": "Parc des Princes (Paris)",
+            "temperature_celsius": "+20°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "765",
+            "humidity_percent": "66",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "olympique_de_marseille_vs_paris_saint_germain_football_09_21_2025_0245_pm",
+        "league": "France. Ligue 1",
+        "match_format": null,
+        "match_description": "Round 5",
+        "team1": "Olympique de Marseille",
+        "team2": "Paris Saint-Germain",
+        "date_us": "09-21-2025",
+        "time_us": "02:45 PM",
+        "venue": "Velodrome (Marseille)",
+        "odds": {
+            "team1_win": 3.725,
+            "draw": 3.975,
+            "team2_win": 2.018
+        },
+        "win_probability": {
+            "team1_percent": 26.0,
+            "team2_percent": 49.0,
+            "draw_percent": 25.0
+        },
+        "details": {
+            "round_stage": "Round 5",
+            "venue": "Velodrome (Marseille)",
+            "country": "France"
+        }
+    },
+    {
+        "slug": "paris_saint_germain_vs_auxerre_football_09_27_2025_0305_pm",
+        "league": "France. Ligue 1",
+        "match_format": null,
+        "match_description": "Round 6",
+        "team1": "Paris Saint-Germain",
+        "team2": "Auxerre",
+        "date_us": "09-27-2025",
+        "time_us": "03:05 PM",
+        "venue": "Parc des Princes (Paris)",
+        "odds": {
+            "team1_win": 1.208,
+            "draw": 8.05,
+            "team2_win": 15.5
+        },
+        "win_probability": {
+            "team1_percent": 81.0,
+            "team2_percent": 6.0,
+            "draw_percent": 13.0
+        },
+        "details": {
+            "round_stage": "Round 6",
+            "venue": "Parc des Princes (Paris)",
+            "country": "France"
+        }
+    }
+]

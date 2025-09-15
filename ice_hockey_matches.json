@@ -1,0 +1,1241 @@
+[
+    {
+        "slug": "neftekhimik_vs_lokomotiv_yaroslavl_ice_hockey_09_14_2025_0700_am",
+        "league": "Kontinental Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Neftekhimik",
+        "team2": "Lokomotiv Yaroslavl",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Neftekhimik Ice Palace (Nizhnekamsk)",
+        "odds": {
+            "team1_win": 4.42,
+            "draw": 4.3,
+            "team2_win": 1.72
+        },
+        "win_probability": {
+            "team1_percent": 22.0,
+            "team2_percent": 56.00000000000001,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "venue": "Neftekhimik Ice Palace (Nizhnekamsk)"
+        }
+    },
+    {
+        "slug": "ak_bars_kazan_vs_metallurg_magnitogorsk_ice_hockey_09_14_2025_1000_am",
+        "league": "Kontinental Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Ak Bars Kazan",
+        "team2": "Metallurg Magnitogorsk",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "TatNeft Arena (Kazan)",
+        "odds": {
+            "team1_win": 2.4,
+            "draw": 4.1,
+            "team2_win": 2.75
+        },
+        "win_probability": {
+            "team1_percent": 41.0,
+            "team2_percent": 36.0,
+            "draw_percent": 23.0
+        },
+        "details": {
+            "venue": "TatNeft Arena (Kazan)"
+        }
+    },
+    {
+        "slug": "severstal_cherepovets_vs_cska_moscow_ice_hockey_09_14_2025_1000_am",
+        "league": "Kontinental Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Severstal Cherepovets",
+        "team2": "CSKA Moscow",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Ice Palace (Cherepovets)",
+        "odds": {
+            "team1_win": 2.899,
+            "draw": 3.95,
+            "team2_win": 2.3
+        },
+        "win_probability": {
+            "team1_percent": 33.0,
+            "team2_percent": 42.0,
+            "draw_percent": 25.0
+        },
+        "details": {
+            "venue": "Ice Palace (Cherepovets)"
+        }
+    },
+    {
+        "slug": "ska_saint_petersburg_vs_lada_togliatti_ice_hockey_09_14_2025_1000_am",
+        "league": "Kontinental Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "SKA Saint Petersburg",
+        "team2": "Lada Togliatti",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Ice Palace (Saint Petersburg)",
+        "odds": {
+            "team1_win": 1.67,
+            "draw": 4.3,
+            "team2_win": 4.885
+        },
+        "win_probability": {
+            "team1_percent": 57.99999999999999,
+            "team2_percent": 20.0,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "venue": "Ice Palace (Saint Petersburg)"
+        }
+    },
+    {
+        "slug": "sochi_vs_traktor_chelyabinsk_ice_hockey_09_14_2025_1000_am",
+        "league": "Kontinental Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Sochi",
+        "team2": "Traktor Chelyabinsk",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Bolshoy Ice Dome (Sochi)",
+        "odds": {
+            "team1_win": 4.42,
+            "draw": 4.2,
+            "team2_win": 1.76
+        },
+        "win_probability": {
+            "team1_percent": 22.0,
+            "team2_percent": 55.00000000000001,
+            "draw_percent": 23.0
+        },
+        "details": {
+            "venue": "Bolshoy Ice Dome (Sochi)"
+        }
+    },
+    {
+        "slug": "spartak_moscow_vs_torpedo_nizhny_novgorod_ice_hockey_09_14_2025_1000_am",
+        "league": "Kontinental Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Spartak Moscow",
+        "team2": "Torpedo Nizhny Novgorod",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Megasport Sport Palace (Moscow)",
+        "odds": {
+            "team1_win": 1.97,
+            "draw": 4.2,
+            "team2_win": 3.62
+        },
+        "win_probability": {
+            "team1_percent": 50.0,
+            "team2_percent": 27.0,
+            "draw_percent": 23.0
+        },
+        "details": {
+            "venue": "Megasport Sport Palace (Moscow)"
+        }
+    },
+    {
+        "slug": "home_vs_away_ice_hockey_09_14_2025_0700_am",
+        "league": "Kontinental Hockey League",
+        "match_format": null,
+        "match_description": "6 Matches",
+        "team1": "Home",
+        "team2": "Away",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 2.09,
+            "draw": 13,
+            "team2_win": 1.9
+        },
+        "win_probability": {
+            "team1_percent": 44.0,
+            "team2_percent": 49.0,
+            "draw_percent": 7.000000000000001
+        },
+        "details": null
+    },
+    {
+        "slug": "krefeld_pinguine_vs_kassel_huskies_ice_hockey_09_14_2025_0900_am",
+        "league": "Club Friendlies",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Krefeld Pinguine",
+        "team2": "Kassel Huskies",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Yayla Arena (Krefeld)",
+        "odds": {
+            "team1_win": 2.36,
+            "draw": 3.96,
+            "team2_win": 2.36
+        },
+        "win_probability": {
+            "team1_percent": 39.0,
+            "team2_percent": 39.0,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "venue": "Yayla Arena (Krefeld)"
+        }
+    },
+    {
+        "slug": "ik_comet_vs_gruner_il_ice_hockey_09_14_2025_0900_am",
+        "league": "Club Friendlies",
+        "match_format": null,
+        "match_description": null,
+        "team1": "IK Comet",
+        "team2": "Gruner IL",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "Halden Ishall (Halden)",
+        "odds": {
+            "team1_win": 1.88,
+            "draw": 4.33,
+            "team2_win": 3.05
+        },
+        "win_probability": {
+            "team1_percent": 49.0,
+            "team2_percent": 30.0,
+            "draw_percent": 21.0
+        },
+        "details": {
+            "venue": "Halden Ishall (Halden)"
+        }
+    },
+    {
+        "slug": "rote_teufel_bad_nauheim_vs_dusseldorfer_eg_ice_hockey_09_14_2025_1000_am",
+        "league": "Club Friendlies",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Rote Teufel Bad Nauheim",
+        "team2": "Dusseldorfer EG",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Colonel-Knight (Bad Nauheim)",
+        "odds": {
+            "team1_win": 3.21,
+            "draw": 4.2,
+            "team2_win": 1.85
+        },
+        "win_probability": {
+            "team1_percent": 28.999999999999996,
+            "team2_percent": 50.0,
+            "draw_percent": 21.0
+        },
+        "details": {
+            "venue": "Colonel-Knight (Bad Nauheim)"
+        }
+    },
+    {
+        "slug": "blue_devils_weiden_vs_esv_kaufbeuren_ice_hockey_09_14_2025_1230_pm",
+        "league": "Club Friendlies",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Blue Devils Weiden",
+        "team2": "ESV Kaufbeuren",
+        "date_us": "09-14-2025",
+        "time_us": "12:30 PM",
+        "venue": "Hans-Schropf-Arena (Weiden in der Oberpfalz)",
+        "odds": {
+            "team1_win": 1.87,
+            "draw": 4.2,
+            "team2_win": 3.155
+        },
+        "win_probability": {
+            "team1_percent": 49.0,
+            "team2_percent": 28.999999999999996,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "venue": "Hans-Schropf-Arena (Weiden in der Oberpfalz)"
+        }
+    },
+    {
+        "slug": "norilsk_vs_rostov_ice_hockey_09_14_2025_0630_am",
+        "league": "VHL",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Norilsk",
+        "team2": "Rostov",
+        "date_us": "09-14-2025",
+        "time_us": "06:30 AM",
+        "venue": "Sports Palace Arctic (Norilsk)",
+        "odds": {
+            "team1_win": 1.81,
+            "draw": 4.3,
+            "team2_win": 3.535
+        },
+        "win_probability": {
+            "team1_percent": 52.0,
+            "team2_percent": 26.0,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "venue": "Sports Palace Arctic (Norilsk)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "molot_perm_vs_olimpiya_kirovo_chepetsk_ice_hockey_09_14_2025_0800_am",
+        "league": "VHL",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Molot Perm",
+        "team2": "Olimpiya Kirovo-Chepetsk",
+        "date_us": "09-14-2025",
+        "time_us": "08:00 AM",
+        "venue": "Molot (Perm)",
+        "odds": {
+            "team1_win": 1.51,
+            "draw": 4.8,
+            "team2_win": 5.06
+        },
+        "win_probability": {
+            "team1_percent": 62.0,
+            "team2_percent": 19.0,
+            "draw_percent": 19.0
+        },
+        "details": {
+            "venue": "Molot (Perm)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "yugra_vs_neftyanik_almetyevsk_ice_hockey_09_14_2025_0800_am",
+        "league": "VHL",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Yugra",
+        "team2": "Neftyanik Almetyevsk",
+        "date_us": "09-14-2025",
+        "time_us": "08:00 AM",
+        "venue": "Ugra (Khanty-Mansiysk)",
+        "odds": {
+            "team1_win": 1.95,
+            "draw": 3.95,
+            "team2_win": 3.295
+        },
+        "win_probability": {
+            "team1_percent": 48.0,
+            "team2_percent": 28.000000000000004,
+            "draw_percent": 24.0
+        },
+        "details": {
+            "venue": "Ugra (Khanty-Mansiysk)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "akm_tula_oblast_vs_magnitka_magnitogorsk_ice_hockey_09_14_2025_1000_am",
+        "league": "VHL",
+        "match_format": null,
+        "match_description": null,
+        "team1": "AKM Tula Oblast",
+        "team2": "Magnitka Magnitogorsk",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Novyy ledovyy dvorets (Tula)",
+        "odds": {
+            "team1_win": 2.39,
+            "draw": 3.86,
+            "team2_win": 2.52
+        },
+        "win_probability": {
+            "team1_percent": 39.0,
+            "team2_percent": 37.0,
+            "draw_percent": 24.0
+        },
+        "details": {
+            "venue": "Novyy ledovyy dvorets (Tula)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "ryazan_vdv_vs_yuzhny_ural_ice_hockey_09_14_2025_1000_am",
+        "league": "VHL",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Ryazan-VDV",
+        "team2": "Yuzhny Ural",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "Olympic Sports Palace (Ryazan)",
+        "odds": {
+            "team1_win": 1.76,
+            "draw": 4.05,
+            "team2_win": 3.935
+        },
+        "win_probability": {
+            "team1_percent": 53.0,
+            "team2_percent": 24.0,
+            "draw_percent": 23.0
+        },
+        "details": {
+            "venue": "Olympic Sports Palace (Ryazan)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "akademiya_ska_yunior_vs_taifun_ice_hockey_09_14_2025_0600_am",
+        "league": "Minor Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Akademiya SKA-Yunior",
+        "team2": "Taifun",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Hokkeynyy Gorod (Saint Petersburg)",
+        "odds": {
+            "team1_win": 2.06,
+            "draw": 4.25,
+            "team2_win": 2.821
+        },
+        "win_probability": {
+            "team1_percent": 45.0,
+            "team2_percent": 33.0,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "venue": "Hokkeynyy Gorod (Saint Petersburg)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "ladya_tolyatti_vs_kuznetskie_medvedi_ice_hockey_09_14_2025_0600_am",
+        "league": "Minor Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Ladya Tolyatti",
+        "team2": "Kuznetskie Medvedi",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Lada Arena (Tolyatti)",
+        "odds": {
+            "team1_win": 1.41,
+            "draw": 5.35,
+            "team2_win": 5.58
+        },
+        "win_probability": {
+            "team1_percent": 66.0,
+            "team2_percent": 17.0,
+            "draw_percent": 17.0
+        },
+        "details": {
+            "venue": "Lada Arena (Tolyatti)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "loko_76_vs_mhk_molot_ice_hockey_09_14_2025_0600_am",
+        "league": "Minor Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Loko-76",
+        "team2": "MHK Molot",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "MFSC Lokomotiv (Yaroslavl)",
+        "odds": {
+            "team1_win": 1.61,
+            "draw": 4.55,
+            "team2_win": 4.265
+        },
+        "win_probability": {
+            "team1_percent": 57.99999999999999,
+            "team2_percent": 22.0,
+            "draw_percent": 20.0
+        },
+        "details": {
+            "venue": "MFSC Lokomotiv (Yaroslavl)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "mhc_dynamo_karelia_vs_sakhalinskie_akuly_ice_hockey_09_14_2025_0600_am",
+        "league": "Minor Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "MHC Dynamo Karelia",
+        "team2": "Sakhalinskie Akuly",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Ice Palace (Kondopoga)",
+        "odds": {
+            "team1_win": 4.355,
+            "draw": 4.8,
+            "team2_win": 1.57
+        },
+        "win_probability": {
+            "team1_percent": 21.0,
+            "team2_percent": 59.0,
+            "draw_percent": 20.0
+        },
+        "details": {
+            "venue": "Ice Palace (Kondopoga)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "sputnik_almetyevsk_vs_snezhnye_barsy_ice_hockey_09_14_2025_0600_am",
+        "league": "Minor Hockey League",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Sputnik Almetyevsk",
+        "team2": "Snezhnye Barsy",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Yubilejny (Almetyevsk)",
+        "odds": {
+            "team1_win": 1.48,
+            "draw": 5.05,
+            "team2_win": 4.94
+        },
+        "win_probability": {
+            "team1_percent": 63.0,
+            "team2_percent": 19.0,
+            "draw_percent": 18.0
+        },
+        "details": {
+            "venue": "Yubilejny (Almetyevsk)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "roki_(women)_vs_karpat_(women)_ice_hockey_09_14_2025_0530_am",
+        "league": "Finland. Auroraliiga. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Roki (Women)",
+        "team2": "Karpat (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "05:30 AM",
+        "venue": "Lappi Areena (Rovaniemi)",
+        "odds": {
+            "team1_win": 4.515,
+            "draw": 6.34,
+            "team2_win": 1.37
+        },
+        "win_probability": {
+            "team1_percent": 20.0,
+            "team2_percent": 66.0,
+            "draw_percent": 14.000000000000002
+        },
+        "details": {
+            "venue": "Lappi Areena (Rovaniemi)",
+            "country": "Finland"
+        }
+    },
+    {
+        "slug": "metallurg_zhlobin_vs_brest_ice_hockey_09_14_2025_0540_am",
+        "league": "Belarus. Extraliga",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Metallurg Zhlobin",
+        "team2": "Brest",
+        "date_us": "09-14-2025",
+        "time_us": "05:40 AM",
+        "venue": "Ice Palace Metallurg (Zhlobin)",
+        "odds": {
+            "team1_win": 1.58,
+            "draw": 4.4,
+            "team2_win": 4.345
+        },
+        "win_probability": {
+            "team1_percent": 57.99999999999999,
+            "team2_percent": 21.0,
+            "draw_percent": 21.0
+        },
+        "details": {
+            "venue": "Ice Palace Metallurg (Zhlobin)",
+            "country": "Belarus"
+        }
+    },
+    {
+        "slug": "aviator_baranavichy_vs_yunost_minsk_ice_hockey_09_14_2025_0600_am",
+        "league": "Belarus. Extraliga",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Aviator Baranavichy",
+        "team2": "Yunost Minsk",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Sport Ice Palace (Baranovichy)",
+        "odds": {
+            "team1_win": 10.7,
+            "draw": 7.6,
+            "team2_win": 1.144
+        },
+        "win_probability": {
+            "team1_percent": 9.0,
+            "team2_percent": 80.0,
+            "draw_percent": 11.0
+        },
+        "details": {
+            "venue": "Sport Ice Palace (Baranovichy)",
+            "country": "Belarus"
+        }
+    },
+    {
+        "slug": "vitebsk_vs_gomel_ice_hockey_09_14_2025_0600_am",
+        "league": "Belarus. Extraliga",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Vitebsk",
+        "team2": "Gomel",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Vitebsk Ice Hall (Vitebsk)",
+        "odds": {
+            "team1_win": 1.99,
+            "draw": 3.68,
+            "team2_win": 3.16
+        },
+        "win_probability": {
+            "team1_percent": 46.0,
+            "team2_percent": 28.999999999999996,
+            "draw_percent": 25.0
+        },
+        "details": {
+            "venue": "Vitebsk Ice Hall (Vitebsk)",
+            "country": "Belarus"
+        }
+    },
+    {
+        "slug": "home_vs_away_ice_hockey_09_14_2025_0540_am",
+        "league": "Belarus. Extraliga",
+        "match_format": null,
+        "match_description": "4 Matches",
+        "team1": "Home",
+        "team2": "Away",
+        "date_us": "09-14-2025",
+        "time_us": "05:40 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 2.544,
+            "draw": 9,
+            "team2_win": 1.76
+        },
+        "win_probability": {
+            "team1_percent": 37.0,
+            "team2_percent": 53.0,
+            "draw_percent": 10.0
+        },
+        "details": {
+            "country": "Belarus"
+        }
+    },
+    {
+        "slug": "if_bjorkloven_u20_vs_modo_hockey_u20_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden Championship U20",
+        "match_format": null,
+        "match_description": null,
+        "team1": "IF Bjorkloven U20",
+        "team2": "Modo Hockey U20",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Winpos Arena (Umeo)",
+        "odds": {
+            "team1_win": 1.95,
+            "draw": 5.59,
+            "team2_win": 2.31
+        },
+        "win_probability": {
+            "team1_percent": 46.0,
+            "team2_percent": 38.0,
+            "draw_percent": 16.0
+        },
+        "details": {
+            "venue": "Winpos Arena (Umeo)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "linkopings_u20_vs_sodertalje_u20_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden Championship U20",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Linkopings U20",
+        "team2": "Sodertalje U20",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Stangebro Ishall (Linkoping)",
+        "odds": {
+            "team1_win": 1.2,
+            "draw": 7.5,
+            "team2_win": 6.87
+        },
+        "win_probability": {
+            "team1_percent": 75.0,
+            "team2_percent": 13.0,
+            "draw_percent": 12.0
+        },
+        "details": {
+            "venue": "Stangebro Ishall (Linkoping)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "lulea_u20_vs_aik_if_u20_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden Championship U20",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Lulea U20",
+        "team2": "AIK IF U20",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Coop Norrbotten Arena (Lulea)",
+        "odds": {
+            "team1_win": 3.375,
+            "draw": 5.81,
+            "team2_win": 1.56
+        },
+        "win_probability": {
+            "team1_percent": 27.0,
+            "team2_percent": 57.99999999999999,
+            "draw_percent": 15.0
+        },
+        "details": {
+            "venue": "Coop Norrbotten Arena (Lulea)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "mora_u20_vs_brynas_u20_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden Championship U20",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Mora U20",
+        "team2": "Brynas U20",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Smidjegrav Arena (Mora)",
+        "odds": {
+            "team1_win": 1.79,
+            "draw": 5.68,
+            "team2_win": 2.653
+        },
+        "win_probability": {
+            "team1_percent": 50.0,
+            "team2_percent": 34.0,
+            "draw_percent": 16.0
+        },
+        "details": {
+            "venue": "Smidjegrav Arena (Mora)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "rogle_u20_vs_vaxjo_lakers_u20_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden Championship U20",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Rogle U20",
+        "team2": "Vaxjo Lakers U20",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Catena Arena (Angelholm)",
+        "odds": {
+            "team1_win": 1.99,
+            "draw": 5.41,
+            "team2_win": 2.29
+        },
+        "win_probability": {
+            "team1_percent": 45.0,
+            "team2_percent": 39.0,
+            "draw_percent": 16.0
+        },
+        "details": {
+            "venue": "Catena Arena (Angelholm)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "farjestad_(women)_vs_skelleftea_(women)_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden. SDHL. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Farjestad (Women)",
+        "team2": "Skelleftea (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Lofbergs Arena (Karlstad)",
+        "odds": {
+            "team1_win": 2.12,
+            "draw": 3.72,
+            "team2_win": 2.856
+        },
+        "win_probability": {
+            "team1_percent": 43.0,
+            "team2_percent": 32.0,
+            "draw_percent": 25.0
+        },
+        "details": {
+            "venue": "Lofbergs Arena (Karlstad)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "frolunda_(women)_vs_djurgardens_(women)_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden. SDHL. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Frolunda (Women)",
+        "team2": "Djurgardens (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Frolundaborg (Gothenburg)",
+        "odds": {
+            "team1_win": 1.37,
+            "draw": 4.85,
+            "team2_win": 6.49
+        },
+        "win_probability": {
+            "team1_percent": 67.0,
+            "team2_percent": 14.000000000000002,
+            "draw_percent": 19.0
+        },
+        "details": {
+            "venue": "Frolundaborg (Gothenburg)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "hv71_(women)_vs_sde_hf_(women)_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden. SDHL. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "HV71 (Women)",
+        "team2": "SDE HF (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Kinnarps Arena (Jonkoping)",
+        "odds": {
+            "team1_win": 3.96,
+            "draw": 4.2,
+            "team2_win": 1.67
+        },
+        "win_probability": {
+            "team1_percent": 23.0,
+            "team2_percent": 55.00000000000001,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "venue": "Kinnarps Arena (Jonkoping)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "linkopings_(women)_vs_lulea_(women)_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden. SDHL. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Linkopings (Women)",
+        "team2": "Lulea (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Saab Arena (Linkoping)",
+        "odds": {
+            "team1_win": 4.12,
+            "draw": 4.1,
+            "team2_win": 1.66
+        },
+        "win_probability": {
+            "team1_percent": 22.0,
+            "team2_percent": 55.00000000000001,
+            "draw_percent": 23.0
+        },
+        "details": {
+            "venue": "Saab Arena (Linkoping)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "home_(women)_vs_away_(women)_ice_hockey_09_14_2025_0600_am",
+        "league": "Sweden. SDHL. Women",
+        "match_format": null,
+        "match_description": "4 Matches",
+        "team1": "Home (Women)",
+        "team2": "Away (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 2.1,
+            "draw": 8.5,
+            "team2_win": 2.05
+        },
+        "win_probability": {
+            "team1_percent": 44.0,
+            "team2_percent": 45.0,
+            "draw_percent": 11.0
+        },
+        "details": {
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "malmo_redhawks_u20_vs_frolunda_u20_ice_hockey_09_14_2025_0615_am",
+        "league": "Sweden Championship U20",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Malmo Redhawks U20",
+        "team2": "Frolunda U20",
+        "date_us": "09-14-2025",
+        "time_us": "06:15 AM",
+        "venue": "Malmo Isstadion (Malmo)",
+        "odds": {
+            "team1_win": 4.95,
+            "draw": 7.1,
+            "team2_win": 1.3
+        },
+        "win_probability": {
+            "team1_percent": 18.0,
+            "team2_percent": 69.0,
+            "draw_percent": 13.0
+        },
+        "details": {
+            "venue": "Malmo Isstadion (Malmo)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "mogo_vs_energija_elektrenai_ice_hockey_09_14_2025_0630_am",
+        "league": "Latvia. LHL",
+        "match_format": null,
+        "match_description": null,
+        "team1": "MOGO",
+        "team2": "Energija Elektrenai",
+        "date_us": "09-14-2025",
+        "time_us": "06:30 AM",
+        "venue": "Ice Hall Mogo (Riga)",
+        "odds": {
+            "team1_win": 1.083,
+            "draw": 9.6,
+            "team2_win": 14
+        },
+        "win_probability": {
+            "team1_percent": 84.0,
+            "team2_percent": 6.0,
+            "draw_percent": 10.0
+        },
+        "details": {
+            "venue": "Ice Hall Mogo (Riga)",
+            "country": "Latvia"
+        }
+    },
+    {
+        "slug": "hv71_u20_vs_vik_vasteras_u20_ice_hockey_09_14_2025_0630_am",
+        "league": "Sweden Championship U20",
+        "match_format": null,
+        "match_description": null,
+        "team1": "HV71 U20",
+        "team2": "VIK Vasteras U20",
+        "date_us": "09-14-2025",
+        "time_us": "06:30 AM",
+        "venue": "Virserums SGF (Virserum)",
+        "odds": {
+            "team1_win": 1.31,
+            "draw": 6.73,
+            "team2_win": 5
+        },
+        "win_probability": {
+            "team1_percent": 69.0,
+            "team2_percent": 18.0,
+            "draw_percent": 13.0
+        },
+        "details": {
+            "venue": "Virserums SGF (Virserum)",
+            "country": "Sweden"
+        }
+    },
+    {
+        "slug": "lokomotiv_orsha_vs_khimik_novopolotsk_ice_hockey_09_14_2025_0700_am",
+        "league": "Belarus. Extraliga",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Lokomotiv Orsha",
+        "team2": "Khimik Novopolotsk",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Ice Arena (Orsha)",
+        "odds": {
+            "team1_win": 2.17,
+            "draw": 3.62,
+            "team2_win": 2.828
+        },
+        "win_probability": {
+            "team1_percent": 42.0,
+            "team2_percent": 32.0,
+            "draw_percent": 26.0
+        },
+        "details": {
+            "venue": "Ice Arena (Orsha)",
+            "country": "Belarus"
+        }
+    },
+    {
+        "slug": "voyevoda_vs_fakel_salekhard_ice_hockey_09_14_2025_0700_am",
+        "league": "Chekhov Mayor Cup",
+        "match_format": null,
+        "match_description": "3rd Place",
+        "team1": "Voyevoda",
+        "team2": "Fakel Salekhard",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "IHC Vityaz (Chekhov)",
+        "odds": {
+            "team1_win": 2.32,
+            "draw": 5.2,
+            "team2_win": 2.2
+        },
+        "win_probability": {
+            "team1_percent": 40.0,
+            "team2_percent": 42.0,
+            "draw_percent": 18.0
+        },
+        "details": {
+            "round_stage": "3rd Place",
+            "venue": "IHC Vityaz (Chekhov)",
+            "country": "Russia"
+        }
+    },
+    {
+        "slug": "aalborg_pirates_vs_herlev_eagles_ice_hockey_09_14_2025_0730_am",
+        "league": "Denmark. Metal Ligaen",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Aalborg Pirates",
+        "team2": "Herlev Eagles",
+        "date_us": "09-14-2025",
+        "time_us": "07:30 AM",
+        "venue": "Sparekassen Danmark Arena (Aalborg)",
+        "odds": {
+            "team1_win": 1.6,
+            "draw": 4.65,
+            "team2_win": 4.265
+        },
+        "win_probability": {
+            "team1_percent": 57.99999999999999,
+            "team2_percent": 22.0,
+            "draw_percent": 20.0
+        },
+        "details": {
+            "venue": "Sparekassen Danmark Arena (Aalborg)",
+            "country": "Denmark"
+        }
+    },
+    {
+        "slug": "home_vs_away_ice_hockey_09_14_2025_0730_am",
+        "league": "Denmark. Metal Ligaen",
+        "match_format": null,
+        "match_description": "2 Matches",
+        "team1": "Home",
+        "team2": "Away",
+        "date_us": "09-14-2025",
+        "time_us": "07:30 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 1.29,
+            "draw": 8,
+            "team2_win": 5.7
+        },
+        "win_probability": {
+            "team1_percent": 72.0,
+            "team2_percent": 16.0,
+            "draw_percent": 12.0
+        },
+        "details": {
+            "country": "Denmark"
+        }
+    },
+    {
+        "slug": "dresden_eislowen_vs_erc_ingolstadt_ice_hockey_09_14_2025_0800_am",
+        "league": "Germany. DEL",
+        "match_format": null,
+        "match_description": "Tour 2",
+        "team1": "Dresden Eislowen",
+        "team2": "ERC Ingolstadt",
+        "date_us": "09-14-2025",
+        "time_us": "08:00 AM",
+        "venue": "JOYNEXT Arena (Dresden)",
+        "odds": {
+            "team1_win": 3.755,
+            "draw": 4.45,
+            "team2_win": 1.73
+        },
+        "win_probability": {
+            "team1_percent": 25.0,
+            "team2_percent": 54.0,
+            "draw_percent": 21.0
+        },
+        "details": {
+            "round_stage": "Tour 2",
+            "venue": "JOYNEXT Arena (Dresden)",
+            "country": "Germany"
+        }
+    },
+    {
+        "slug": "ehc_munchen_vs_fischtown_pinguins_ice_hockey_09_14_2025_0800_am",
+        "league": "Germany. DEL",
+        "match_format": null,
+        "match_description": "Tour 2",
+        "team1": "EHC Munchen",
+        "team2": "Fischtown Pinguins",
+        "date_us": "09-14-2025",
+        "time_us": "08:00 AM",
+        "venue": "SAP Garden (Munich)",
+        "odds": {
+            "team1_win": 1.929,
+            "draw": 4.15,
+            "team2_win": 3.235
+        },
+        "win_probability": {
+            "team1_percent": 49.0,
+            "team2_percent": 28.999999999999996,
+            "draw_percent": 22.0
+        },
+        "details": {
+            "round_stage": "Tour 2",
+            "venue": "SAP Garden (Munich)",
+            "country": "Germany"
+        }
+    },
+    {
+        "slug": "home_vs_away_ice_hockey_09_14_2025_0800_am",
+        "league": "Germany. DEL",
+        "match_format": null,
+        "match_description": "7 Matches",
+        "team1": "Home",
+        "team2": "Away",
+        "date_us": "09-14-2025",
+        "time_us": "08:00 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 1.77,
+            "draw": 15,
+            "team2_win": 2.249
+        },
+        "win_probability": {
+            "team1_percent": 52.0,
+            "team2_percent": 41.0,
+            "draw_percent": 7.000000000000001
+        },
+        "details": {
+            "round_stage": "Tour 2",
+            "country": "Germany"
+        }
+    },
+    {
+        "slug": "herning_blue_fox_vs_rungsted_ice_hockey_09_14_2025_0900_am",
+        "league": "Denmark. Metal Ligaen",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Herning Blue Fox",
+        "team2": "Rungsted",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "KVIK Hockey Arena (Herning)",
+        "odds": {
+            "team1_win": 1.454,
+            "draw": 5.15,
+            "team2_win": 5.18
+        },
+        "win_probability": {
+            "team1_percent": 64.0,
+            "team2_percent": 18.0,
+            "draw_percent": 18.0
+        },
+        "details": {
+            "venue": "KVIK Hockey Arena (Herning)",
+            "country": "Denmark"
+        }
+    },
+    {
+        "slug": "kalpa_(women)_vs_kuortane_(women)_ice_hockey_09_14_2025_0915_am",
+        "league": "Finland. Auroraliiga. Women",
+        "match_format": null,
+        "match_description": null,
+        "team1": "KalPa (Women)",
+        "team2": "Kuortane (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "09:15 AM",
+        "venue": "Olvi Arena (Kuopio)",
+        "odds": {
+            "team1_win": 4.235,
+            "draw": 5.51,
+            "team2_win": 1.44
+        },
+        "win_probability": {
+            "team1_percent": 21.0,
+            "team2_percent": 62.0,
+            "draw_percent": 17.0
+        },
+        "details": {
+            "venue": "Olvi Arena (Kuopio)",
+            "country": "Finland"
+        }
+    },
+    {
+        "slug": "davos_vs_ajoie_ice_hockey_09_14_2025_0945_am",
+        "league": "Switzerland. National League",
+        "match_format": null,
+        "match_description": "Tour 3",
+        "team1": "Davos",
+        "team2": "Ajoie",
+        "date_us": "09-14-2025",
+        "time_us": "09:45 AM",
+        "venue": "Vaillant Arena (Davos)",
+        "odds": {
+            "team1_win": 1.373,
+            "draw": 5.45,
+            "team2_win": 6.34
+        },
+        "win_probability": {
+            "team1_percent": 68.0,
+            "team2_percent": 15.0,
+            "draw_percent": 17.0
+        },
+        "details": {
+            "round_stage": "Tour 3",
+            "venue": "Vaillant Arena (Davos)",
+            "country": "Switzerland"
+        }
+    },
+    {
+        "slug": "ermak_angarsk_vs_buran_moscow_ice_hockey_09_14_2025_1000_am",
+        "league": "Chekhov Mayor Cup",
+        "match_format": null,
+        "match_description": "Final",
+        "team1": "Ermak Angarsk",
+        "team2": "Buran Moscow",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "IHC Vityaz (Chekhov)",
+        "odds": {
+            "team1_win": 1.96,
+            "draw": 5.3,
+            "team2_win": 2.656
+        },
+        "win_probability": {
+            "team1_percent": 47.0,
+            "team2_percent": 35.0,
+            "draw_percent": 18.0
+        },
+        "details": {
+            "round_stage": "Final",
+            "venue": "IHC Vityaz (Chekhov)",
+            "country": "Russia"
+        }
+    }
+]

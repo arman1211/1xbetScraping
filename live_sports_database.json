@@ -1,0 +1,989 @@
+{
+    "updated_at": "2025-09-15T06:39:25.355224-04:00",
+    "data": [
+        {
+            "game_id": 653759317,
+            "sport": "Cricket",
+            "league": "Zimbabwe vs Namibia",
+            "team1": "Zimbabwe",
+            "team2": "Namibia",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "211/3",
+                "team2_score": "161/5"
+            },
+            "odds": null,
+            "win_probability": null
+        },
+        {
+            "game_id": 653478822,
+            "sport": "Cricket",
+            "league": "South Africa A vs New Zealand A",
+            "team1": "South Africa A",
+            "team2": "New Zealand A",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "0/0",
+                "team2_score": "374/8"
+            },
+            "odds": null,
+            "win_probability": null
+        },
+        {
+            "game_id": 653779931,
+            "sport": "Cricket",
+            "league": "County Championship Division One",
+            "team1": "Surrey County",
+            "team2": "Nottinghamshire County",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "0/0",
+                "team2_score": "41/1"
+            },
+            "odds": null,
+            "win_probability": null
+        },
+        {
+            "game_id": 653730120,
+            "sport": "Cricket",
+            "league": "MCA Super Premier League",
+            "team1": "BBK Partnership Sri Lanka",
+            "team2": "Fairfirst Insurance",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "162/3",
+                "team2_score": "240/10"
+            },
+            "odds": null,
+            "win_probability": null
+        },
+        {
+            "game_id": 653772561,
+            "sport": "Cricket",
+            "league": "Hathras Cup",
+            "team1": "Royal Challengers Hathras",
+            "team2": "RS Warriors Hathras",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "166",
+                "team2_score": "52/0"
+            },
+            "odds": {
+                "team1_win": 4.46,
+                "draw": 25,
+                "team2_win": 1.168
+            },
+            "win_probability": {
+                "team1_percent": 20.01,
+                "draw_percent": 3.57,
+                "team2_percent": 76.42
+            }
+        },
+        {
+            "game_id": 653784844,
+            "sport": "Cricket",
+            "league": "India. Doctors Corporate League",
+            "team1": "Tagore Tigers Jaipur",
+            "team2": "ALCS Eagles",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "Half time",
+                "team1_score": "77",
+                "team2_score": "0/0"
+            },
+            "odds": null,
+            "win_probability": null
+        },
+        {
+            "game_id": 653777943,
+            "sport": "Cricket",
+            "league": "India. Salim Premier League",
+            "team1": "Friends Drass",
+            "team2": "Trespone Titans",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "Half time",
+                "team1_score": "253",
+                "team2_score": "0/0"
+            },
+            "odds": {
+                "team1_win": 1.02,
+                "draw": 25,
+                "team2_win": 9.63
+            },
+            "win_probability": {
+                "team1_percent": 87.21,
+                "draw_percent": 3.56,
+                "team2_percent": 9.24
+            }
+        },
+        {
+            "game_id": 653771199,
+            "sport": "Cricket",
+            "league": "India. Red Premier League",
+            "team1": "Global Dadoo Titans",
+            "team2": "Hill View Rajouri",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "190",
+                "team2_score": "45/1"
+            },
+            "odds": {
+                "team1_win": 1.81,
+                "draw": 25,
+                "team2_win": 1.888
+            },
+            "win_probability": {
+                "team1_percent": 49.23,
+                "draw_percent": 3.56,
+                "team2_percent": 47.2
+            }
+        },
+        {
+            "game_id": 653770530,
+            "sport": "Cricket",
+            "league": "Agra District Womens League",
+            "team1": "Agra Royals (Women)",
+            "team2": "Star Eleven (Women)",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "143",
+                "team2_score": "22/1"
+            },
+            "odds": {
+                "team1_win": 1.685,
+                "draw": 25,
+                "team2_win": 2.15
+            },
+            "win_probability": {
+                "team1_percent": 54.02,
+                "draw_percent": 3.64,
+                "team2_percent": 42.34
+            }
+        },
+        {
+            "game_id": 653792179,
+            "sport": "Cricket",
+            "league": "Agra District Womens League",
+            "team1": "Vidyasagar Cricket Academy (Women)",
+            "team2": "Radha Madhav Cricket Club (Women)",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "26/0",
+                "team2_score": "0"
+            },
+            "odds": {
+                "team1_win": 2.01,
+                "draw": 25,
+                "team2_win": 1.78
+            },
+            "win_probability": {
+                "team1_percent": 45.26,
+                "draw_percent": 3.64,
+                "team2_percent": 51.1
+            }
+        },
+        {
+            "game_id": 653769550,
+            "sport": "Cricket",
+            "league": "Akluj Rural Championship",
+            "team1": "City Hulks",
+            "team2": "Bhigwan Riders",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "155",
+                "team2_score": "66/3"
+            },
+            "odds": {
+                "team1_win": 1.52,
+                "draw": 25,
+                "team2_win": 2.496
+            },
+            "win_probability": {
+                "team1_percent": 59.89,
+                "draw_percent": 3.64,
+                "team2_percent": 36.47
+            }
+        },
+        {
+            "game_id": 653771258,
+            "sport": "Cricket",
+            "league": "Chandigarh League",
+            "team1": "Dharani Village Bihar Club",
+            "team2": "Gamdevi CC",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "220",
+                "team2_score": "122/3"
+            },
+            "odds": {
+                "team1_win": 1.655,
+                "draw": 25,
+                "team2_win": 2.2
+            },
+            "win_probability": {
+                "team1_percent": 54.99,
+                "draw_percent": 3.64,
+                "team2_percent": 41.37
+            }
+        },
+        {
+            "game_id": 653778046,
+            "sport": "Cricket",
+            "league": "Amateur league T10",
+            "team1": "Amethi Sunrisers",
+            "team2": "Mahatma XI",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "163",
+                "team2_score": "106/1"
+            },
+            "odds": null,
+            "win_probability": null
+        },
+        {
+            "game_id": 653790177,
+            "sport": "Cricket",
+            "league": "Amateur league T10",
+            "team1": "Winning Star XI",
+            "team2": "Tunga Sports",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "95/2",
+                "team2_score": "0"
+            },
+            "odds": {
+                "team1_win": 1.85,
+                "draw": 25,
+                "team2_win": 1.925
+            },
+            "win_probability": {
+                "team1_percent": 49.14,
+                "draw_percent": 3.64,
+                "team2_percent": 47.22
+            }
+        },
+        {
+            "game_id": 653785687,
+            "sport": "Cricket",
+            "league": "Chennai daily cricket",
+            "team1": "Catchers",
+            "team2": "Wild Cats",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "138",
+                "team2_score": "15/0"
+            },
+            "odds": {
+                "team1_win": 2.015,
+                "draw": 25,
+                "team2_win": 1.795
+            },
+            "win_probability": {
+                "team1_percent": 45.39,
+                "draw_percent": 3.66,
+                "team2_percent": 50.95
+            }
+        },
+        {
+            "game_id": 653792247,
+            "sport": "Cricket",
+            "league": "Chennai daily cricket",
+            "team1": "Nitros",
+            "team2": "Hustlers Chennai",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "30/1",
+                "team2_score": "0"
+            },
+            "odds": {
+                "team1_win": 1.9,
+                "draw": 25,
+                "team2_win": 1.9
+            },
+            "win_probability": {
+                "team1_percent": 48.17,
+                "draw_percent": 3.66,
+                "team2_percent": 48.17
+            }
+        },
+        {
+            "game_id": 653792278,
+            "sport": "Cricket",
+            "league": "India. Indoor Series",
+            "team1": "Indoorheroes",
+            "team2": "Triumphants1",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "66/0",
+                "team2_score": "0"
+            },
+            "odds": {
+                "team1_win": 1.97,
+                "draw": 25,
+                "team2_win": 1.816
+            },
+            "win_probability": {
+                "team1_percent": 46.22,
+                "draw_percent": 3.64,
+                "team2_percent": 50.14
+            }
+        },
+        {
+            "game_id": 653785999,
+            "sport": "Cricket",
+            "league": "India. Indoor Series",
+            "team1": "Stunners Indoor",
+            "team2": "Rampage Indoor",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "128",
+                "team2_score": "86/2"
+            },
+            "odds": {
+                "team1_win": 7.02,
+                "draw": 25,
+                "team2_win": 1.09
+            },
+            "win_probability": {
+                "team1_percent": 12.95,
+                "draw_percent": 3.64,
+                "team2_percent": 83.41
+            }
+        },
+        {
+            "game_id": 653785932,
+            "sport": "Cricket",
+            "league": "India. Women's Indoor league T-10",
+            "team1": "Fast Hornets (Women)",
+            "team2": "Sweet Gulls (Women)",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "137",
+                "team2_score": "69/4"
+            },
+            "odds": null,
+            "win_probability": null
+        },
+        {
+            "game_id": 653786135,
+            "sport": "Cricket",
+            "league": "Cricket 24. Cyber League",
+            "team1": "England (cyber)",
+            "team2": "Sri Lanka (cyber)",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "0/0",
+                "team2_score": "97/2"
+            },
+            "odds": {
+                "team2_win": 6.11
+            },
+            "win_probability": {
+                "team1_percent": 0.0,
+                "draw_percent": null,
+                "team2_percent": 100.0
+            }
+        },
+        {
+            "game_id": 653774521,
+            "sport": "Cricket",
+            "league": "Cricket 24. Cyber League",
+            "team1": "India (cyber)",
+            "team2": "South Africa (cyber)",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "138/4",
+                "team2_score": "180/6"
+            },
+            "odds": {
+                "team1_win": 2.375,
+                "team2_win": 1.495
+            },
+            "win_probability": {
+                "team1_percent": 38.63,
+                "draw_percent": null,
+                "team2_percent": 61.37
+            }
+        },
+        {
+            "game_id": 653780459,
+            "sport": "Cricket",
+            "league": "Cyber Indian League 24",
+            "team1": "Chennai Carvers (cyber)",
+            "team2": "Lucknow Super Giants (cyber)",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "149/3",
+                "team2_score": "33/2"
+            },
+            "odds": {
+                "team1_win": 2.58,
+                "team2_win": 1.405
+            },
+            "win_probability": {
+                "team1_percent": 35.26,
+                "draw_percent": null,
+                "team2_percent": 64.74
+            }
+        },
+        {
+            "game_id": 653792530,
+            "sport": "Cricket",
+            "league": "Cyber Indian League 24",
+            "team1": "Punjab Kings (cyber)",
+            "team2": "Kolkata Knight Riders (cyber)",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "",
+                "team1_score": "0/0",
+                "team2_score": "14/0"
+            },
+            "odds": {
+                "team1_win": 1.725,
+                "team2_win": 2.04
+            },
+            "win_probability": {
+                "team1_percent": 54.18,
+                "draw_percent": null,
+                "team2_percent": 45.82
+            }
+        },
+        {
+            "game_id": 653784200,
+            "sport": "Football",
+            "league": "Japan. J-League",
+            "team1": "Tokyo",
+            "team2": "Tokyo Verdy",
+            "live_score": {
+                "status": "36 minutes",
+                "current_period": "1st half",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 2.535,
+                "draw": 2.535,
+                "team2_win": 3.8
+            },
+            "win_probability": {
+                "team1_percent": 37.49,
+                "draw_percent": 37.49,
+                "team2_percent": 25.01
+            }
+        },
+        {
+            "game_id": 653779543,
+            "sport": "Ice Hockey",
+            "league": "Kontinental Hockey League",
+            "team1": "Admiral Vladivostok",
+            "team2": "Sibir Novosibirsk",
+            "live_score": {
+                "status": "34 minutes",
+                "current_period": "2nd period",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 1.485,
+                "draw": 4.16,
+                "team2_win": 7.52
+            },
+            "win_probability": {
+                "team1_percent": 64.33,
+                "draw_percent": 22.96,
+                "team2_percent": 12.7
+            }
+        },
+        {
+            "game_id": 653776517,
+            "sport": "Ice Hockey",
+            "league": "Kontinental Hockey League",
+            "team1": "Amur Khabarovsk",
+            "team2": "Shanghai Dragons",
+            "live_score": {
+                "status": "35 minutes",
+                "current_period": "2nd period",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 1.225,
+                "draw": 6.28,
+                "team2_win": 14.1
+            },
+            "win_probability": {
+                "team1_percent": 78.01,
+                "draw_percent": 15.22,
+                "team2_percent": 6.78
+            }
+        },
+        {
+            "game_id": 653792385,
+            "sport": "Tennis",
+            "league": "WTA. Caldas Da Rainha",
+            "team1": "Julie Belgraver",
+            "team2": "Daria Snigur",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "1st set",
+                "team1_score": "Sets: 0, Games: 0, Points: 30",
+                "team2_score": "Sets: 0, Games: 2, Points: 30"
+            },
+            "odds": {
+                "team1_win": 5.55,
+                "team2_win": 1.152
+            },
+            "win_probability": {
+                "team1_percent": 17.19,
+                "draw_percent": null,
+                "team2_percent": 82.81
+            }
+        },
+        {
+            "game_id": 653766401,
+            "sport": "Tennis",
+            "league": "WTA. Seoul",
+            "team1": "Laura Siegemund",
+            "team2": "Sofia Kenin",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "3rd set",
+                "team1_score": "Sets: 1, Games: 6, Points: A",
+                "team2_score": "Sets: 1, Games: 2, Points: 40"
+            },
+            "odds": {
+                "team1_win": 2.4,
+                "team2_win": 1.585
+            },
+            "win_probability": {
+                "team1_percent": 39.77,
+                "draw_percent": null,
+                "team2_percent": 60.23
+            }
+        },
+        {
+            "game_id": 653784377,
+            "sport": "Volleyball",
+            "league": "FIVB World Championship",
+            "team1": "Netherlands",
+            "team2": "Romania",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "2nd set",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 1.736,
+                "team2_win": 2.096
+            },
+            "win_probability": {
+                "team1_percent": 54.7,
+                "draw_percent": null,
+                "team2_percent": 45.3
+            }
+        },
+        {
+            "game_id": 653790194,
+            "sport": "Tennis",
+            "league": "WTA. Seoul. Doubles",
+            "team1": "Perez/Stollar",
+            "team2": "Christian/Hsieh",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "1st set",
+                "team1_score": "Sets: 0, Games: 3, Points: 30",
+                "team2_score": "Sets: 0, Games: 1, Points: 0"
+            },
+            "odds": {
+                "team1_win": 1.265,
+                "team2_win": 3.8
+            },
+            "win_probability": {
+                "team1_percent": 75.02,
+                "draw_percent": null,
+                "team2_percent": 24.98
+            }
+        },
+        {
+            "game_id": 653761484,
+            "sport": "Esports",
+            "league": "CS 2. Fissure Playground",
+            "team1": "Tyloo",
+            "team2": "TheMongolz",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "3rd map",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 3.07,
+                "team2_win": 1.375
+            },
+            "win_probability": {
+                "team1_percent": 30.93,
+                "draw_percent": null,
+                "team2_percent": 69.07
+            }
+        },
+        {
+            "game_id": 653761481,
+            "sport": "Esports",
+            "league": "CS 2. Fissure Playground",
+            "team1": "Virtus.pro",
+            "team2": "Lynn Vision",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "2nd map",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 1.01,
+                "team2_win": 15.7
+            },
+            "win_probability": {
+                "team1_percent": 93.96,
+                "draw_percent": null,
+                "team2_percent": 6.04
+            }
+        },
+        {
+            "game_id": 653784026,
+            "sport": "Football",
+            "league": "Japan. J-League Division 2",
+            "team1": "Roasso Kumamoto",
+            "team2": "Tokushima Vortis",
+            "live_score": {
+                "status": "34 minutes",
+                "current_period": "1st half",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 1.125,
+                "draw": 7.98,
+                "team2_win": 18
+            },
+            "win_probability": {
+                "team1_percent": 83.09,
+                "draw_percent": 11.71,
+                "team2_percent": 5.19
+            }
+        },
+        {
+            "game_id": 653785239,
+            "sport": "Volleyball",
+            "league": "Russian Cup",
+            "team1": "Dinskaya-RCSP",
+            "team2": "Yugra-Samotlor",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "2nd set",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 3.185,
+                "team2_win": 1.325
+            },
+            "win_probability": {
+                "team1_percent": 29.38,
+                "draw_percent": null,
+                "team2_percent": 70.62
+            }
+        },
+        {
+            "game_id": 653779891,
+            "sport": "Football",
+            "league": "Russian Championship. National Student Football League",
+            "team1": "Bauman Moscow State Technical University",
+            "team2": "SKGMI Vladikavkaz",
+            "live_score": {
+                "status": "45 minutes",
+                "current_period": "2nd half",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 11.8,
+                "draw": 4.59,
+                "team2_win": 1.312
+            },
+            "win_probability": {
+                "team1_percent": 7.96,
+                "draw_percent": 20.46,
+                "team2_percent": 71.58
+            }
+        },
+        {
+            "game_id": 653779998,
+            "sport": "Football",
+            "league": "Russian Championship. National Student Football League",
+            "team1": "Oryol State University",
+            "team2": "KubGAU Krasnodar",
+            "live_score": {
+                "status": "47 minutes",
+                "current_period": "2nd half",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 9.89,
+                "draw": 4.1,
+                "team2_win": 1.39
+            },
+            "win_probability": {
+                "team1_percent": 9.5,
+                "draw_percent": 22.91,
+                "team2_percent": 67.59
+            }
+        },
+        {
+            "game_id": 653774133,
+            "sport": "Football",
+            "league": "Japan. J3 League",
+            "team1": "Ryukyu",
+            "team2": "Zweigen Kanazawa",
+            "live_score": {
+                "status": "72 minutes",
+                "current_period": "2nd half",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 1.565,
+                "draw": 3.35,
+                "team2_win": 7.6
+            },
+            "win_probability": {
+                "team1_percent": 59.77,
+                "draw_percent": 27.92,
+                "team2_percent": 12.31
+            }
+        },
+        {
+            "game_id": 653777087,
+            "sport": "Football",
+            "league": "Kazakhstan Championship. Women",
+            "team1": "Zhetysu (Women)",
+            "team2": "Elimai (Women)",
+            "live_score": {
+                "status": "79 minutes",
+                "current_period": "2nd half",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": null,
+            "win_probability": null
+        },
+        {
+            "game_id": 653784517,
+            "sport": "Football",
+            "league": "Portugal Championship U23",
+            "team1": "Farense U23",
+            "team2": "Torreense U23",
+            "live_score": {
+                "status": "40 minutes",
+                "current_period": "1st half",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 4.25,
+                "draw": 2.8,
+                "team2_win": 2.096
+            },
+            "win_probability": {
+                "team1_percent": 22.0,
+                "draw_percent": 33.39,
+                "team2_percent": 44.61
+            }
+        },
+        {
+            "game_id": 653786659,
+            "sport": "Tennis",
+            "league": "WTA. Tolentino",
+            "team1": "Caroline Werner",
+            "team2": "Lola Radivojevic",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "2nd set",
+                "team1_score": "Sets: 0, Games: 3, Points: 0",
+                "team2_score": "Sets: 1, Games: 6, Points: 0"
+            },
+            "odds": {
+                "team1_win": 7.97,
+                "team2_win": 1.08
+            },
+            "win_probability": {
+                "team1_percent": 11.93,
+                "draw_percent": null,
+                "team2_percent": 88.07
+            }
+        },
+        {
+            "game_id": 653786625,
+            "sport": "Tennis",
+            "league": "WTA. Tolentino",
+            "team1": "Noemi Basiletti",
+            "team2": "Alice Rame",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "1st set",
+                "team1_score": "Sets: 0, Games: 0, Points: 40",
+                "team2_score": "Sets: 0, Games: 3, Points: 40"
+            },
+            "odds": {
+                "team1_win": 4.38,
+                "team2_win": 1.215
+            },
+            "win_probability": {
+                "team1_percent": 21.72,
+                "draw_percent": null,
+                "team2_percent": 78.28
+            }
+        },
+        {
+            "game_id": 653774364,
+            "sport": "Baseball",
+            "league": "Japan. NPB",
+            "team1": "Yomiuri Giants",
+            "team2": "Yokohama DeNA BayStars",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "6th inning",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 2.056,
+                "team2_win": 1.715
+            },
+            "win_probability": {
+                "team1_percent": 45.48,
+                "draw_percent": null,
+                "team2_percent": 54.52
+            }
+        },
+        {
+            "game_id": 653773091,
+            "sport": "Tennis",
+            "league": "WTA. Caldas Da Rainha. Qualification",
+            "team1": "Eva Guerrero Alvarez",
+            "team2": "Ashley Lahey",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "2nd set",
+                "team1_score": "Sets: 1, Games: 7, Points: 0",
+                "team2_score": "Sets: 0, Games: 5, Points: 0"
+            },
+            "odds": {
+                "team1_win": 1.215,
+                "team2_win": 4.38
+            },
+            "win_probability": {
+                "team1_percent": 78.28,
+                "draw_percent": null,
+                "team2_percent": 21.72
+            }
+        },
+        {
+            "game_id": 653763437,
+            "sport": "Tennis",
+            "league": "WTA. Tolentino. Qualification",
+            "team1": "Tina Nadine Smith",
+            "team2": "Noma Noha Akugue",
+            "live_score": {
+                "status": "Event in progress",
+                "current_period": "3rd set",
+                "team1_score": "Sets: 1, Games: 6, Points: 15",
+                "team2_score": "Sets: 1, Games: 4, Points: 0"
+            },
+            "odds": {
+                "team1_win": 1.9,
+                "team2_win": 1.9
+            },
+            "win_probability": {
+                "team1_percent": 50.0,
+                "draw_percent": null,
+                "team2_percent": 50.0
+            }
+        },
+        {
+            "game_id": 653774027,
+            "sport": "Football",
+            "league": "Japan. Regional League",
+            "team1": "Vonds Ichihara",
+            "team2": "Tokyo United",
+            "live_score": {
+                "status": "81 minutes",
+                "current_period": "2nd half",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": {
+                "team1_win": 1.1,
+                "draw": 7,
+                "team2_win": 34
+            },
+            "win_probability": {
+                "team1_percent": 84.07,
+                "draw_percent": 13.21,
+                "team2_percent": 2.72
+            }
+        },
+        {
+            "game_id": 653793604,
+            "sport": "Basketball",
+            "league": "Russian Cup. Women",
+            "team1": "CSU Cheboksary (Women)",
+            "team2": "Spartak Saint Petersburg (Women)",
+            "live_score": {
+                "status": "4 minutes",
+                "current_period": "1st quarter",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": null,
+            "win_probability": null
+        },
+        {
+            "game_id": 653781304,
+            "sport": "Basketball",
+            "league": "Club Friendlies",
+            "team1": "Earthfriends Tokyo Z",
+            "team2": "Shinagawa City",
+            "live_score": {
+                "status": "25 minutes",
+                "current_period": "3rd quarter",
+                "team1_score": "N/A",
+                "team2_score": "N/A"
+            },
+            "odds": null,
+            "win_probability": null
+        }
+    ]
+}

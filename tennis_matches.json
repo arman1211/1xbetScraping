@@ -1,0 +1,1448 @@
+[
+    {
+        "slug": "jaume_antoni_munar_clar_vs_holger_vitus_nodskov_rune_tennis_09_14_2025_0700_am",
+        "league": "Davis Cup. Qualification",
+        "match_format": null,
+        "match_description": "Round 2",
+        "team1": "Jaume Antoni Munar Clar",
+        "team2": "Holger Vitus Nodskov Rune",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Puente Romano Tennis Club (Marbella)",
+        "odds": {
+            "team1_win": 2.939,
+            "team2_win": 1.37
+        },
+        "win_probability": {
+            "team1_percent": 32.0,
+            "team2_percent": 68.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 2",
+            "venue": "Puente Romano Tennis Club (Marbella)",
+            "temperature_celsius": "+26°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "764",
+            "humidity_percent": "50",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "pablo_carreno_busta_vs_elmer_moeller_tennis_09_14_2025_0830_am",
+        "league": "Davis Cup. Qualification",
+        "match_format": null,
+        "match_description": "Round 2",
+        "team1": "Pablo Carreno Busta",
+        "team2": "Elmer Moeller",
+        "date_us": "09-14-2025",
+        "time_us": "08:30 AM",
+        "venue": "Puente Romano Tennis Club (Marbella)",
+        "odds": {
+            "team1_win": 1.7,
+            "team2_win": 2.081
+        },
+        "win_probability": {
+            "team1_percent": 55.00000000000001,
+            "team2_percent": 45.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 2",
+            "venue": "Puente Romano Tennis Club (Marbella)",
+            "temperature_celsius": "+29°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "764",
+            "humidity_percent": "47",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "alec_beckley_vs_taha_baadi_tennis_09_14_2025_0600_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Alec Beckley",
+        "team2": "Taha Baadi",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Groenkloof Tennis Club (Pretoria)",
+        "odds": {
+            "team1_win": 1.784,
+            "team2_win": 2.055
+        },
+        "win_probability": {
+            "team1_percent": 54.0,
+            "team2_percent": 46.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "Groenkloof Tennis Club (Pretoria)",
+            "temperature_celsius": "+27°C",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "761",
+            "humidity_percent": "26",
+            "precipitation_percent": "24"
+        }
+    },
+    {
+        "slug": "ivan_ivanov_vs_otto_virtanen_tennis_09_14_2025_0600_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group I. Round 1",
+        "team1": "Ivan Ivanov",
+        "team2": "Otto Virtanen",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis club Lokomotiv (Plovdiv)",
+        "odds": {
+            "team1_win": 2.189,
+            "team2_win": 1.694
+        },
+        "win_probability": {
+            "team1_percent": 44.0,
+            "team2_percent": 56.00000000000001,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group I. Round 1",
+            "venue": "Tennis club Lokomotiv (Plovdiv)",
+            "temperature_celsius": "+24°C",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "765",
+            "humidity_percent": "51",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "alexander_vasilev_vs_emil_ruusuvuori_tennis_09_14_2025_0700_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group I. Round 1",
+        "team1": "Alexander Vasilev",
+        "team2": "Emil Ruusuvuori",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Tennis club Lokomotiv (Plovdiv)",
+        "odds": {
+            "team1_win": 3.19,
+            "team2_win": 1.363
+        },
+        "win_probability": {
+            "team1_percent": 30.0,
+            "team2_percent": 70.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group I. Round 1",
+            "venue": "Tennis club Lokomotiv (Plovdiv)",
+            "temperature_celsius": "+26°C",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "764",
+            "humidity_percent": "45",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "marc_van_der_merwe_vs_yassine_dlimi_tennis_09_14_2025_0700_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Marc Van Der Merwe",
+        "team2": "Yassine Dlimi",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Groenkloof Tennis Club (Pretoria)",
+        "odds": {
+            "team1_win": 3.005,
+            "team2_win": 1.399
+        },
+        "win_probability": {
+            "team1_percent": 32.0,
+            "team2_percent": 68.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "Groenkloof Tennis Club (Pretoria)",
+            "temperature_celsius": "+27°C",
+            "weather_condition": "Gloomy, rain and thunderstorms",
+            "pressure_mmhg": "761",
+            "humidity_percent": "25",
+            "precipitation_percent": "31"
+        }
+    },
+    {
+        "slug": "hod'abalo_isak_padio_vs_faris_zakaria_tennis_09_14_2025_0730_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Hod'abalo isak Padio",
+        "team2": "Faris Zakaria",
+        "date_us": "09-14-2025",
+        "time_us": "07:30 AM",
+        "venue": "Stade Omnisport de Lome (Lome)",
+        "odds": {
+            "team1_win": 10.7,
+            "team2_win": 1.048
+        },
+        "win_probability": {
+            "team1_percent": 9.0,
+            "team2_percent": 91.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "Stade Omnisport de Lome (Lome)",
+            "temperature_celsius": "+28°C",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "74",
+            "precipitation_percent": "16"
+        }
+    },
+    {
+        "slug": "michael_agwi_vs_bu_yunchaokete_tennis_09_14_2025_0730_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Michael Agwi",
+        "team2": "Bu Yunchaokete",
+        "date_us": "09-14-2025",
+        "time_us": "07:30 AM",
+        "venue": "National Indoor Arena (Dublin)",
+        "odds": {
+            "team1_win": 3.62,
+            "team2_win": 1.297
+        },
+        "win_probability": {
+            "team1_percent": 26.0,
+            "team2_percent": 74.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "National Indoor Arena (Dublin)"
+        }
+    },
+    {
+        "slug": "kodjo_charles_alipoe_tchotchodji_vs_michael_bassem_sobhy_tennis_09_14_2025_0850_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Kodjo Charles Alipoe-Tchotchodji",
+        "team2": "Michael Bassem Sobhy",
+        "date_us": "09-14-2025",
+        "time_us": "08:50 AM",
+        "venue": "Stade Omnisport de Lome (Lome)",
+        "odds": {
+            "team1_win": 14.1,
+            "team2_win": 1.024
+        },
+        "win_probability": {
+            "team1_percent": 7.000000000000001,
+            "team2_percent": 93.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "Stade Omnisport de Lome (Lome)",
+            "temperature_celsius": "+28°C",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "760",
+            "humidity_percent": "74",
+            "precipitation_percent": "16"
+        }
+    },
+    {
+        "slug": "peter_buldorini_vs_yi_zhou_tennis_09_14_2025_0900_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Peter Buldorini",
+        "team2": "Yi Zhou",
+        "date_us": "09-14-2025",
+        "time_us": "09:00 AM",
+        "venue": "National Indoor Arena (Dublin)",
+        "odds": {
+            "team1_win": 12.1,
+            "team2_win": 1.036
+        },
+        "win_probability": {
+            "team1_percent": 8.0,
+            "team2_percent": 92.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "National Indoor Arena (Dublin)"
+        }
+    },
+    {
+        "slug": "menelaos_efstathiou_vs_valentin_vacherot_tennis_09_14_2025_1130_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Menelaos Efstathiou",
+        "team2": "Valentin Vacherot",
+        "date_us": "09-14-2025",
+        "time_us": "11:30 AM",
+        "venue": "National Tennis Centre (Nicosia)",
+        "odds": {
+            "team1_win": 8.25,
+            "team2_win": 1.079
+        },
+        "win_probability": {
+            "team1_percent": 12.0,
+            "team2_percent": 88.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "National Tennis Centre (Nicosia)",
+            "temperature_celsius": "+31°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "758",
+            "humidity_percent": "55",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "stefanos_tsitsipas_vs_joao_fonseca_tennis_09_14_2025_1130_am",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group I. Round 1",
+        "team1": "Stefanos Tsitsipas",
+        "team2": "Joao Fonseca",
+        "date_us": "09-14-2025",
+        "time_us": "11:30 AM",
+        "venue": "Stadio 2020 (Athens)",
+        "odds": {
+            "team1_win": 1.889,
+            "team2_win": 1.931
+        },
+        "win_probability": {
+            "team1_percent": 51.0,
+            "team2_percent": 49.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group I. Round 1",
+            "venue": "Stadio 2020 (Athens)",
+            "temperature_celsius": "+29°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "761",
+            "humidity_percent": "31",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "alvaro_guillen_meza_vs_damir_dzumhur_tennis_09_14_2025_1230_pm",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group I. Round 1",
+        "team1": "Alvaro Guillen Meza",
+        "team2": "Damir Dzumhur",
+        "date_us": "09-14-2025",
+        "time_us": "12:30 PM",
+        "venue": "Club Rancho San Francisco (Quito)",
+        "odds": {
+            "team1_win": 3.02,
+            "team2_win": 1.396
+        },
+        "win_probability": {
+            "team1_percent": 32.0,
+            "team2_percent": 68.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group I. Round 1",
+            "venue": "Club Rancho San Francisco (Quito)",
+            "temperature_celsius": "+22°C",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "757",
+            "humidity_percent": "23",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "stefanos_sakellaridis_vs_thiago_seyboth_wild_tennis_09_14_2025_0100_pm",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group I. Round 1",
+        "team1": "Stefanos Sakellaridis",
+        "team2": "Thiago Seyboth Wild",
+        "date_us": "09-14-2025",
+        "time_us": "01:00 PM",
+        "venue": "Stadio 2020 (Athens)",
+        "odds": {
+            "team1_win": 2.366,
+            "team2_win": 1.601
+        },
+        "win_probability": {
+            "team1_percent": 40.0,
+            "team2_percent": 60.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group I. Round 1",
+            "venue": "Stadio 2020 (Athens)",
+            "temperature_celsius": "+27°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "761",
+            "humidity_percent": "33",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "stylianos_christodoulou_vs_romain_arneodo_tennis_09_14_2025_0100_pm",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Stylianos Christodoulou",
+        "team2": "Romain Arneodo",
+        "date_us": "09-14-2025",
+        "time_us": "01:00 PM",
+        "venue": "National Tennis Centre (Nicosia)",
+        "odds": {
+            "team1_win": 1.57,
+            "team2_win": 2.438
+        },
+        "win_probability": {
+            "team1_percent": 61.0,
+            "team2_percent": 39.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "National Tennis Centre (Nicosia)",
+            "temperature_celsius": "+29°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "758",
+            "humidity_percent": "65",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "andres_andrade_vs_nerman_fatic_tennis_09_14_2025_0200_pm",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group I. Round 1",
+        "team1": "Andres Andrade",
+        "team2": "Nerman Fatic",
+        "date_us": "09-14-2025",
+        "time_us": "02:00 PM",
+        "venue": "Club Rancho San Francisco (Quito)",
+        "odds": {
+            "team1_win": 2.415,
+            "team2_win": 1.579
+        },
+        "win_probability": {
+            "team1_percent": 40.0,
+            "team2_percent": 60.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group I. Round 1",
+            "venue": "Club Rancho San Francisco (Quito)",
+            "temperature_celsius": "+23°C",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "757",
+            "humidity_percent": "23",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "cesar_cruz_vs_radu_david_turcanu_tennis_09_14_2025_0200_pm",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Cesar Cruz",
+        "team2": "Radu David Turcanu",
+        "date_us": "09-14-2025",
+        "time_us": "02:00 PM",
+        "venue": "Complejo Polideportivo de Ciudad Merliot (Santa Tecla)",
+        "odds": {
+            "team1_win": 6.41,
+            "team2_win": 1.122
+        },
+        "win_probability": {
+            "team1_percent": 15.0,
+            "team2_percent": 85.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "Complejo Polideportivo de Ciudad Merliot (Santa Tecla)",
+            "temperature_celsius": "+25°C",
+            "weather_condition": "Gloomy, rain and thunderstorms",
+            "pressure_mmhg": "758",
+            "humidity_percent": "68",
+            "precipitation_percent": "63"
+        }
+    },
+    {
+        "slug": "marcelo_arevalo_gonzalez_vs_gabriel_ghetu_tennis_09_14_2025_0330_pm",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group II. Round 1",
+        "team1": "Marcelo Arevalo-Gonzalez",
+        "team2": "Gabriel Ghetu",
+        "date_us": "09-14-2025",
+        "time_us": "03:30 PM",
+        "venue": "Complejo Polideportivo de Ciudad Merliot (Santa Tecla)",
+        "odds": {
+            "team1_win": 1.444,
+            "team2_win": 2.819
+        },
+        "win_probability": {
+            "team1_percent": 66.0,
+            "team2_percent": 34.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group II. Round 1",
+            "venue": "Complejo Polideportivo de Ciudad Merliot (Santa Tecla)",
+            "temperature_celsius": "+25°C",
+            "weather_condition": "Gloomy, rain and thunderstorms",
+            "pressure_mmhg": "757",
+            "humidity_percent": "73",
+            "precipitation_percent": "57"
+        }
+    },
+    {
+        "slug": "christian_garin_vs_alex_knaff_tennis_09_14_2025_0430_pm",
+        "league": "Davis Cup",
+        "match_format": null,
+        "match_description": "World group I. Round 1",
+        "team1": "Christian Garin",
+        "team2": "Alex Knaff",
+        "date_us": "09-14-2025",
+        "time_us": "04:30 PM",
+        "venue": "Estadio Nacional Julio Martinez Pradanos (Santiago de Chile)",
+        "odds": {
+            "team1_win": 1.012,
+            "team2_win": 16.5
+        },
+        "win_probability": {
+            "team1_percent": 94.0,
+            "team2_percent": 6.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group I. Round 1",
+            "venue": "Estadio Nacional Julio Martinez Pradanos (Santiago de Chile)",
+            "temperature_celsius": "+19°C",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "761",
+            "humidity_percent": "44",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "simona_waltert_vs_kaja_juvan_tennis_09_14_2025_0600_am",
+        "league": "WTA. Ljubljana",
+        "match_format": null,
+        "match_description": "Final",
+        "team1": "Simona Waltert",
+        "team2": "Kaja Juvan",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tenis center Tivoli (Ljubljana)",
+        "odds": {
+            "team1_win": 2.46,
+            "team2_win": 1.53
+        },
+        "win_probability": {
+            "team1_percent": 38.0,
+            "team2_percent": 62.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Final",
+            "venue": "Tenis center Tivoli (Ljubljana)",
+            "temperature_celsius": "+20°C",
+            "country": "Slovenia",
+            "weather_condition": "Gloomy, rain and thunderstorms",
+            "pressure_mmhg": "762",
+            "humidity_percent": "79",
+            "precipitation_percent": "60"
+        }
+    },
+    {
+        "slug": "tiantsoa_sarah_rakotomanga_rajaonah_vs_janice_tjen_tennis_09_14_2025_0200_pm",
+        "league": "WTA. Sao Paulo",
+        "match_format": null,
+        "match_description": "Final",
+        "team1": "Tiantsoa Sarah Rakotomanga Rajaonah",
+        "team2": "Janice Tjen",
+        "date_us": "09-14-2025",
+        "time_us": "02:00 PM",
+        "venue": "Villa Lobos (Sao Paulo)",
+        "odds": {
+            "team1_win": 4.005,
+            "team2_win": 1.25
+        },
+        "win_probability": {
+            "team1_percent": 24.0,
+            "team2_percent": 76.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Final",
+            "venue": "Villa Lobos (Sao Paulo)",
+            "temperature_celsius": "+23°C",
+            "country": "Brazil",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "763",
+            "humidity_percent": "56",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "emiliana_arango_vs_iva_jovic_tennis_09_14_2025_0500_pm",
+        "league": "WTA. Guadalajara",
+        "match_format": null,
+        "match_description": "Final",
+        "team1": "Emiliana Arango",
+        "team2": "Iva Jovic",
+        "date_us": "09-14-2025",
+        "time_us": "05:00 PM",
+        "venue": "Centro Panamericano de Tenis (Zapopan)",
+        "odds": {
+            "team1_win": 2.666,
+            "team2_win": 1.48
+        },
+        "win_probability": {
+            "team1_percent": 36.0,
+            "team2_percent": 64.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Final",
+            "venue": "Centro Panamericano de Tenis (Zapopan)",
+            "temperature_celsius": "+27°C",
+            "country": "Mexico",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "755",
+            "humidity_percent": "52",
+            "precipitation_percent": "15"
+        }
+    },
+    {
+        "slug": "greece_vs_brazil_tennis_09_14_2025_1000_am",
+        "league": "Davis Cup. Doubles",
+        "match_format": null,
+        "match_description": null,
+        "team1": "Greece",
+        "team2": "Brazil",
+        "date_us": "09-14-2025",
+        "time_us": "10:00 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 2.498,
+            "team2_win": 1.51
+        },
+        "win_probability": {
+            "team1_percent": 38.0,
+            "team2_percent": 62.0,
+            "draw_percent": 0
+        },
+        "details": null
+    },
+    {
+        "slug": "chile_vs_luxembourg_tennis_09_14_2025_0300_pm",
+        "league": "Davis Cup. Doubles",
+        "match_format": null,
+        "match_description": "World group I. Round 1",
+        "team1": "Chile",
+        "team2": "Luxembourg",
+        "date_us": "09-14-2025",
+        "time_us": "03:00 PM",
+        "venue": "Estadio Nacional Julio Martinez Pradanos (Santiago de Chile)",
+        "odds": {
+            "team1_win": 1.05,
+            "team2_win": 9
+        },
+        "win_probability": {
+            "team1_percent": 90.0,
+            "team2_percent": 10.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "World group I. Round 1",
+            "venue": "Estadio Nacional Julio Martinez Pradanos (Santiago de Chile)"
+        }
+    },
+    {
+        "slug": "matyas_cerny_vs_cedrik_marcel_stebe_tennis_09_14_2025_0540_am",
+        "league": "Challenger. Bad Waltersdorf. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Matyas Cerny",
+        "team2": "Cedrik-Marcel Stebe",
+        "date_us": "09-14-2025",
+        "time_us": "05:40 AM",
+        "venue": "Freizeitpark (Bad Waltersdorf)",
+        "odds": {
+            "team1_win": 4.12,
+            "team2_win": 1.21
+        },
+        "win_probability": {
+            "team1_percent": 23.0,
+            "team2_percent": 77.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Freizeitpark (Bad Waltersdorf)",
+            "temperature_celsius": "+21°C",
+            "country": "Austria",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "74",
+            "precipitation_percent": "19"
+        }
+    },
+    {
+        "slug": "alexey_vatutin_vs_arthur_reymond_tennis_09_14_2025_0600_am",
+        "league": "Challenger. Saint-Tropez. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Alexey Vatutin",
+        "team2": "Arthur Reymond",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis Club Saint Tropez (Saint-Tropez)",
+        "odds": {
+            "team1_win": 1.4,
+            "team2_win": 2.811
+        },
+        "win_probability": {
+            "team1_percent": 67.0,
+            "team2_percent": 33.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis Club Saint Tropez (Saint-Tropez)",
+            "temperature_celsius": "+26°C",
+            "country": "France",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "763",
+            "humidity_percent": "47",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "maxime_janvier_vs_stuart_parker_tennis_09_14_2025_0600_am",
+        "league": "Challenger. Saint-Tropez. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Maxime Janvier",
+        "team2": "Stuart Parker",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis Club Saint Tropez (Saint-Tropez)",
+        "odds": {
+            "team1_win": 2.111,
+            "team2_win": 1.68
+        },
+        "win_probability": {
+            "team1_percent": 44.0,
+            "team2_percent": 56.00000000000001,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis Club Saint Tropez (Saint-Tropez)",
+            "temperature_celsius": "+26°C",
+            "country": "France",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "763",
+            "humidity_percent": "47",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "felix_corwin_vs_nikolay_vylegzhanin_tennis_09_14_2025_0600_am",
+        "league": "Challenger. Saint-Tropez. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Felix Corwin",
+        "team2": "Nikolay Vylegzhanin",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis Club Saint Tropez (Saint-Tropez)",
+        "odds": {
+            "team1_win": 2.14,
+            "team2_win": 1.66
+        },
+        "win_probability": {
+            "team1_percent": 44.0,
+            "team2_percent": 56.00000000000001,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis Club Saint Tropez (Saint-Tropez)",
+            "temperature_celsius": "+26°C",
+            "country": "France",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "763",
+            "humidity_percent": "47",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "pablo_llamas_ruiz_vs_thiago_agustin_tirante_tennis_09_14_2025_0600_am",
+        "league": "Challenger. Szczecin",
+        "match_format": null,
+        "match_description": "Final",
+        "team1": "Pablo Llamas Ruiz",
+        "team2": "Thiago Agustin Tirante",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Szczecin Tennis Club (Szczecin)",
+        "odds": {
+            "team1_win": 1.96,
+            "team2_win": 1.77
+        },
+        "win_probability": {
+            "team1_percent": 47.0,
+            "team2_percent": 53.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Final",
+            "venue": "Szczecin Tennis Club (Szczecin)",
+            "temperature_celsius": "+15°C",
+            "country": "Poland",
+            "weather_condition": "Gloomy, rain",
+            "pressure_mmhg": "760",
+            "humidity_percent": "93",
+            "precipitation_percent": "57"
+        }
+    },
+    {
+        "slug": "alexa_karatancheva_vs_petra_konjikusic_tennis_09_14_2025_0600_am",
+        "league": "ITF. Kursumlijska Banja. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Alexa Karatancheva",
+        "team2": "Petra Konjikusic",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "T Line (Kursumlijska Banja)",
+        "odds": {
+            "team1_win": 6.45,
+            "team2_win": 1.078
+        },
+        "win_probability": {
+            "team1_percent": 14.000000000000002,
+            "team2_percent": 86.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "T Line (Kursumlijska Banja)",
+            "temperature_celsius": "+26°C",
+            "country": "Serbia",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "762",
+            "humidity_percent": "46",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "estella_jaeger_vs_suana_tucakovic_tennis_09_14_2025_0600_am",
+        "league": "ITF. Kursumlijska Banja. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Estella Jaeger",
+        "team2": "Suana Tucakovic",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "T Line (Kursumlijska Banja)",
+        "odds": {
+            "team1_win": 4.085,
+            "team2_win": 1.203
+        },
+        "win_probability": {
+            "team1_percent": 23.0,
+            "team2_percent": 77.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "T Line (Kursumlijska Banja)",
+            "temperature_celsius": "+26°C",
+            "country": "Serbia",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "762",
+            "humidity_percent": "46",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "anastasiya_zaparyniuk_vs_emira_diabate_tennis_09_14_2025_0600_am",
+        "league": "ITF. Nogent-sur-Marne. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Anastasiya Zaparyniuk",
+        "team2": "Emira Diabate",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+        "odds": {
+            "team1_win": 1.25,
+            "team2_win": 3.615
+        },
+        "win_probability": {
+            "team1_percent": 74.0,
+            "team2_percent": 26.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+            "temperature_celsius": "+17°C",
+            "country": "France",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "87",
+            "precipitation_percent": "8"
+        }
+    },
+    {
+        "slug": "leire_de_ezcurra_vs_amelie_brooks_tennis_09_14_2025_0600_am",
+        "league": "ITF. Nogent-sur-Marne. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Leire De Ezcurra",
+        "team2": "Amelie Brooks",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+        "odds": {
+            "team1_win": 1.45,
+            "team2_win": 2.589
+        },
+        "win_probability": {
+            "team1_percent": 64.0,
+            "team2_percent": 36.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+            "temperature_celsius": "+17°C",
+            "country": "France",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "87",
+            "precipitation_percent": "8"
+        }
+    },
+    {
+        "slug": "milena_ciocan_vs_maimouna_keita_tennis_09_14_2025_0600_am",
+        "league": "ITF. Nogent-sur-Marne. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Milena Ciocan",
+        "team2": "Maimouna Keita",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+        "odds": {
+            "team1_win": 1.045,
+            "team2_win": 8
+        },
+        "win_probability": {
+            "team1_percent": 88.0,
+            "team2_percent": 12.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+            "temperature_celsius": "+16°C",
+            "country": "France",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "762",
+            "humidity_percent": "88",
+            "precipitation_percent": "8"
+        }
+    },
+    {
+        "slug": "andreya_glushkova_vs_andreea_diana_soare_tennis_09_14_2025_0600_am",
+        "league": "ITF. Pazardzhik. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Andreya Glushkova",
+        "team2": "Andreea Diana Soare",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis club Favorit (Pazardzhik)",
+        "odds": {
+            "team1_win": 2.689,
+            "team2_win": 1.42
+        },
+        "win_probability": {
+            "team1_percent": 35.0,
+            "team2_percent": 65.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis club Favorit (Pazardzhik)",
+            "temperature_celsius": "+25°C",
+            "country": "Bulgaria",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "765",
+            "humidity_percent": "52",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "dia_evtimova_vs_kalina_simeonova_tennis_09_14_2025_0600_am",
+        "league": "ITF. Pazardzhik. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Dia Evtimova",
+        "team2": "Kalina Simeonova",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis club Favorit (Pazardzhik)",
+        "odds": {
+            "team1_win": 1.016,
+            "team2_win": 10.2
+        },
+        "win_probability": {
+            "team1_percent": 91.0,
+            "team2_percent": 9.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis club Favorit (Pazardzhik)",
+            "temperature_celsius": "+25°C",
+            "country": "Bulgaria",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "765",
+            "humidity_percent": "52",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "lucie_petruzelova_vs_kalina_aleksandrov_tennis_09_14_2025_0600_am",
+        "league": "ITF. Pazardzhik. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Lucie Petruzelova",
+        "team2": "Kalina Aleksandrov",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Tennis club Favorit (Pazardzhik)",
+        "odds": {
+            "team1_win": 1.01,
+            "team2_win": 15
+        },
+        "win_probability": {
+            "team1_percent": 94.0,
+            "team2_percent": 6.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis club Favorit (Pazardzhik)",
+            "temperature_celsius": "+25°C",
+            "country": "Bulgaria",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "765",
+            "humidity_percent": "52",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "slug": "verena_meliss_vs_dalila_spiteri_tennis_09_14_2025_0600_am",
+        "league": "WTA. Tolentino. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Verena Meliss",
+        "team2": "Dalila Spiteri",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Associazione Tennis Tolentino (Tolentino)",
+        "odds": {
+            "team1_win": 4.55,
+            "team2_win": 1.178
+        },
+        "win_probability": {
+            "team1_percent": 21.0,
+            "team2_percent": 79.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Associazione Tennis Tolentino (Tolentino)",
+            "temperature_celsius": "+27°C",
+            "country": "Italy",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "763",
+            "humidity_percent": "44",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "ashley_lahey_vs_anouck_vrancken_peeters_tennis_09_14_2025_0630_am",
+        "league": "WTA. Caldas Da Rainha. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Ashley Lahey",
+        "team2": "Anouck Vrancken Peeters",
+        "date_us": "09-14-2025",
+        "time_us": "06:30 AM",
+        "venue": "Complexo Municipal de Tenis (Caldas da Rainha)",
+        "odds": {
+            "team1_win": 1.6,
+            "team2_win": 2.247
+        },
+        "win_probability": {
+            "team1_percent": 57.99999999999999,
+            "team2_percent": 42.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Complexo Municipal de Tenis (Caldas da Rainha)",
+            "temperature_celsius": "+21°C",
+            "country": "Portugal",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "768",
+            "humidity_percent": "83",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "darya_astakhova_vs_milica_stosovic_tennis_09_14_2025_0700_am",
+        "league": "ITF. Kursumlijska Banja. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Darya Astakhova",
+        "team2": "Milica Stosovic",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "T Line (Kursumlijska Banja)",
+        "odds": {
+            "team1_win": 1.005,
+            "team2_win": 11.5
+        },
+        "win_probability": {
+            "team1_percent": 92.0,
+            "team2_percent": 8.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "T Line (Kursumlijska Banja)",
+            "temperature_celsius": "+27°C",
+            "country": "Serbia",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "762",
+            "humidity_percent": "41",
+            "precipitation_percent": "4"
+        }
+    },
+    {
+        "slug": "ksenia_zaytseva_vs_doroteja_petrovic_tennis_09_14_2025_0700_am",
+        "league": "ITF. Kursumlijska Banja. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Ksenia Zaytseva",
+        "team2": "Doroteja Petrovic",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "T Line (Kursumlijska Banja)",
+        "odds": {
+            "team1_win": 1.006,
+            "team2_win": 11.5
+        },
+        "win_probability": {
+            "team1_percent": 92.0,
+            "team2_percent": 8.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "T Line (Kursumlijska Banja)",
+            "temperature_celsius": "+27°C",
+            "country": "Serbia",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "762",
+            "humidity_percent": "41",
+            "precipitation_percent": "4"
+        }
+    },
+    {
+        "slug": "vicky_van_de_peer_vs_carolin_raschdorf_tennis_09_14_2025_0700_am",
+        "league": "ITF. Kursumlijska Banja. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Vicky Van De Peer",
+        "team2": "Carolin Raschdorf",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "T Line (Kursumlijska Banja)",
+        "odds": {
+            "team1_win": 2.085,
+            "team2_win": 1.68
+        },
+        "win_probability": {
+            "team1_percent": 45.0,
+            "team2_percent": 55.00000000000001,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "T Line (Kursumlijska Banja)",
+            "temperature_celsius": "+27°C",
+            "country": "Serbia",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "762",
+            "humidity_percent": "41",
+            "precipitation_percent": "4"
+        }
+    },
+    {
+        "slug": "martin_simon_vs_evan_jarzaguet_tennis_09_14_2025_0700_am",
+        "league": "ITF. Nevers. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Martin Simon",
+        "team2": "Evan Jarzaguet",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Comite Nievre (Saint-Eloi)",
+        "odds": {
+            "team1_win": 7.3,
+            "team2_win": 1.058
+        },
+        "win_probability": {
+            "team1_percent": 13.0,
+            "team2_percent": 87.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Comite Nievre (Saint-Eloi)",
+            "country": "France"
+        }
+    },
+    {
+        "slug": "yannis_batsabaken_vs_hugo_cardinaud_tennis_09_14_2025_0700_am",
+        "league": "ITF. Nevers. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Yannis Batsabaken",
+        "team2": "Hugo Cardinaud",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Comite Nievre (Saint-Eloi)",
+        "odds": {
+            "team1_win": 2.299,
+            "team2_win": 1.56
+        },
+        "win_probability": {
+            "team1_percent": 40.0,
+            "team2_percent": 60.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Comite Nievre (Saint-Eloi)",
+            "country": "France"
+        }
+    },
+    {
+        "slug": "anna_burchak_vs_emma_mazzoni_tennis_09_14_2025_0700_am",
+        "league": "ITF. Nogent-sur-Marne. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Anna Burchak",
+        "team2": "Emma Mazzoni",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+        "odds": {
+            "team1_win": 1.003,
+            "team2_win": 11.7
+        },
+        "win_probability": {
+            "team1_percent": 92.0,
+            "team2_percent": 8.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+            "temperature_celsius": "+18°C",
+            "country": "France",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "86",
+            "precipitation_percent": "22"
+        }
+    },
+    {
+        "slug": "delia_gaillard_vs_anna_brunet_brady_tennis_09_14_2025_0700_am",
+        "league": "ITF. Nogent-sur-Marne. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Delia Gaillard",
+        "team2": "Anna Brunet-Brady",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+        "odds": {
+            "team1_win": 1.21,
+            "team2_win": 4.275
+        },
+        "win_probability": {
+            "team1_percent": 78.0,
+            "team2_percent": 22.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+            "temperature_celsius": "+17°C",
+            "country": "France",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "87",
+            "precipitation_percent": "9"
+        }
+    },
+    {
+        "slug": "savine_erler_vs_leyna_bey_tennis_09_14_2025_0700_am",
+        "league": "ITF. Nogent-sur-Marne. Women. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Savine Erler",
+        "team2": "Leyna Bey",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+        "odds": {
+            "team1_win": 1.036,
+            "team2_win": 8.6
+        },
+        "win_probability": {
+            "team1_percent": 89.0,
+            "team2_percent": 11.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Tennis Club Nogent (Nogent-le-Rotrou)",
+            "temperature_celsius": "+18°C",
+            "country": "France",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "86",
+            "precipitation_percent": "22"
+        }
+    },
+    {
+        "slug": "eva_guerrero_alvarez_vs_yana_morderger_tennis_09_14_2025_0700_am",
+        "league": "WTA. Caldas Da Rainha. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Eva Guerrero Alvarez",
+        "team2": "Yana Morderger",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Complexo Municipal de Tenis (Caldas da Rainha)",
+        "odds": {
+            "team1_win": 1.037,
+            "team2_win": 9
+        },
+        "win_probability": {
+            "team1_percent": 90.0,
+            "team2_percent": 10.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Complexo Municipal de Tenis (Caldas da Rainha)",
+            "temperature_celsius": "+21°C",
+            "country": "Portugal",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "768",
+            "humidity_percent": "83",
+            "precipitation_percent": "2"
+        }
+    },
+    {
+        "slug": "amina_anshba_vs_cristina_diaz_adrover_tennis_09_14_2025_0700_am",
+        "league": "WTA. Tolentino. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Amina Anshba",
+        "team2": "Cristina Diaz Adrover",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Associazione Tennis Tolentino (Tolentino)",
+        "odds": {
+            "team1_win": 2.771,
+            "team2_win": 1.41
+        },
+        "win_probability": {
+            "team1_percent": 34.0,
+            "team2_percent": 66.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Associazione Tennis Tolentino (Tolentino)",
+            "temperature_celsius": "+27°C",
+            "country": "Italy",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "763",
+            "humidity_percent": "43",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "slug": "francesca_curmi_vs_angelica_raggi_tennis_09_14_2025_0700_am",
+        "league": "WTA. Tolentino. Qualification",
+        "match_format": null,
+        "match_description": "Round 1",
+        "team1": "Francesca Curmi",
+        "team2": "Angelica Raggi",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Associazione Tennis Tolentino (Tolentino)",
+        "odds": {
+            "team1_win": 1.36,
+            "team2_win": 2.988
+        },
+        "win_probability": {
+            "team1_percent": 69.0,
+            "team2_percent": 31.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Round 1",
+            "venue": "Associazione Tennis Tolentino (Tolentino)",
+            "temperature_celsius": "+27°C",
+            "country": "Italy",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "763",
+            "humidity_percent": "43",
+            "precipitation_percent": "1"
+        }
+    }
+]

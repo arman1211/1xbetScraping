@@ -1,0 +1,1383 @@
+[
+    {
+        "league": "England U19 vs Bangladesh U19",
+        "match_format": null,
+        "match_description": "5th ODI",
+        "team1": "England U19",
+        "team2": "Bangladesh U19",
+        "date_us": "09-14-2025",
+        "time_us": "06:00 AM",
+        "venue": "Kent County Cricket Ground (Beckenham)",
+        "odds": {
+            "team1_win": 1.796,
+            "draw": 50,
+            "team2_win": 2.048
+        },
+        "win_probability": {
+            "team1_percent": 52.0,
+            "team2_percent": 46.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "venue": "Kent County Cricket Ground (Beckenham)",
+            "temperature_celsius": "+16°C",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "759",
+            "humidity_percent": "70",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "league": "Asia Cup",
+        "match_format": "T20",
+        "match_description": "Group stage. Group B",
+        "team1": "Bangladesh",
+        "team2": "Afghanistan",
+        "date_us": "09-16-2025",
+        "time_us": "10:30 AM",
+        "venue": "Sheikh Zayed Stadium (Abu Dhabi)",
+        "odds": {
+            "team1_win": 3.135,
+            "draw": 25,
+            "team2_win": 1.377
+        },
+        "win_probability": {
+            "team1_percent": 28.999999999999996,
+            "team2_percent": 67.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "round_stage": "Group stage. Group B",
+            "venue": "Sheikh Zayed Stadium (Abu Dhabi)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+34°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "753",
+            "humidity_percent": "68",
+            "precipitation_percent": "3"
+        }
+    },
+    {
+        "league": "ICC. World Cup. 2025. Women",
+        "match_format": "ODI",
+        "match_description": "Group stage",
+        "team1": "Bangladesh (Women)",
+        "team2": "Pakistan (Women)",
+        "date_us": "10-02-2025",
+        "time_us": "05:30 AM",
+        "venue": "R. Premadasa (Colombo)",
+        "odds": {
+            "team1_win": 2.658,
+            "draw": 50,
+            "team2_win": 1.422
+        },
+        "win_probability": {
+            "team1_percent": 34.0,
+            "team2_percent": 64.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "round_stage": "Group stage",
+            "venue": "R. Premadasa (Colombo)",
+            "match_format_alt": "ODI"
+        }
+    },
+    {
+        "league": "Bangladesh. National League",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Khulna Division",
+        "team2": "Chattogram Division",
+        "date_us": "09-15-2025",
+        "time_us": "03:30 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 1.67,
+            "draw": 25,
+            "team2_win": 2.105
+        },
+        "win_probability": {
+            "team1_percent": 54.0,
+            "team2_percent": 43.0,
+            "draw_percent": 3.0
+        },
+        "details": {
+            "match_format_alt": "T20",
+            "country": "Bangladesh"
+        }
+    },
+    {
+        "league": "South Africa. Metro Cup T10",
+        "match_format": "T10",
+        "match_description": null,
+        "team1": "Titans",
+        "team2": "Dolphins",
+        "date_us": "09-14-2025",
+        "time_us": "05:00 AM",
+        "venue": "Kingsmead (Durban)",
+        "odds": {
+            "team1_win": 1.601,
+            "draw": 25,
+            "team2_win": 2.378
+        },
+        "win_probability": {
+            "team1_percent": 57.99999999999999,
+            "team2_percent": 39.0,
+            "draw_percent": 3.0
+        },
+        "details": {
+            "venue": "Kingsmead (Durban)",
+            "match_format_alt": "T10",
+            "temperature_celsius": "+22°C",
+            "country": "South Africa",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "764",
+            "humidity_percent": "73",
+            "precipitation_percent": "4"
+        }
+    },
+    {
+        "league": "Metro Bank. One Day Cup. League 2. Women",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "Glamorgan (Women)",
+        "team2": "Yorkshire (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "05:30 AM",
+        "venue": "New Road (Worcester)",
+        "odds": {
+            "team1_win": 2.285,
+            "draw": 50,
+            "team2_win": 1.661
+        },
+        "win_probability": {
+            "team1_percent": 41.0,
+            "team2_percent": 56.99999999999999,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "venue": "New Road (Worcester)",
+            "match_format_alt": "ODI",
+            "temperature_celsius": "+13°C",
+            "country": "Great Britain",
+            "weather_condition": "Gloomy, rain",
+            "pressure_mmhg": "757",
+            "humidity_percent": "80",
+            "precipitation_percent": "48"
+        }
+    },
+    {
+        "league": "Eswatini vs Mozambique",
+        "match_format": null,
+        "match_description": "5th match T20",
+        "team1": "Eswatini",
+        "team2": "Mozambique",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Malkerns Country Club (Malkerns)",
+        "odds": {
+            "team1_win": 1.452,
+            "draw": 25,
+            "team2_win": 2.507
+        },
+        "win_probability": {
+            "team1_percent": 61.0,
+            "team2_percent": 35.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Malkerns Country Club (Malkerns)",
+            "temperature_celsius": "+24°C",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "762",
+            "humidity_percent": "58",
+            "precipitation_percent": "19"
+        }
+    },
+    {
+        "league": "Rwanda. Premier League",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Right Guards CC",
+        "team2": "Indorwa CC",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 AM",
+        "venue": "Gahanga Cricket Stadium (Kigali)",
+        "odds": {
+            "team1_win": 1.804,
+            "draw": 25,
+            "team2_win": 1.904
+        },
+        "win_probability": {
+            "team1_percent": 50.0,
+            "team2_percent": 47.0,
+            "draw_percent": 3.0
+        },
+        "details": {
+            "venue": "Gahanga Cricket Stadium (Kigali)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+28°C",
+            "country": "Rwanda",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "757",
+            "humidity_percent": "36",
+            "precipitation_percent": "3"
+        }
+    },
+    {
+        "league": "England vs South Africa",
+        "match_format": null,
+        "match_description": "Third Match, T20",
+        "team1": "England",
+        "team2": "South Africa",
+        "date_us": "09-14-2025",
+        "time_us": "09:30 AM",
+        "venue": "Nottinghamshire Spots Club (Nottingham)",
+        "odds": {
+            "team1_win": 1.511,
+            "draw": 25,
+            "team2_win": 2.647
+        },
+        "win_probability": {
+            "team1_percent": 61.0,
+            "team2_percent": 35.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Nottinghamshire Spots Club (Nottingham)",
+            "temperature_celsius": "+14°C",
+            "weather_condition": "Cloudy, rain",
+            "pressure_mmhg": "754",
+            "humidity_percent": "81",
+            "precipitation_percent": "100"
+        }
+    },
+    {
+        "league": "Oman. D10 League",
+        "match_format": "T10",
+        "match_description": "Round Robin",
+        "team1": "IAS Invincibles",
+        "team2": "Majees Titans",
+        "date_us": "09-14-2025",
+        "time_us": "09:45 AM",
+        "venue": "Oman Cricket Academy Ground (Al Amarat)",
+        "odds": {
+            "team1_win": 1.741,
+            "draw": 25,
+            "team2_win": 2.1
+        },
+        "win_probability": {
+            "team1_percent": 53.0,
+            "team2_percent": 44.0,
+            "draw_percent": 3.0
+        },
+        "details": {
+            "round_stage": "Round Robin",
+            "venue": "Oman Cricket Academy Ground (Al Amarat)",
+            "match_format_alt": "T10",
+            "temperature_celsius": "+34°C",
+            "country": "Oman",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "753",
+            "humidity_percent": "45",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "league": "USA. Minor League",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Michigan Stars",
+        "team2": "Chicago Kingsmen",
+        "date_us": "09-14-2025",
+        "time_us": "10:15 AM",
+        "venue": "Moosa Cricket (Pearland)",
+        "odds": {
+            "team1_win": 5.94,
+            "draw": 25,
+            "team2_win": 1.133
+        },
+        "win_probability": {
+            "team1_percent": 15.0,
+            "team2_percent": 81.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Moosa Cricket (Pearland)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+22°C",
+            "country": "USA",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "763",
+            "humidity_percent": "69",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "league": "Asia Cup",
+        "match_format": "T20",
+        "match_description": "Group stage. Group A",
+        "team1": "India",
+        "team2": "Pakistan",
+        "date_us": "09-14-2025",
+        "time_us": "10:30 AM",
+        "venue": "Dubai International Cricket Ground (Dubai)",
+        "odds": {
+            "team1_win": 1.318,
+            "draw": 25,
+            "team2_win": 3.555
+        },
+        "win_probability": {
+            "team1_percent": 70.0,
+            "team2_percent": 26.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "round_stage": "Group stage. Group A",
+            "venue": "Dubai International Cricket Ground (Dubai)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+36°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "753",
+            "humidity_percent": "47",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "league": "Oman. D10 League",
+        "match_format": "T10",
+        "match_description": "Round Robin",
+        "team1": "Yalla Shabab Giants",
+        "team2": "Muscat Thunderers",
+        "date_us": "09-14-2025",
+        "time_us": "12:00 PM",
+        "venue": "Oman Cricket Academy Ground (Al Amarat)",
+        "odds": {
+            "team1_win": 1.273,
+            "draw": 25,
+            "team2_win": 3.775
+        },
+        "win_probability": {
+            "team1_percent": 72.0,
+            "team2_percent": 24.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "round_stage": "Round Robin",
+            "venue": "Oman Cricket Academy Ground (Al Amarat)",
+            "match_format_alt": "T10",
+            "temperature_celsius": "+32°C",
+            "country": "Oman",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "754",
+            "humidity_percent": "50",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "league": "Caribbean Premier League. Women",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Guyana Amazon Warriors (Women)",
+        "team2": "Barbados Royals (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "02:00 PM",
+        "venue": "Providence Stadium (Georgetown)",
+        "odds": {
+            "team1_win": 2.146,
+            "draw": 25,
+            "team2_win": 1.727
+        },
+        "win_probability": {
+            "team1_percent": 43.0,
+            "team2_percent": 53.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Providence Stadium (Georgetown)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+32°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "758",
+            "humidity_percent": "63",
+            "precipitation_percent": "12"
+        }
+    },
+    {
+        "league": "Oman. D10 League",
+        "match_format": "T10",
+        "match_description": "Round Robin",
+        "team1": "Royal Oman Stallions",
+        "team2": "Renaissance Challengers",
+        "date_us": "09-14-2025",
+        "time_us": "02:00 PM",
+        "venue": "Oman Cricket Academy Ground (Al Amarat)",
+        "odds": {
+            "team1_win": 1.273,
+            "draw": 25,
+            "team2_win": 3.775
+        },
+        "win_probability": {
+            "team1_percent": 72.0,
+            "team2_percent": 24.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "round_stage": "Round Robin",
+            "venue": "Oman Cricket Academy Ground (Al Amarat)",
+            "match_format_alt": "T10",
+            "temperature_celsius": "+30°C",
+            "country": "Oman",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "755",
+            "humidity_percent": "59",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "league": "USA. Minor League",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Lone Star Athletics",
+        "team2": "Dallas Xforia Giants",
+        "date_us": "09-14-2025",
+        "time_us": "03:15 PM",
+        "venue": "Moosa Cricket (Pearland)",
+        "odds": {
+            "team1_win": 2.515,
+            "draw": 25,
+            "team2_win": 1.531
+        },
+        "win_probability": {
+            "team1_percent": 36.0,
+            "team2_percent": 60.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Moosa Cricket (Pearland)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+28°C",
+            "country": "USA",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "762",
+            "humidity_percent": "48",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "league": "World Cup. 2026. Women. Qualification",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Cook Islands (Women)",
+        "team2": "Philippines (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "05:30 PM",
+        "venue": "Albert Park (Suva)",
+        "odds": {
+            "team1_win": 1.192,
+            "draw": 25,
+            "team2_win": 4.75
+        },
+        "win_probability": {
+            "team1_percent": 77.0,
+            "team2_percent": 19.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Albert Park (Suva)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+23°C",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "765",
+            "humidity_percent": "69",
+            "precipitation_percent": "5"
+        }
+    },
+    {
+        "league": "World Cup. 2026. Women. Qualification",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Samoa (Women)",
+        "team2": "Fiji (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "05:30 PM",
+        "venue": "Albert Park (Suva)",
+        "odds": {
+            "team1_win": 1.467,
+            "draw": 25,
+            "team2_win": 2.752
+        },
+        "win_probability": {
+            "team1_percent": 63.0,
+            "team2_percent": 33.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Albert Park (Suva)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+23°C",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "765",
+            "humidity_percent": "69",
+            "precipitation_percent": "5"
+        }
+    },
+    {
+        "league": "Caribbean Premier League",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Guyana Amazon Warriors",
+        "team2": "Barbados Royals",
+        "date_us": "09-14-2025",
+        "time_us": "07:00 PM",
+        "venue": "Providence Stadium (Georgetown)",
+        "odds": {
+            "team1_win": 1.622,
+            "draw": 25,
+            "team2_win": 2.333
+        },
+        "win_probability": {
+            "team1_percent": 56.99999999999999,
+            "team2_percent": 39.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Providence Stadium (Georgetown)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+29°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "758",
+            "humidity_percent": "79",
+            "precipitation_percent": "5"
+        }
+    },
+    {
+        "league": "World Cup. 2026. Women. Qualification",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Indonesia (Women)",
+        "team2": "Japan (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "09:30 PM",
+        "venue": "Albert Park (Suva)",
+        "odds": {
+            "team1_win": 1.651,
+            "draw": 25,
+            "team2_win": 2.277
+        },
+        "win_probability": {
+            "team1_percent": 56.00000000000001,
+            "team2_percent": 40.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Albert Park (Suva)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+24°C",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "763",
+            "humidity_percent": "64",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "league": "World Cup. 2026. Women. Qualification",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "Papua New Guinea (Women)",
+        "team2": "Vanuatu (Women)",
+        "date_us": "09-14-2025",
+        "time_us": "09:30 PM",
+        "venue": "Albert Park (Suva)",
+        "odds": {
+            "team1_win": 2.034,
+            "draw": 25,
+            "team2_win": 1.807
+        },
+        "win_probability": {
+            "team1_percent": 45.0,
+            "team2_percent": 51.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Albert Park (Suva)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+24°C",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "763",
+            "humidity_percent": "64",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "league": "MCA Super Premier League",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "BBK Partnership Sri Lanka",
+        "team2": "Fairfirst Insurance",
+        "date_us": "09-15-2025",
+        "time_us": "12:30 AM",
+        "venue": "Thurstan College Ground (Colombo)",
+        "odds": {
+            "team1_win": 1.813,
+            "draw": 50,
+            "team2_win": 2.024
+        },
+        "win_probability": {
+            "team1_percent": 52.0,
+            "team2_percent": 46.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "venue": "Thurstan College Ground (Colombo)",
+            "match_format_alt": "ODI",
+            "temperature_celsius": "+29°C",
+            "country": "Sri Lanka",
+            "weather_condition": "Gloomy, rain and thunderstorms",
+            "pressure_mmhg": "758",
+            "humidity_percent": "81",
+            "precipitation_percent": "48"
+        }
+    },
+    {
+        "league": "MCA Super Premier League",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "Hayleys Group A",
+        "team2": "CDB A",
+        "date_us": "09-15-2025",
+        "time_us": "12:30 AM",
+        "venue": "N/A",
+        "odds": {
+            "team1_win": 2.205,
+            "draw": 50,
+            "team2_win": 1.683
+        },
+        "win_probability": {
+            "team1_percent": 42.0,
+            "team2_percent": 56.00000000000001,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "match_format_alt": "ODI",
+            "country": "Sri Lanka"
+        }
+    },
+    {
+        "league": "MCA Super Premier League",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "Maliban Biscuits A",
+        "team2": "HNB",
+        "date_us": "09-15-2025",
+        "time_us": "12:30 AM",
+        "venue": "Mercantile Cricket Association Ground (Colombo)",
+        "odds": {
+            "team1_win": 1.573,
+            "draw": 50,
+            "team2_win": 2.426
+        },
+        "win_probability": {
+            "team1_percent": 60.0,
+            "team2_percent": 39.0,
+            "draw_percent": 1.0
+        },
+        "details": {
+            "venue": "Mercantile Cricket Association Ground (Colombo)",
+            "match_format_alt": "ODI",
+            "temperature_celsius": "+29°C",
+            "country": "Sri Lanka",
+            "weather_condition": "Gloomy, rain and thunderstorms",
+            "pressure_mmhg": "758",
+            "humidity_percent": "81",
+            "precipitation_percent": "48"
+        }
+    },
+    {
+        "league": "Finland. National League. Division 3",
+        "match_format": "T20",
+        "match_description": null,
+        "team1": "HCC T20B",
+        "team2": "KCC Strikers",
+        "date_us": "09-15-2025",
+        "time_us": "02:30 AM",
+        "venue": "Kerava National Cricket Ground (Kerava)",
+        "odds": {
+            "team1_win": 2.004,
+            "draw": 25,
+            "team2_win": 1.703
+        },
+        "win_probability": {
+            "team1_percent": 44.0,
+            "team2_percent": 52.0,
+            "draw_percent": 4.0
+        },
+        "details": {
+            "venue": "Kerava National Cricket Ground (Kerava)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+15°C",
+            "country": "Finland",
+            "weather_condition": "Cloudy, rain",
+            "pressure_mmhg": "757",
+            "humidity_percent": "76",
+            "precipitation_percent": "60"
+        }
+    },
+    {
+        "league": "Zimbabwe vs Namibia",
+        "match_format": null,
+        "match_description": "First Match, T20",
+        "team1": "Zimbabwe",
+        "team2": "Namibia",
+        "date_us": "09-15-2025",
+        "time_us": "03:30 AM",
+        "venue": "Queens Sports Club (Bulawayo)",
+        "odds": {
+            "team1_win": 1.352,
+            "draw": 25,
+            "team2_win": 2.909
+        },
+        "win_probability": {
+            "team1_percent": 66.0,
+            "team2_percent": 31.0,
+            "draw_percent": 3.0
+        },
+        "details": {
+            "venue": "Queens Sports Club (Bulawayo)",
+            "temperature_celsius": "+27°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "762",
+            "humidity_percent": "16",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "league": "County Championship Division One",
+        "match_format": "Test Match",
+        "match_description": null,
+        "team1": "Durham",
+        "team2": "Worcestershire",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "Riverside Ground (Chester-le-Street)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 62.0,
+            "team2_percent": 38.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Riverside Ground (Chester-le-Street)",
+            "match_format_alt": "Test Match",
+            "temperature_celsius": "+15°C",
+            "country": "Great Britain",
+            "weather_condition": "Cloudy, rain",
+            "pressure_mmhg": "742",
+            "humidity_percent": "76",
+            "precipitation_percent": "33"
+        }
+    },
+    {
+        "league": "County Championship Division One",
+        "match_format": "Test Match",
+        "match_description": null,
+        "team1": "Somerset County",
+        "team2": "Hampshire",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "Cooper Associates County Ground (Taunton)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 52.0,
+            "team2_percent": 48.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Cooper Associates County Ground (Taunton)",
+            "match_format_alt": "Test Match",
+            "temperature_celsius": "+16°C",
+            "country": "Great Britain",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "755",
+            "humidity_percent": "76",
+            "precipitation_percent": "24"
+        }
+    },
+    {
+        "league": "County Championship Division One",
+        "match_format": "Test Match",
+        "match_description": null,
+        "team1": "Surrey County",
+        "team2": "Nottinghamshire County",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "Kia Oval (London)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 57.99999999999999,
+            "team2_percent": 42.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Kia Oval (London)",
+            "match_format_alt": "Test Match",
+            "temperature_celsius": "+17°C",
+            "country": "Great Britain",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "754",
+            "humidity_percent": "62",
+            "precipitation_percent": "6"
+        }
+    },
+    {
+        "league": "County Championship Division One",
+        "match_format": "Test Match",
+        "match_description": null,
+        "team1": "Sussex",
+        "team2": "Yorkshire County",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "1st Central County Ground (Hove)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 50.0,
+            "team2_percent": 50.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "1st Central County Ground (Hove)",
+            "match_format_alt": "Test Match",
+            "temperature_celsius": "+17°C",
+            "country": "Great Britain",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "756",
+            "humidity_percent": "69",
+            "precipitation_percent": "12"
+        }
+    },
+    {
+        "league": "County Championship Division One",
+        "match_format": "Test Match",
+        "match_description": null,
+        "team1": "Warwickshire",
+        "team2": "Essex County",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "Edgbaston Cricket Ground (Birmingham)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 51.0,
+            "team2_percent": 49.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Edgbaston Cricket Ground (Birmingham)",
+            "match_format_alt": "Test Match",
+            "temperature_celsius": "+15°C",
+            "country": "Great Britain",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "750",
+            "humidity_percent": "67",
+            "precipitation_percent": "13"
+        }
+    },
+    {
+        "league": "County Championship Division Two",
+        "match_format": "Test Match",
+        "match_description": null,
+        "team1": "Derbyshire",
+        "team2": "Glamorgan County",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "County Cricket Ground (Derby)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 42.0,
+            "team2_percent": 57.99999999999999,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "County Cricket Ground (Derby)",
+            "match_format_alt": "Test Match",
+            "temperature_celsius": "+15°C",
+            "country": "Great Britain",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "749",
+            "humidity_percent": "68",
+            "precipitation_percent": "9"
+        }
+    },
+    {
+        "league": "County Championship Division Two",
+        "match_format": "Test Match",
+        "match_description": null,
+        "team1": "Gloucestershire County",
+        "team2": "Northamptonshire",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "Seat Unique (Bristol)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 48.0,
+            "team2_percent": 52.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Seat Unique (Bristol)",
+            "match_format_alt": "Test Match",
+            "temperature_celsius": "+16°C",
+            "country": "Great Britain",
+            "weather_condition": "Cloudy, rain",
+            "pressure_mmhg": "754",
+            "humidity_percent": "76",
+            "precipitation_percent": "34"
+        }
+    },
+    {
+        "league": "County Championship Division Two",
+        "match_format": "Test Match",
+        "match_description": null,
+        "team1": "Lancashire",
+        "team2": "Middlesex",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "Old Trafford (Manchester)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 48.0,
+            "team2_percent": 52.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Old Trafford (Manchester)",
+            "match_format_alt": "Test Match",
+            "temperature_celsius": "+14°C",
+            "country": "Great Britain",
+            "weather_condition": "Cloudy, rain",
+            "pressure_mmhg": "747",
+            "humidity_percent": "76",
+            "precipitation_percent": "71"
+        }
+    },
+    {
+        "league": "County Championship Division Two",
+        "match_format": "Test Match",
+        "match_description": null,
+        "team1": "Leicestershire",
+        "team2": "Kent",
+        "date_us": "09-15-2025",
+        "time_us": "05:30 AM",
+        "venue": "Uptonsteel County Ground (Leicester)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 62.0,
+            "team2_percent": 38.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Uptonsteel County Ground (Leicester)",
+            "match_format_alt": "Test Match",
+            "temperature_celsius": "+16°C",
+            "country": "Great Britain",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "750",
+            "humidity_percent": "67",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "league": "Asia Cup",
+        "match_format": "T20",
+        "match_description": "Group stage. Group A",
+        "team1": "United Arab Emirates",
+        "team2": "Oman",
+        "date_us": "09-15-2025",
+        "time_us": "08:00 AM",
+        "venue": "Gymkhana Club Ground (Nairobi)",
+        "odds": {
+            "team1_win": 1.545,
+            "draw": 25,
+            "team2_win": 2.513
+        },
+        "win_probability": {
+            "team1_percent": 60.0,
+            "team2_percent": 37.0,
+            "draw_percent": 3.0
+        },
+        "details": {
+            "round_stage": "Group stage. Group A",
+            "venue": "Gymkhana Club Ground (Nairobi)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+27°C",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "757",
+            "humidity_percent": "37",
+            "precipitation_percent": "17"
+        }
+    },
+    {
+        "league": "West Indies U19 vs Sri Lanka U19",
+        "match_format": null,
+        "match_description": "7th match ODI",
+        "team1": "West Indies U19",
+        "team2": "Sri Lanka U19",
+        "date_us": "09-15-2025",
+        "time_us": "09:30 AM",
+        "venue": "Sir Vivian Richards (Antigua)",
+        "odds": {
+            "team1_win": 2.499,
+            "draw": 50,
+            "team2_win": 1.551
+        },
+        "win_probability": {
+            "team1_percent": 38.0,
+            "team2_percent": 61.0,
+            "draw_percent": 1.0
+        },
+        "details": {
+            "venue": "Sir Vivian Richards (Antigua)",
+            "temperature_celsius": "+29°C",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "76",
+            "precipitation_percent": "9"
+        }
+    },
+    {
+        "league": "Asia Cup",
+        "match_format": "T20",
+        "match_description": "Group stage. Group B",
+        "team1": "Sri Lanka",
+        "team2": "Hong Kong",
+        "date_us": "09-15-2025",
+        "time_us": "10:30 AM",
+        "venue": "Dubai International Cricket Ground (Dubai)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 94.0,
+            "team2_percent": 6.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Group stage. Group B",
+            "venue": "Dubai International Cricket Ground (Dubai)",
+            "match_format_alt": "T20",
+            "temperature_celsius": "+34°C",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "753",
+            "humidity_percent": "57",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "league": "Australia. One-Day Cup",
+        "match_format": "ODI",
+        "match_description": "Round Robin",
+        "team1": "New South Wales",
+        "team2": "Tasmanian Tigers",
+        "date_us": "09-15-2025",
+        "time_us": "07:30 PM",
+        "venue": "Cricket Central (Sydney)",
+        "odds": {
+            "team1_win": 1.967,
+            "draw": 50,
+            "team2_win": 1.863
+        },
+        "win_probability": {
+            "team1_percent": 48.0,
+            "team2_percent": 50.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "round_stage": "Round Robin",
+            "venue": "Cricket Central (Sydney)",
+            "match_format_alt": "ODI",
+            "temperature_celsius": "+23°C",
+            "country": "Australia",
+            "weather_condition": "Gloomy",
+            "pressure_mmhg": "761",
+            "humidity_percent": "44",
+            "precipitation_percent": "0"
+        }
+    },
+    {
+        "league": "India A vs Australia A",
+        "match_format": null,
+        "match_description": "1st test",
+        "team1": "India A",
+        "team2": "Australia A",
+        "date_us": "09-16-2025",
+        "time_us": "12:00 AM",
+        "venue": "Ekana International Cricket Stadium (Lucknow)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 68.0,
+            "team2_percent": 32.0,
+            "draw_percent": 0
+        },
+        "details": {
+            "venue": "Ekana International Cricket Stadium (Lucknow)",
+            "temperature_celsius": "+28°C",
+            "weather_condition": "Gloomy, rain",
+            "pressure_mmhg": "755",
+            "humidity_percent": "89",
+            "precipitation_percent": "49"
+        }
+    },
+    {
+        "league": "Pakistan (Women) vs South Africa (Women)",
+        "match_format": null,
+        "match_description": "1st ODI",
+        "team1": "Pakistan (Women)",
+        "team2": "South Africa (Women)",
+        "date_us": "09-16-2025",
+        "time_us": "12:30 AM",
+        "venue": "Gaddafi (Lahore)",
+        "odds": {
+            "team1_win": 2.969,
+            "draw": 50,
+            "team2_win": 1.412
+        },
+        "win_probability": {
+            "team1_percent": 32.0,
+            "team2_percent": 66.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "venue": "Gaddafi (Lahore)",
+            "temperature_celsius": "+32°C",
+            "weather_condition": "Some cloud",
+            "pressure_mmhg": "754",
+            "humidity_percent": "63",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "league": "Australia. One-Day Cup",
+        "match_format": "ODI",
+        "match_description": "Round Robin",
+        "team1": "Queensland Bulls",
+        "team2": "Victoria",
+        "date_us": "09-16-2025",
+        "time_us": "07:30 PM",
+        "venue": "Allan Border Field (Brisbane)",
+        "odds": {
+            "team1_win": 1.783,
+            "draw": 50,
+            "team2_win": 2.065
+        },
+        "win_probability": {
+            "team1_percent": 53.0,
+            "team2_percent": 45.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "round_stage": "Round Robin",
+            "venue": "Allan Border Field (Brisbane)",
+            "match_format_alt": "ODI",
+            "temperature_celsius": "+24°C",
+            "country": "Australia",
+            "weather_condition": "Clear skies",
+            "pressure_mmhg": "766",
+            "humidity_percent": "62",
+            "precipitation_percent": "1"
+        }
+    },
+    {
+        "league": "Asia Cup",
+        "match_format": "T20",
+        "match_description": "Group stage. Group A",
+        "team1": "India",
+        "team2": "Oman",
+        "date_us": "09-19-2025",
+        "time_us": "10:30 AM",
+        "venue": "Sheikh Zayed Stadium (Abu Dhabi)",
+        "odds": null,
+        "win_probability": {
+            "team1_percent": 93.0,
+            "team2_percent": 7.000000000000001,
+            "draw_percent": 0
+        },
+        "details": {
+            "round_stage": "Group stage. Group A",
+            "venue": "Sheikh Zayed Stadium (Abu Dhabi)",
+            "match_format_alt": "T20"
+        }
+    },
+    {
+        "league": "Australia. Queensland Premier First Grade",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "Gold Coast",
+        "team2": "Toombull",
+        "date_us": "09-19-2025",
+        "time_us": "07:00 PM",
+        "venue": "Bill Pippen Oval (Gold Coast)",
+        "odds": {
+            "team1_win": 2.004,
+            "draw": 50,
+            "team2_win": 1.753
+        },
+        "win_probability": {
+            "team1_percent": 46.0,
+            "team2_percent": 52.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "venue": "Bill Pippen Oval (Gold Coast)",
+            "match_format_alt": "ODI",
+            "country": "Australia"
+        }
+    },
+    {
+        "league": "Australia. Queensland Premier First Grade",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "Ipswich",
+        "team2": "Sunshine Coast",
+        "date_us": "09-19-2025",
+        "time_us": "07:00 PM",
+        "venue": "Ivor Marsden (Amberley)",
+        "odds": {
+            "team1_win": 1.623,
+            "draw": 50,
+            "team2_win": 2.155
+        },
+        "win_probability": {
+            "team1_percent": 56.00000000000001,
+            "team2_percent": 42.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "venue": "Ivor Marsden (Amberley)",
+            "match_format_alt": "ODI",
+            "country": "Australia"
+        }
+    },
+    {
+        "league": "Australia. Queensland Premier First Grade",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "Northern Suburbs District",
+        "team2": "Sandgate-Redcliffe",
+        "date_us": "09-19-2025",
+        "time_us": "07:00 PM",
+        "venue": "Ian Healy Oval (Brisbane)",
+        "odds": {
+            "team1_win": 1.171,
+            "draw": 50,
+            "team2_win": 4.52
+        },
+        "win_probability": {
+            "team1_percent": 78.0,
+            "team2_percent": 20.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "venue": "Ian Healy Oval (Brisbane)",
+            "match_format_alt": "ODI",
+            "country": "Australia"
+        }
+    },
+    {
+        "league": "Australia. Queensland Premier First Grade",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "Redlands",
+        "team2": "South Brisbane",
+        "date_us": "09-19-2025",
+        "time_us": "07:00 PM",
+        "venue": "Peter Burge Oval (Brisbane)",
+        "odds": {
+            "team1_win": 1.653,
+            "draw": 50,
+            "team2_win": 2.155
+        },
+        "win_probability": {
+            "team1_percent": 56.00000000000001,
+            "team2_percent": 43.0,
+            "draw_percent": 1.0
+        },
+        "details": {
+            "venue": "Peter Burge Oval (Brisbane)",
+            "match_format_alt": "ODI",
+            "country": "Australia"
+        }
+    },
+    {
+        "league": "Australia. Queensland Premier First Grade",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "Valley",
+        "team2": "University of Queensland",
+        "date_us": "09-19-2025",
+        "time_us": "07:00 PM",
+        "venue": "Peter Easton Oval (Ashgrove)",
+        "odds": {
+            "team1_win": 1.422,
+            "draw": 50,
+            "team2_win": 2.688
+        },
+        "win_probability": {
+            "team1_percent": 64.0,
+            "team2_percent": 34.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "venue": "Peter Easton Oval (Ashgrove)",
+            "match_format_alt": "ODI",
+            "country": "Australia"
+        }
+    },
+    {
+        "league": "Australia. Queensland Premier First Grade",
+        "match_format": "ODI",
+        "match_description": null,
+        "team1": "Wynnum-Manly",
+        "team2": "Western Suburbs",
+        "date_us": "09-19-2025",
+        "time_us": "07:00 PM",
+        "venue": "Bill Albury Oval (Brisbane)",
+        "odds": {
+            "team1_win": 4.925,
+            "draw": 50,
+            "team2_win": 1.141
+        },
+        "win_probability": {
+            "team1_percent": 18.0,
+            "team2_percent": 80.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "venue": "Bill Albury Oval (Brisbane)",
+            "match_format_alt": "ODI",
+            "country": "Australia"
+        }
+    },
+    {
+        "league": "Metro Bank. One Day Cup",
+        "match_format": "ODI",
+        "match_description": "Play-off. Final",
+        "team1": "Hampshire",
+        "team2": "Worcestershire Rapids",
+        "date_us": "09-20-2025",
+        "time_us": "06:00 AM",
+        "venue": "Trent Bridge (Nottingham)",
+        "odds": {
+            "team1_win": 1.87,
+            "draw": 50,
+            "team2_win": 1.96
+        },
+        "win_probability": {
+            "team1_percent": 50.0,
+            "team2_percent": 48.0,
+            "draw_percent": 2.0
+        },
+        "details": {
+            "round_stage": "Play-off. Final",
+            "venue": "Trent Bridge (Nottingham)",
+            "match_format_alt": "ODI",
+            "country": "Great Britain"
+        }
+    }
+]

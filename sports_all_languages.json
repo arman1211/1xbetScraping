@@ -1,0 +1,2402 @@
+[
+    {
+        "sports_id": 1,
+        "name_eng": "Football",
+        "name_bangla": "ফুটবল",
+        "name_france": "Football ",
+        "name_spanish": "Fútbol",
+        "name_hindi": "फुटबॉल"
+    },
+    {
+        "sports_id": 2,
+        "name_eng": "Ice Hockey",
+        "name_bangla": "আইস হকি",
+        "name_france": "Hockey sur glace",
+        "name_spanish": "Hockey sobre hielo",
+        "name_hindi": "आइस हॉकी "
+    },
+    {
+        "sports_id": 3,
+        "name_eng": "Basketball",
+        "name_bangla": "বাস্কেটবল",
+        "name_france": "Basket-ball",
+        "name_spanish": "Baloncesto",
+        "name_hindi": "बास्‍केटबॉल"
+    },
+    {
+        "sports_id": 4,
+        "name_eng": "Tennis",
+        "name_bangla": "টেনিস",
+        "name_france": "Tennis ",
+        "name_spanish": "Tenis",
+        "name_hindi": "टेनिस"
+    },
+    {
+        "sports_id": 5,
+        "name_eng": "Baseball",
+        "name_bangla": "বেসবল",
+        "name_france": "Baseball",
+        "name_spanish": "Béisbol",
+        "name_hindi": "बेसबॉल"
+    },
+    {
+        "sports_id": 6,
+        "name_eng": "Volleyball",
+        "name_bangla": "ভলিবল",
+        "name_france": "Volleyball",
+        "name_spanish": "Voleibol",
+        "name_hindi": "वॉलीबॉल"
+    },
+    {
+        "sports_id": 7,
+        "name_eng": "Rugby",
+        "name_bangla": "রাগবি",
+        "name_france": "Rugby ",
+        "name_spanish": "Rugby",
+        "name_hindi": "रग्‍बी"
+    },
+    {
+        "sports_id": 8,
+        "name_eng": "Handball",
+        "name_bangla": "হ্যান্ডবল",
+        "name_france": "Handball ",
+        "name_spanish": "Balonmano",
+        "name_hindi": "हैंडबॉल"
+    },
+    {
+        "sports_id": 9,
+        "name_eng": "Boxing",
+        "name_bangla": "বক্সিং",
+        "name_france": "Boxe",
+        "name_spanish": "Boxeo",
+        "name_hindi": "बॉक्सिंग"
+    },
+    {
+        "sports_id": 10,
+        "name_eng": "Table Tennis",
+        "name_bangla": "টেবিল টেনিস",
+        "name_france": "Tennis de table",
+        "name_spanish": "Tenis de mesa",
+        "name_hindi": "टेबल टेनिस"
+    },
+    {
+        "sports_id": 11,
+        "name_eng": "Chess",
+        "name_bangla": "দাবা",
+        "name_france": "Echecs",
+        "name_spanish": "Ajedrez",
+        "name_hindi": "शतरंज"
+    },
+    {
+        "sports_id": 12,
+        "name_eng": "Billiards",
+        "name_bangla": "বিলিয়ার্ড",
+        "name_france": "Billard",
+        "name_spanish": "Billar",
+        "name_hindi": "बि‍लि‍यर्ड्स"
+    },
+    {
+        "sports_id": 13,
+        "name_eng": "American Football",
+        "name_bangla": "আমেরিকান ফুটবল",
+        "name_france": "Football Américain",
+        "name_spanish": "Fútbol americano",
+        "name_hindi": "अमेरिकन फुटबॉल "
+    },
+    {
+        "sports_id": 14,
+        "name_eng": "Futsal",
+        "name_bangla": "ফুটসাল",
+        "name_france": "Futsal ",
+        "name_spanish": "Fútbol sala",
+        "name_hindi": "फुटसल"
+    },
+    {
+        "sports_id": 15,
+        "name_eng": "Bandy",
+        "name_bangla": "ব্যান্ডি",
+        "name_france": "Bandy ",
+        "name_spanish": "Bandy",
+        "name_hindi": "बैंडी"
+    },
+    {
+        "sports_id": 16,
+        "name_eng": "Badminton",
+        "name_bangla": "ব্যাডমিন্টন",
+        "name_france": "Badminton ",
+        "name_spanish": "Bádminton",
+        "name_hindi": "बैडमिंटन"
+    },
+    {
+        "sports_id": 17,
+        "name_eng": "Water Polo",
+        "name_bangla": "ওয়াটার পোলো",
+        "name_france": "Water Polo ",
+        "name_spanish": "Waterpolo",
+        "name_hindi": "वॉटर पोलो "
+    },
+    {
+        "sports_id": 18,
+        "name_eng": "Motorsport",
+        "name_bangla": "মোটরস্পোর্ট",
+        "name_france": "Course Automobile",
+        "name_spanish": "Motor",
+        "name_hindi": "मोटरस्‍पोर्ट"
+    },
+    {
+        "sports_id": 19,
+        "name_eng": "Biathlon",
+        "name_bangla": "বায়াথলন",
+        "name_france": "Biathlon ",
+        "name_spanish": "Biatlón",
+        "name_hindi": "बैथलॉन"
+    },
+    {
+        "sports_id": 20,
+        "name_eng": "TV Games",
+        "name_bangla": "টিভি গেমস",
+        "name_france": "Jeux télé",
+        "name_spanish": "Juegos de TV",
+        "name_hindi": "टीवी-गेम्‍स"
+    },
+    {
+        "sports_id": 21,
+        "name_eng": "Darts",
+        "name_bangla": "ডার্টস",
+        "name_france": "Jeu de Fléchettes",
+        "name_spanish": "Dardos",
+        "name_hindi": "डार्ट्स"
+    },
+    {
+        "sports_id": 22,
+        "name_eng": "Alpine Skiing",
+        "name_bangla": "আলপাইন স্কিয়িং",
+        "name_france": "Ski Alpin",
+        "name_spanish": "Esquí alpino",
+        "name_hindi": "अल्पाइन स्कीइंग"
+    },
+    {
+        "sports_id": 23,
+        "name_eng": "Ski Jumping",
+        "name_bangla": "স্কি জাম্পিং",
+        "name_france": "Le Saut à Ski",
+        "name_spanish": "Salto de esquí",
+        "name_hindi": "स्‍की जंपिंग"
+    },
+    {
+        "sports_id": 24,
+        "name_eng": "Skiing",
+        "name_bangla": "স্কিয়িং",
+        "name_france": "Ski",
+        "name_spanish": "Esquí",
+        "name_hindi": "स्‍कीइंग"
+    },
+    {
+        "sports_id": 25,
+        "name_eng": "Beach Soccer",
+        "name_bangla": "বিচ সকার",
+        "name_france": "Beach Soccer ",
+        "name_spanish": "Fútbol playa",
+        "name_hindi": "बीच सॉकर"
+    },
+    {
+        "sports_id": 26,
+        "name_eng": "Formula 1",
+        "name_bangla": "ফর্মুলা 1",
+        "name_france": "Formule 1",
+        "name_spanish": "Fórmula 1",
+        "name_hindi": "फॉर्मूला 1"
+    },
+    {
+        "sports_id": 27,
+        "name_eng": "Field Hockey",
+        "name_bangla": "ফিল্ড হকি",
+        "name_france": "Hockey sur Gazon",
+        "name_spanish": "Hockey sobre hierba",
+        "name_hindi": "फील्ड हॉकी"
+    },
+    {
+        "sports_id": 28,
+        "name_eng": "Australian Rules",
+        "name_bangla": "অস্ট্রেলিয়ান রুলস",
+        "name_france": "Football Australien",
+        "name_spanish": "Fútbol australiano",
+        "name_hindi": "ऑस्‍ट्रेलियन रूल्‍स"
+    },
+    {
+        "sports_id": 29,
+        "name_eng": "Beach Volleyball",
+        "name_bangla": "বিচ ভলিবল",
+        "name_france": "Beach Volleyball ",
+        "name_spanish": "Voleibol de playa",
+        "name_hindi": "बीच वॉलीबॉल"
+    },
+    {
+        "sports_id": 30,
+        "name_eng": "Snooker",
+        "name_bangla": "স্নুকার",
+        "name_france": "Billard",
+        "name_spanish": "Snooker",
+        "name_hindi": "स्‍नूकर "
+    },
+    {
+        "sports_id": 31,
+        "name_eng": "Motorbikes",
+        "name_bangla": "মোটরবাইকস",
+        "name_france": "Moto",
+        "name_spanish": "Motociclismo",
+        "name_hindi": "मोटरबाइक्‍स "
+    },
+    {
+        "sports_id": 32,
+        "name_eng": "Bowls",
+        "name_bangla": "বোলস",
+        "name_france": "Jeu de Boules",
+        "name_spanish": "Bolos",
+        "name_hindi": "बाउल्‍स"
+    },
+    {
+        "sports_id": 33,
+        "name_eng": "Inline Hockey",
+        "name_bangla": "ইনলাইন হকি",
+        "name_france": "Hockey sur Roller",
+        "name_spanish": "Hockey sobre patines",
+        "name_hindi": "इनलाइन हॉकी"
+    },
+    {
+        "sports_id": 34,
+        "name_eng": "Padel Tennis",
+        "name_bangla": "প্যাডেল টেনিস",
+        "name_france": "Paddle",
+        "name_spanish": "Pádel",
+        "name_hindi": "पैडल टेनिस"
+    },
+    {
+        "sports_id": 35,
+        "name_eng": "Beach Handball",
+        "name_bangla": "বিচ হ্যান্ডবল",
+        "name_france": "Handball sur Plage",
+        "name_spanish": "Balonmano playa",
+        "name_hindi": "बीच हैंडबॉल"
+    },
+    {
+        "sports_id": 36,
+        "name_eng": "Bicycle Racing",
+        "name_bangla": "বাইসাইকেল রেসিং",
+        "name_france": "Cyclisme",
+        "name_spanish": "Ciclismo",
+        "name_hindi": "साइकिल रेसिंग"
+    },
+    {
+        "sports_id": 37,
+        "name_eng": "Swimming",
+        "name_bangla": "সাঁতার",
+        "name_france": "Natation",
+        "name_spanish": "Natación",
+        "name_hindi": "तैराकी "
+    },
+    {
+        "sports_id": 38,
+        "name_eng": "Poker",
+        "name_bangla": "পোকার",
+        "name_france": "Poker ",
+        "name_spanish": "Póker",
+        "name_hindi": "पोकर"
+    },
+    {
+        "sports_id": 39,
+        "name_eng": "Squash",
+        "name_bangla": "স্কোয়াশ",
+        "name_france": "Squash ",
+        "name_spanish": "Squash",
+        "name_hindi": "स्‍क्‍वैश"
+    },
+    {
+        "sports_id": 40,
+        "name_eng": "Esports",
+        "name_bangla": "ইস্পোর্টস",
+        "name_france": "Jeux Virtuels",
+        "name_spanish": "eSports",
+        "name_hindi": "ईस्पोर्ट्स"
+    },
+    {
+        "sports_id": 41,
+        "name_eng": "Golf",
+        "name_bangla": "গলফ",
+        "name_france": "Golf ",
+        "name_spanish": "Golf",
+        "name_hindi": "गोल्‍फ "
+    },
+    {
+        "sports_id": 42,
+        "name_eng": "Financials",
+        "name_bangla": "ফাইনান্সিয়ালস",
+        "name_france": "Paris Financiers",
+        "name_spanish": "Apuestas financieras",
+        "name_hindi": "फाइनैंशियल्‍स"
+    },
+    {
+        "sports_id": 43,
+        "name_eng": "Indoor Hockey",
+        "name_bangla": "ইনডোর হকি",
+        "name_france": "Hockey en Salle",
+        "name_spanish": "Hockey indoor",
+        "name_hindi": "इंडोर हॉकी "
+    },
+    {
+        "sports_id": 44,
+        "name_eng": "Horse Racing",
+        "name_bangla": "ঘোড়দৌড়",
+        "name_france": "Courses hippiques",
+        "name_spanish": "Carreras de caballos",
+        "name_hindi": "घुड़दौड़"
+    },
+    {
+        "sports_id": 45,
+        "name_eng": "Minifootball",
+        "name_bangla": "ফুটসাল",
+        "name_france": "Futsal ",
+        "name_spanish": "Fútbol sala",
+        "name_hindi": "फुटसल"
+    },
+    {
+        "sports_id": 46,
+        "name_eng": "Curling",
+        "name_bangla": "কার্লিং",
+        "name_france": "Curling ",
+        "name_spanish": "Curling",
+        "name_hindi": "कर्लिंग (एक प्रकार का बर्फ का खेल)"
+    },
+    {
+        "sports_id": 47,
+        "name_eng": "Ball Hockey",
+        "name_bangla": "বল হকি",
+        "name_france": "Hockey-balle",
+        "name_spanish": "Ball hockey",
+        "name_hindi": "बॉल हॉकी"
+    },
+    {
+        "sports_id": 48,
+        "name_eng": "Lacrosse",
+        "name_bangla": "ল্যাকরোসি",
+        "name_france": "Lacrosse ",
+        "name_spanish": "Lacrosse",
+        "name_hindi": "लक्रॉस"
+    },
+    {
+        "sports_id": 49,
+        "name_eng": "Netball",
+        "name_bangla": "নেটবল",
+        "name_france": "Netball ",
+        "name_spanish": "Netball",
+        "name_hindi": "नेटबॉल"
+    },
+    {
+        "sports_id": 50,
+        "name_eng": "Olympics",
+        "name_bangla": "অলিম্পিয়াড",
+        "name_france": "Jeux Olympiques",
+        "name_spanish": "Olimpiada",
+        "name_hindi": "ओलंपियाड"
+    },
+    {
+        "sports_id": 51,
+        "name_eng": "Gymnastics",
+        "name_bangla": "জিমন্যাস্টিকস",
+        "name_france": "Gymnastique",
+        "name_spanish": "Gimnasia",
+        "name_hindi": "जिम्‍नास्टिक्‍स"
+    },
+    {
+        "sports_id": 52,
+        "name_eng": "Equestrianism",
+        "name_bangla": "ইকুয়েস্ট্রিয়ানিজম",
+        "name_france": "Hippisme",
+        "name_spanish": "Equitación",
+        "name_hindi": "घुड़सवारी "
+    },
+    {
+        "sports_id": 53,
+        "name_eng": "Wrestling",
+        "name_bangla": "রেসলিং",
+        "name_france": "Lutte",
+        "name_spanish": "Lucha libre",
+        "name_hindi": "कुश्‍ती"
+    },
+    {
+        "sports_id": 54,
+        "name_eng": "Archery",
+        "name_bangla": "আর্চারি",
+        "name_france": "Tir à l'arc",
+        "name_spanish": "Tiro con arco",
+        "name_hindi": "तीरंदाजी"
+    },
+    {
+        "sports_id": 55,
+        "name_eng": "Judo",
+        "name_bangla": "জুডো",
+        "name_france": "Judo ",
+        "name_spanish": "Judo",
+        "name_hindi": "जूडो"
+    },
+    {
+        "sports_id": 56,
+        "name_eng": "Martial Arts",
+        "name_bangla": "মার্শাল আর্টস",
+        "name_france": "Sports de Combat",
+        "name_spanish": "Artes marciales",
+        "name_hindi": "मार्शल आर्ट"
+    },
+    {
+        "sports_id": 57,
+        "name_eng": "Athletics",
+        "name_bangla": "অ্যাথলেটিকস",
+        "name_france": "Athlétisme",
+        "name_spanish": "Atletismo",
+        "name_hindi": "एथलेटिक्स"
+    },
+    {
+        "sports_id": 58,
+        "name_eng": "Canoe Racing",
+        "name_bangla": "ক্যানো রেসিং",
+        "name_france": "Course de Canoë",
+        "name_spanish": "Piragüismo",
+        "name_hindi": "डोंगी रेसिंग"
+    },
+    {
+        "sports_id": 59,
+        "name_eng": "Diving",
+        "name_bangla": "ডাইভিং",
+        "name_france": "Plongeon",
+        "name_spanish": "Salto",
+        "name_hindi": "डाइविंग"
+    },
+    {
+        "sports_id": 60,
+        "name_eng": "Fencing",
+        "name_bangla": "ফেন্সিং",
+        "name_france": "Escrime",
+        "name_spanish": "Esgrima",
+        "name_hindi": "फेंसिंग"
+    },
+    {
+        "sports_id": 61,
+        "name_eng": "Modern Pentathlon",
+        "name_bangla": "মডার্ন প্যান্থালন",
+        "name_france": "Le Pentathlon Moderne",
+        "name_spanish": "Pentatlón",
+        "name_hindi": "आधुनिक पेंटाथलान"
+    },
+    {
+        "sports_id": 62,
+        "name_eng": "Rowing",
+        "name_bangla": "রোয়িং",
+        "name_france": "Aviron",
+        "name_spanish": "Remo",
+        "name_hindi": "नौका रेस "
+    },
+    {
+        "sports_id": 63,
+        "name_eng": "Sailing",
+        "name_bangla": "সেইলিং",
+        "name_france": "Nautisme à la Voile",
+        "name_spanish": "Vela",
+        "name_hindi": "नौकायन"
+    },
+    {
+        "sports_id": 64,
+        "name_eng": "Shooting",
+        "name_bangla": "শুটিং",
+        "name_france": "Tir Sportif",
+        "name_spanish": "Tiro",
+        "name_hindi": "शूटिंग"
+    },
+    {
+        "sports_id": 65,
+        "name_eng": "Triathlon",
+        "name_bangla": "ট্রাইএথলন",
+        "name_france": "Triathlon",
+        "name_spanish": "Triatlón",
+        "name_hindi": "ट्रायथलन"
+    },
+    {
+        "sports_id": 66,
+        "name_eng": "Cricket",
+        "name_bangla": "ক্রিকেট",
+        "name_france": "Cricket  ",
+        "name_spanish": "Críquet",
+        "name_hindi": "क्रिकेट"
+    },
+    {
+        "sports_id": 67,
+        "name_eng": "Floorball",
+        "name_bangla": "ফ্লোরবল",
+        "name_france": "Floorball ",
+        "name_spanish": "Floorball",
+        "name_hindi": "फ्‍लोरबॉल"
+    },
+    {
+        "sports_id": 68,
+        "name_eng": "Greyhound Racing",
+        "name_bangla": "গ্রেহাউন্ড রেসিং",
+        "name_france": "Courses de Lévriers",
+        "name_spanish": "Carreras de galgos",
+        "name_hindi": "ग्रेहाउंड रेसिंग"
+    },
+    {
+        "sports_id": 69,
+        "name_eng": "Toto",
+        "name_bangla": "Toto",
+        "name_france": "TOTO",
+        "name_spanish": "Toto",
+        "name_hindi": "Toto"
+    },
+    {
+        "sports_id": 70,
+        "name_eng": "Roller Hockey",
+        "name_bangla": "ইনলাইন হকি",
+        "name_france": "Hockey sur Roller",
+        "name_spanish": "Hockey sobre patines",
+        "name_hindi": "इनलाइन हॉकी"
+    },
+    {
+        "sports_id": 71,
+        "name_eng": "Figure Skating",
+        "name_bangla": "ফিগার স্কেটিং",
+        "name_france": "Patinage Artistique",
+        "name_spanish": "Patinaje artístico sobre hielo",
+        "name_hindi": "फिगर स्केटिंग"
+    },
+    {
+        "sports_id": 72,
+        "name_eng": "Speed Skating",
+        "name_bangla": "স্পিড স্কেটিং",
+        "name_france": "Le Patinage de Vitesse",
+        "name_spanish": "Patinaje de velocidad sobre hielo",
+        "name_hindi": "स्‍पीड स्‍केटिंग"
+    },
+    {
+        "sports_id": 73,
+        "name_eng": "Skeleton",
+        "name_bangla": "স্কেলেটন",
+        "name_france": "Skeleton ",
+        "name_spanish": "Skeleton",
+        "name_hindi": "स्‍केलेटॉन"
+    },
+    {
+        "sports_id": 74,
+        "name_eng": "Freestyle Skiing",
+        "name_bangla": "ফ্রিস্টাইল স্কিয়িং",
+        "name_france": "Ski Acrobatique",
+        "name_spanish": "Esquí acrobático",
+        "name_hindi": "फ्रीस्‍टाइल स्‍कीइंग"
+    },
+    {
+        "sports_id": 75,
+        "name_eng": "Bobsleigh",
+        "name_bangla": "ববস্লেড",
+        "name_france": "Bobsleigh ",
+        "name_spanish": "Bobsleigh",
+        "name_hindi": "बॉब्स्ले"
+    },
+    {
+        "sports_id": 76,
+        "name_eng": "Nordic Combined",
+        "name_bangla": "নরডিক কম্বাইন্ড",
+        "name_france": "Combiné Nordique",
+        "name_spanish": "Combinada nórdica",
+        "name_hindi": "नॉर्डिक कम्‍बाइंड"
+    },
+    {
+        "sports_id": 77,
+        "name_eng": "Luge",
+        "name_bangla": "লুজি",
+        "name_france": "Luge",
+        "name_spanish": "Luge",
+        "name_hindi": "टोबॉगन/लुग"
+    },
+    {
+        "sports_id": 78,
+        "name_eng": "Short Track Speed Skating",
+        "name_bangla": "শর্ট ট্র্যাক স্পিড স্কেটিং",
+        "name_france": "Patinage de vitesse sur courte piste",
+        "name_spanish": "Patinaje de velocidad sobre pista corta",
+        "name_hindi": "शॉर्ट ट्रैक स्‍पीड स्‍केटिंग"
+    },
+    {
+        "sports_id": 79,
+        "name_eng": "MMA",
+        "name_bangla": "MMA",
+        "name_france": "MMA ",
+        "name_spanish": "Artes marciales mixtas",
+        "name_hindi": "एमएमए"
+    },
+    {
+        "sports_id": 80,
+        "name_eng": "Gaelic Football",
+        "name_bangla": "গেইলিক ফুটবল",
+        "name_france": "Football Gaélique",
+        "name_spanish": "Fútbol gaélico",
+        "name_hindi": "गेलिक फुटबॉल"
+    },
+    {
+        "sports_id": 81,
+        "name_eng": "Sumo",
+        "name_bangla": "সুমো",
+        "name_france": "Sumo ",
+        "name_spanish": "Sumo",
+        "name_hindi": "सूमो"
+    },
+    {
+        "sports_id": 82,
+        "name_eng": "Lottery",
+        "name_bangla": "লটারি",
+        "name_france": "Loterie",
+        "name_spanish": "Lotería",
+        "name_hindi": "लॉटरी"
+    },
+    {
+        "sports_id": 83,
+        "name_eng": "Softball",
+        "name_bangla": "সফটবল",
+        "name_france": "Softball ",
+        "name_spanish": "Sóftbol",
+        "name_hindi": "सॉफ्‍टबॉल"
+    },
+    {
+        "sports_id": 84,
+        "name_eng": "Snowboarding",
+        "name_bangla": "স্নোবোর্ডিং",
+        "name_france": "Snowboard",
+        "name_spanish": "Snowboarding",
+        "name_hindi": "स्‍नोबोर्डिंग"
+    },
+    {
+        "sports_id": 85,
+        "name_eng": "FIFA",
+        "name_bangla": "FIFA",
+        "name_france": "FIFA",
+        "name_spanish": "FIFA",
+        "name_hindi": "FIFA"
+    },
+    {
+        "sports_id": 86,
+        "name_eng": "Counter Strike",
+        "name_bangla": "Counter Strike",
+        "name_france": "Counter Strike ",
+        "name_spanish": "Counter Strike",
+        "name_hindi": "Counter Strike"
+    },
+    {
+        "sports_id": 87,
+        "name_eng": "Special Bets",
+        "name_bangla": "স্পেশাল বেট",
+        "name_france": "Paris spéciaux",
+        "name_spanish": "Apuestas Especiales",
+        "name_hindi": "विशेषबेट"
+    },
+    {
+        "sports_id": 88,
+        "name_eng": "Alternative Tennis",
+        "name_bangla": "বিকল্প টেনিস",
+        "name_france": "Tennis Alternative",
+        "name_spanish": "Tenis alternativo",
+        "name_hindi": "वैकल्पिक टेनिस"
+    },
+    {
+        "sports_id": 89,
+        "name_eng": "Esports Ice Hockey",
+        "name_bangla": "ইস্পোর্টস আইস হকি",
+        "name_france": "Hockey sur Glace Virtuel",
+        "name_spanish": "eSports Hockey sobre hielo",
+        "name_hindi": "साइबर आइस हॉकी"
+    },
+    {
+        "sports_id": 90,
+        "name_eng": "Esports UFC",
+        "name_bangla": "ইস্পোর্টস UFC",
+        "name_france": "e-Sport UFC",
+        "name_spanish": "eSports UFC",
+        "name_hindi": "ईस्‍पोर्ट्स UFC"
+    },
+    {
+        "sports_id": 91,
+        "name_eng": "Esports Basketball",
+        "name_bangla": "ইস্পোর্টস বাস্কেটবল",
+        "name_france": "Basketball Virtuel",
+        "name_spanish": "eSports Baloncesto",
+        "name_hindi": "साइबर बास्‍केटबॉल"
+    },
+    {
+        "sports_id": 92,
+        "name_eng": "Trotting",
+        "name_bangla": "ট্রটিং",
+        "name_france": "Trot",
+        "name_spanish": "Trote",
+        "name_hindi": "ट्रॉटिंग"
+    },
+    {
+        "sports_id": 94,
+        "name_eng": "Esports Tennis",
+        "name_bangla": "ইস্পোর্টস টেনিস",
+        "name_france": "Tennis Virtuel",
+        "name_spanish": "eSports Tenis",
+        "name_hindi": "साइबर टेनिस"
+    },
+    {
+        "sports_id": 95,
+        "name_eng": "Alternative Sports",
+        "name_bangla": "বিকল্প খেলাধূলা",
+        "name_france": "Sports Alternatifs",
+        "name_spanish": "Deportes alternativos",
+        "name_hindi": "वैकल्पिक स्‍पोर्टस"
+    },
+    {
+        "sports_id": 96,
+        "name_eng": "World of tanks",
+        "name_bangla": "World of tanks",
+        "name_france": "World of Tanks",
+        "name_spanish": "World of Tanks",
+        "name_hindi": "वर्ल्‍ड ऑफ टैंक्‍स"
+    },
+    {
+        "sports_id": 97,
+        "name_eng": "Dota",
+        "name_bangla": "Dota",
+        "name_france": "Dota ",
+        "name_spanish": "Dota",
+        "name_hindi": "Dota"
+    },
+    {
+        "sports_id": 98,
+        "name_eng": "Worms",
+        "name_bangla": "Worms",
+        "name_france": "Worms ",
+        "name_spanish": "Worms",
+        "name_hindi": "Worms"
+    },
+    {
+        "sports_id": 99,
+        "name_eng": "Esports Cricket",
+        "name_bangla": "ইস্পোর্টস ক্রিকেট",
+        "name_france": "Cricket Virtuel",
+        "name_spanish": "eSports Críquet",
+        "name_hindi": "ईस्‍पोर्ट्स क्रिकेट"
+    },
+    {
+        "sports_id": 100,
+        "name_eng": "Esports Handball",
+        "name_bangla": "ইস্পোর্টস হ্যান্ডবল",
+        "name_france": "Handball Virtuel",
+        "name_spanish": "eSports Balonmano",
+        "name_hindi": "ईस्‍पोर्ट्स हैंडबॉल"
+    },
+    {
+        "sports_id": 101,
+        "name_eng": "Esports Wrestling",
+        "name_bangla": "ইস্পোর্টস রেসলিং",
+        "name_france": "Lutte Virtuelle",
+        "name_spanish": "eSports Lucha libre",
+        "name_hindi": "ईस्‍पोर्ट्स कुश्‍ती"
+    },
+    {
+        "sports_id": 102,
+        "name_eng": "Speedway",
+        "name_bangla": "স্পিডওয়ে",
+        "name_france": "Speedway",
+        "name_spanish": "Motor",
+        "name_hindi": "स्‍पीडवे"
+    },
+    {
+        "sports_id": 103,
+        "name_eng": "Mortal Kombat",
+        "name_bangla": "মর্টাল কমব্যাট",
+        "name_france": "Mortal Kombat",
+        "name_spanish": "Mortal Kombat",
+        "name_hindi": "मौत का संग्राम (मोर्टल कॉम्‍बैट)"
+    },
+    {
+        "sports_id": 105,
+        "name_eng": "Streetball",
+        "name_bangla": "স্ট্রিটবল",
+        "name_france": "Streetball",
+        "name_spanish": "Streetball",
+        "name_hindi": "स्‍ट्रीटबॉल"
+    },
+    {
+        "sports_id": 106,
+        "name_eng": "League of Legends",
+        "name_bangla": "League Of Legends",
+        "name_france": "League of Legends",
+        "name_spanish": "League of Legends",
+        "name_hindi": "League Of Legends"
+    },
+    {
+        "sports_id": 107,
+        "name_eng": "HearthStone",
+        "name_bangla": "HearthStone",
+        "name_france": "HearthStone ",
+        "name_spanish": "HearthStone",
+        "name_hindi": "हर्टस्‍टोन"
+    },
+    {
+        "sports_id": 109,
+        "name_eng": "Rocket League",
+        "name_bangla": "Rocket League",
+        "name_france": "Rocket League ",
+        "name_spanish": "Rocket League",
+        "name_hindi": "Rocket League"
+    },
+    {
+        "sports_id": 110,
+        "name_eng": "BattleField",
+        "name_bangla": "BattleField",
+        "name_france": "BattleField ",
+        "name_spanish": "BattleField",
+        "name_hindi": "BattleField"
+    },
+    {
+        "sports_id": 111,
+        "name_eng": "Taekwondo",
+        "name_bangla": "তায়কউন্ডো",
+        "name_france": "Taekwondo",
+        "name_spanish": "Taekwondo",
+        "name_hindi": "ताइक्‍वांडो "
+    },
+    {
+        "sports_id": 112,
+        "name_eng": "Weightlifting",
+        "name_bangla": "ভারোত্তোলন",
+        "name_france": "Haltérophilie",
+        "name_spanish": "Halterofilia",
+        "name_hindi": "भारोत्‍तोलन"
+    },
+    {
+        "sports_id": 113,
+        "name_eng": "Bowling",
+        "name_bangla": "বোলিং",
+        "name_france": "Bowling",
+        "name_spanish": "Bolos",
+        "name_hindi": "बाउलिंग"
+    },
+    {
+        "sports_id": 114,
+        "name_eng": "Esports Rugby",
+        "name_bangla": "ইস্পোর্টস রাগবি",
+        "name_france": "Rugby Virtuel",
+        "name_spanish": "eSports Rugby",
+        "name_hindi": "ईस्‍पोर्ट्स रग्‍बी"
+    },
+    {
+        "sports_id": 115,
+        "name_eng": "Esports American Football",
+        "name_bangla": "ইস্পোর্টস আমেরিকান ফুটবল",
+        "name_france": "Football américain Virtuel",
+        "name_spanish": "eSports Fútbol americano",
+        "name_hindi": "ईस्‍पोर्ट्स अमेरिकन फुटबॉल"
+    },
+    {
+        "sports_id": 116,
+        "name_eng": "Esports Rally",
+        "name_bangla": "ইস্পোর্টস র‍্যালি",
+        "name_france": "Rallye Virtuel",
+        "name_spanish": "eSports Rally",
+        "name_hindi": "ईस्‍पोर्ट्स रैली"
+    },
+    {
+        "sports_id": 117,
+        "name_eng": "Need for Speed",
+        "name_bangla": "Need for Speed",
+        "name_france": "Need for Speed ",
+        "name_spanish": "Need for Speed",
+        "name_hindi": "Need for Speed"
+    },
+    {
+        "sports_id": 118,
+        "name_eng": "Sepak takraw",
+        "name_bangla": "সেপাক তাকরাও",
+        "name_france": "Sepak takraw",
+        "name_spanish": "Sepak takraw",
+        "name_hindi": "स्‍पार्क टकरॉ"
+    },
+    {
+        "sports_id": 119,
+        "name_eng": "US Elections",
+        "name_bangla": "যুক্তরাষ্ট্রের নির্বাচন",
+        "name_france": "Elections US",
+        "name_spanish": "Elecciones de EE. UU.",
+        "name_hindi": "यूएस चुनाव"
+    },
+    {
+        "sports_id": 120,
+        "name_eng": "Esports Golf",
+        "name_bangla": "ইস্পোর্টস গলফ",
+        "name_france": "Golf Virtuel",
+        "name_spanish": "eSports Golf",
+        "name_hindi": "ईस्‍पोर्ट्स गोल्‍फ"
+    },
+    {
+        "sports_id": 121,
+        "name_eng": "Esports Baseball",
+        "name_bangla": "ইস্পোর্টস বেসবল",
+        "name_france": "Baseball Virtuel",
+        "name_spanish": "eSports Béisbol",
+        "name_hindi": "ईस्‍पोर्ट्स बेसबॉल"
+    },
+    {
+        "sports_id": 122,
+        "name_eng": "Indoor Soccer",
+        "name_bangla": "ইনডোর সকার",
+        "name_france": "Foot en salle",
+        "name_spanish": "Fútbol sala",
+        "name_hindi": "इंडोर सॉकर"
+    },
+    {
+        "sports_id": 125,
+        "name_eng": "Call Of Duty",
+        "name_bangla": "কল অব ডিউটি",
+        "name_france": "Call Of Duty ",
+        "name_spanish": "Call of Duty",
+        "name_hindi": "Call Of Duty"
+    },
+    {
+        "sports_id": 126,
+        "name_eng": "Hurling",
+        "name_bangla": "হার্লিং",
+        "name_france": "Hurling",
+        "name_spanish": "Hurling",
+        "name_hindi": "हर्लिंग"
+    },
+    {
+        "sports_id": 128,
+        "name_eng": "StreetFighter",
+        "name_bangla": "Street Fighter",
+        "name_france": "StreetFighter ",
+        "name_spanish": "Street Fighter",
+        "name_hindi": "Street Fighter"
+    },
+    {
+        "sports_id": 129,
+        "name_eng": "Esports F1",
+        "name_bangla": "ইস্পোর্টস F1",
+        "name_france": "F1 Virtuel",
+        "name_spanish": "eSports F1",
+        "name_hindi": "ईस्‍पोर्ट्स एफ1"
+    },
+    {
+        "sports_id": 130,
+        "name_eng": "Esports Lacrosse",
+        "name_bangla": "ইস্পোর্টস ল্যাকরোসি",
+        "name_france": "Lacrosse Virtuel",
+        "name_spanish": "eSports Lacrosse",
+        "name_hindi": "ईस्‍पोर्ट्स लैक्रोस"
+    },
+    {
+        "sports_id": 131,
+        "name_eng": "Quake 4",
+        "name_bangla": "Quake 4",
+        "name_france": "Quake 4",
+        "name_spanish": "Quake 4",
+        "name_hindi": "Quake 4"
+    },
+    {
+        "sports_id": 132,
+        "name_eng": "Horse Racing AntePost",
+        "name_bangla": "ঘোড়দৌড় অ্যান্টেপোস্ট",
+        "name_france": "Course de chevaux AntePost",
+        "name_spanish": "Carreras de caballos a largo plazo",
+        "name_hindi": "हॉर्स रेसिंग एंटेपोस्‍ट"
+    },
+    {
+        "sports_id": 133,
+        "name_eng": "Trotting AntePost",
+        "name_bangla": "ট্রটিং অ্যান্টেপোস্ট",
+        "name_france": "Trot AntePost",
+        "name_spanish": "Trotones a largo plazo",
+        "name_hindi": "ट्रोटिंग एंटेपोस्‍ट"
+    },
+    {
+        "sports_id": 135,
+        "name_eng": "Steep",
+        "name_bangla": "Steep",
+        "name_france": "Steep ",
+        "name_spanish": "Steep",
+        "name_hindi": "Steep"
+    },
+    {
+        "sports_id": 136,
+        "name_eng": "Angry Birds",
+        "name_bangla": "Angry Birds",
+        "name_france": "AngryBirds ",
+        "name_spanish": "Angry Birds",
+        "name_hindi": "Angry Birds"
+    },
+    {
+        "sports_id": 138,
+        "name_eng": "Surfing",
+        "name_bangla": "সার্ফিং",
+        "name_france": "Surf",
+        "name_spanish": "Surf",
+        "name_hindi": "सर्फिंग"
+    },
+    {
+        "sports_id": 139,
+        "name_eng": "Esports Floorball",
+        "name_bangla": "ইস্পোর্টস ফ্লোরবল",
+        "name_france": "e-Sport Floorball",
+        "name_spanish": "eSports Floorball",
+        "name_hindi": "ईस्‍पोर्ट्स फुटबॉल"
+    },
+    {
+        "sports_id": 140,
+        "name_eng": "Crossfit",
+        "name_bangla": "ক্রসফিট",
+        "name_france": "Crossfit",
+        "name_spanish": "Crossfit",
+        "name_hindi": "क्रॉसफिट"
+    },
+    {
+        "sports_id": 141,
+        "name_eng": "King of Fighters",
+        "name_bangla": "The King of Fighters",
+        "name_france": "The King of Fighters",
+        "name_spanish": "The King of Fighters",
+        "name_hindi": "The King of Fighters"
+    },
+    {
+        "sports_id": 142,
+        "name_eng": "Motorbikes AntePost",
+        "name_bangla": "মোটরবাইকস অ্যান্টেপোস্ট",
+        "name_france": "Course moto. Long terme",
+        "name_spanish": "Motociclismo. Apuestas a largo plazo",
+        "name_hindi": "Motorbikes AntePost"
+    },
+    {
+        "sports_id": 143,
+        "name_eng": "Injustice",
+        "name_bangla": "Injustice",
+        "name_france": "Injustice",
+        "name_spanish": "Injustice",
+        "name_hindi": "Injustice"
+    },
+    {
+        "sports_id": 144,
+        "name_eng": "PES",
+        "name_bangla": "PES",
+        "name_france": "PES",
+        "name_spanish": "PES",
+        "name_hindi": "PES"
+    },
+    {
+        "sports_id": 145,
+        "name_eng": "Tekken",
+        "name_bangla": "Tekken",
+        "name_france": "Tekken",
+        "name_spanish": "Tekken",
+        "name_hindi": "Tekken"
+    },
+    {
+        "sports_id": 146,
+        "name_eng": "TwentyOne",
+        "name_bangla": "টুয়েন্টিওয়ান",
+        "name_france": "Jeu « 21 »",
+        "name_spanish": "21",
+        "name_hindi": "TwentyOne"
+    },
+    {
+        "sports_id": 147,
+        "name_eng": "Bodybuilding",
+        "name_bangla": "বডিবিল্ডিং",
+        "name_france": "Culturisme",
+        "name_spanish": "Culturismo",
+        "name_hindi": "बॉडीबिल्डिंग"
+    },
+    {
+        "sports_id": 148,
+        "name_eng": "Heroes",
+        "name_bangla": "Heroes",
+        "name_france": "Heroes",
+        "name_spanish": "Heroes",
+        "name_hindi": "Heroes"
+    },
+    {
+        "sports_id": 149,
+        "name_eng": "Pesäpallo",
+        "name_bangla": "পেসাপেলো",
+        "name_france": "Pesäpallo",
+        "name_spanish": "Pesäpallo",
+        "name_hindi": "पेसा पालो (फिनिश बेसबॉल)"
+    },
+    {
+        "sports_id": 150,
+        "name_eng": "StarCraft 2",
+        "name_bangla": "StarCraft 2",
+        "name_france": "StarCraft 2",
+        "name_spanish": "StarCraft 2",
+        "name_hindi": "StarCraft 2"
+    },
+    {
+        "sports_id": 151,
+        "name_eng": "Greyhound Racing AntePost",
+        "name_bangla": "গ্রেহাউন্ড অ্যান্টেপোস্ট",
+        "name_france": "Courses de Lévriers. Long terme",
+        "name_spanish": "Galgos. Apuestas a largo plazo",
+        "name_hindi": "ग्रेहाउंड एन्टेपोस्ट"
+    },
+    {
+        "sports_id": 152,
+        "name_eng": "Disc Jam",
+        "name_bangla": "Disc Jam",
+        "name_france": "Disc Jam",
+        "name_spanish": "Disc Jam",
+        "name_hindi": "Disc Jam"
+    },
+    {
+        "sports_id": 153,
+        "name_eng": "Durak",
+        "name_bangla": "দুরাক",
+        "name_france": "Dourak",
+        "name_spanish": "Durak",
+        "name_hindi": "Durak"
+    },
+    {
+        "sports_id": 154,
+        "name_eng": "Flatout",
+        "name_bangla": "Flatout",
+        "name_france": "FlatOut",
+        "name_spanish": "Flatout",
+        "name_hindi": "Flatout"
+    },
+    {
+        "sports_id": 155,
+        "name_eng": "Arm Wrestling",
+        "name_bangla": "আর্ম রেসলিং",
+        "name_france": "Bras de fer",
+        "name_spanish": "Pulso",
+        "name_hindi": "आर्म रेसलिंग"
+    },
+    {
+        "sports_id": 156,
+        "name_eng": "Cycle Ball",
+        "name_bangla": "সাইকেল বল",
+        "name_france": "Cycle-ball",
+        "name_spanish": "Ciclobol",
+        "name_hindi": "साइकल बॉल"
+    },
+    {
+        "sports_id": 157,
+        "name_eng": "Board Games",
+        "name_bangla": "বোর্ড গেমস",
+        "name_france": "Jeux de société",
+        "name_spanish": "Juegos de mesa",
+        "name_hindi": "बोर्ड गेम्‍स"
+    },
+    {
+        "sports_id": 158,
+        "name_eng": "Esports Table Tennis",
+        "name_bangla": "ইস্পোর্টস টেবিল টেনিস",
+        "name_france": "e-Sport Tennis de table",
+        "name_spanish": "eSports Tenis de Mesa",
+        "name_hindi": "ईस्‍पोर्ट्स टेबल टेनिस"
+    },
+    {
+        "sports_id": 159,
+        "name_eng": "Snow Volleyball",
+        "name_bangla": "স্নো ভলিবল",
+        "name_france": "Volley-ball sur neige",
+        "name_spanish": "Voley nieve",
+        "name_hindi": "स्‍नो वॉलीबॉल"
+    },
+    {
+        "sports_id": 160,
+        "name_eng": "Esports Pool",
+        "name_bangla": "ইস্পোর্টস পুল",
+        "name_france": "e-Sport Billard américain",
+        "name_spanish": "eSports Billar Americano",
+        "name_hindi": "ईस्‍पोर्ट्स पूल"
+    },
+    {
+        "sports_id": 161,
+        "name_eng": "Skateboarding",
+        "name_bangla": "স্কেটবোর্ড",
+        "name_france": "Skateboard",
+        "name_spanish": "Skateboard",
+        "name_hindi": "स्‍केटबोर्ड"
+    },
+    {
+        "sports_id": 162,
+        "name_eng": "PUBG",
+        "name_bangla": "PUBG",
+        "name_france": "PUBG",
+        "name_spanish": "PUBG",
+        "name_hindi": "PUBG"
+    },
+    {
+        "sports_id": 164,
+        "name_eng": "KokBoru",
+        "name_bangla": "ককবরু",
+        "name_france": "Bouzkachi",
+        "name_spanish": "Kok-Boru",
+        "name_hindi": "KokBoru"
+    },
+    {
+        "sports_id": 165,
+        "name_eng": "Playgrounds",
+        "name_bangla": "Playgrounds",
+        "name_france": "NBA Playgrounds",
+        "name_spanish": "NBA Playgrounds",
+        "name_hindi": "Playgrounds"
+    },
+    {
+        "sports_id": 166,
+        "name_eng": "LaserLeague",
+        "name_bangla": "LaserLeague",
+        "name_france": "Laser League",
+        "name_spanish": "LaserLeague",
+        "name_hindi": "LaserLeague"
+    },
+    {
+        "sports_id": 167,
+        "name_eng": "Esports Poker",
+        "name_bangla": "ইস্পোর্টস পোকার",
+        "name_france": "e-Sport Poker",
+        "name_spanish": "eSports Póker",
+        "name_hindi": "ईस्‍पोर्ट्स पोकर"
+    },
+    {
+        "sports_id": 168,
+        "name_eng": "Rainbow Six",
+        "name_bangla": "Rainbow Six",
+        "name_france": "Rainbow Six",
+        "name_spanish": "Rainbow Six",
+        "name_hindi": "Rainbow Six"
+    },
+    {
+        "sports_id": 169,
+        "name_eng": "Mutant League",
+        "name_bangla": "Mutant League",
+        "name_france": "Mutant League",
+        "name_spanish": "Mutant League",
+        "name_hindi": "Mutant League"
+    },
+    {
+        "sports_id": 170,
+        "name_eng": "BattleRite",
+        "name_bangla": "BattleRite",
+        "name_france": "Battlerite",
+        "name_spanish": "BattleRite",
+        "name_hindi": "BattleRite"
+    },
+    {
+        "sports_id": 171,
+        "name_eng": "Esports Snooker",
+        "name_bangla": "ইস্পোর্টস স্নুকার",
+        "name_france": "e-Sport Snooker",
+        "name_spanish": "eSports Snooker",
+        "name_hindi": "ईस्‍पोर्ट्स स्‍नूकर"
+    },
+    {
+        "sports_id": 172,
+        "name_eng": "CrossOut",
+        "name_bangla": "CrossOut",
+        "name_france": "Crossout",
+        "name_spanish": "Crossout",
+        "name_hindi": "CrossOut"
+    },
+    {
+        "sports_id": 173,
+        "name_eng": "Korfball",
+        "name_bangla": "কর্ফবল",
+        "name_france": "Korfbal",
+        "name_spanish": "Korfbal",
+        "name_hindi": "कोर्फ़बॉल"
+    },
+    {
+        "sports_id": 174,
+        "name_eng": "Broomball",
+        "name_bangla": "ব্রুমবল",
+        "name_france": "Ballon-balai",
+        "name_spanish": "Broomball",
+        "name_hindi": "ब्रूमबॉल"
+    },
+    {
+        "sports_id": 175,
+        "name_eng": "Footvolley",
+        "name_bangla": "ফুটভলি",
+        "name_france": "Footvolley",
+        "name_spanish": "Futvóley",
+        "name_hindi": "फुटवॉली"
+    },
+    {
+        "sports_id": 176,
+        "name_eng": "Weather",
+        "name_bangla": "আবহাওয়া",
+        "name_france": "Météo",
+        "name_spanish": "El tiempo",
+        "name_hindi": "वेदर"
+    },
+    {
+        "sports_id": 177,
+        "name_eng": "Esports Mini Ice Hockey",
+        "name_bangla": "ইস্পোর্টস মিনি আইস হকি",
+        "name_france": "e-Sport Mini-hockey sur glace",
+        "name_spanish": "eSports Mini hockey sobre hielo",
+        "name_hindi": "ईस्‍पोर्ट्रस मिनी आइस हॉकी"
+    },
+    {
+        "sports_id": 178,
+        "name_eng": "Esports Footvolley",
+        "name_bangla": "ইস্পোর্টস ফুটভলি",
+        "name_france": "e-Sport Footvolley",
+        "name_spanish": "eSports Futvóley",
+        "name_hindi": "ईस्‍पोर्ट्स फुटवॉली"
+    },
+    {
+        "sports_id": 179,
+        "name_eng": "Pixel Cup Soccer",
+        "name_bangla": "Pixel Cup Soccer",
+        "name_france": "Pixel Cup Soccer",
+        "name_spanish": "Pixel Cup Soccer",
+        "name_hindi": "Pixel Cup Soccer"
+    },
+    {
+        "sports_id": 180,
+        "name_eng": "Kabaddi",
+        "name_bangla": "কাবাডি",
+        "name_france": "Kabaddi",
+        "name_spanish": "Kabaddi",
+        "name_hindi": "कबड्डी"
+    },
+    {
+        "sports_id": 181,
+        "name_eng": "Killer Instinct",
+        "name_bangla": "Killer Instinct",
+        "name_france": "Killer Instinct",
+        "name_spanish": "Killer Instinct",
+        "name_hindi": "Killer Instinct"
+    },
+    {
+        "sports_id": 182,
+        "name_eng": "Muay Thai",
+        "name_bangla": "মুয়ায় থাই",
+        "name_france": "Boxe thaï",
+        "name_spanish": "Muay Thai",
+        "name_hindi": "मय थाई"
+    },
+    {
+        "sports_id": 187,
+        "name_eng": "Esports Table Football",
+        "name_bangla": "ইস্পোর্টস ফুসবল",
+        "name_france": "e-Sport Baby-foot",
+        "name_spanish": "eSports Fútbol de mesa",
+        "name_hindi": "ईस्‍पोर्ट्स फुसबॉल"
+    },
+    {
+        "sports_id": 184,
+        "name_eng": "Sociable Soccer",
+        "name_bangla": "Sociable Soccer",
+        "name_france": "Sociable Soccer",
+        "name_spanish": "Sociable Soccer",
+        "name_hindi": "Sociable Soccer"
+    },
+    {
+        "sports_id": 183,
+        "name_eng": "Table Football Pro",
+        "name_bangla": "Table Football Pro",
+        "name_france": "Table Football Pro",
+        "name_spanish": "Table Football Pro",
+        "name_hindi": "Table Football Pro"
+    },
+    {
+        "sports_id": 188,
+        "name_eng": "TvBet",
+        "name_bangla": "TvBet",
+        "name_france": "TvBet",
+        "name_spanish": "TvBet",
+        "name_hindi": "TvBet"
+    },
+    {
+        "sports_id": 189,
+        "name_eng": "UFC",
+        "name_bangla": "UFC",
+        "name_france": "UFC",
+        "name_spanish": "UFC",
+        "name_hindi": "UFC"
+    },
+    {
+        "sports_id": 190,
+        "name_eng": "Esports Australian Rules",
+        "name_bangla": "ইস্পোর্টস অস্ট্রেলিয়ান রুলস",
+        "name_france": "e-Sport Football australien",
+        "name_spanish": "eSports Fútbol Australiano",
+        "name_hindi": "ईस्‍पोर्ट्स ऑस्‍ट्रेलियन रूल्‍स"
+    },
+    {
+        "sports_id": 191,
+        "name_eng": "SuperArcadeFootball",
+        "name_bangla": "SuperArcadeFootball",
+        "name_france": "Super Arcade Football",
+        "name_spanish": "Super Arcade Football",
+        "name_hindi": "SuperArcadeFootball"
+    },
+    {
+        "sports_id": 192,
+        "name_eng": "Blade and Soul",
+        "name_bangla": "Blade and Soul",
+        "name_france": "Blade and Soul",
+        "name_spanish": "Blade and Soul",
+        "name_hindi": "Blade and Soul"
+    },
+    {
+        "sports_id": 193,
+        "name_eng": "Assault Squad",
+        "name_bangla": "Assault Squad",
+        "name_france": "Men of War : Assault Squad",
+        "name_spanish": "Assault Squad",
+        "name_hindi": "Assault Squad"
+    },
+    {
+        "sports_id": 194,
+        "name_eng": "Cut The Rope",
+        "name_bangla": "Cut The Rope",
+        "name_france": "Cut The Rope",
+        "name_spanish": "Cut The Rope",
+        "name_hindi": "Cut The Rope"
+    },
+    {
+        "sports_id": 195,
+        "name_eng": "Subway Surfers",
+        "name_bangla": "Subway Surfers",
+        "name_france": "Subway Surfers",
+        "name_spanish": "Subway Surfers",
+        "name_hindi": "Subway Surfers"
+    },
+    {
+        "sports_id": 196,
+        "name_eng": "Sonic",
+        "name_bangla": "Sonic",
+        "name_france": "Sonic",
+        "name_spanish": "Sonic",
+        "name_hindi": "Sonic"
+    },
+    {
+        "sports_id": 197,
+        "name_eng": "Air Racing",
+        "name_bangla": "এয়ার রেইস",
+        "name_france": "Courses aériennes",
+        "name_spanish": "Air Race",
+        "name_hindi": "एयर रेस"
+    },
+    {
+        "sports_id": 198,
+        "name_eng": "Lotto",
+        "name_bangla": "লোটো",
+        "name_france": "Loto",
+        "name_spanish": "Lotería",
+        "name_hindi": "लोट्टो"
+    },
+    {
+        "sports_id": 199,
+        "name_eng": "Crash",
+        "name_bangla": "Crash",
+        "name_france": "Crash",
+        "name_spanish": "Crash",
+        "name_hindi": "Crash"
+    },
+    {
+        "sports_id": 200,
+        "name_eng": "Esports Volleyball",
+        "name_bangla": "ইস্পোর্টস ভলিবল",
+        "name_france": "e-Sport Volley-ball",
+        "name_spanish": "eSports Voleibol",
+        "name_hindi": "ईस्‍पोर्ट्स वॉलीबॉल"
+    },
+    {
+        "sports_id": 201,
+        "name_eng": "SpykeBots",
+        "name_bangla": "SpykeBots",
+        "name_france": "SpykeBots",
+        "name_spanish": "SpykeBots",
+        "name_hindi": "SpykeBots"
+    },
+    {
+        "sports_id": 202,
+        "name_eng": "Politics",
+        "name_bangla": "রাজনীতি",
+        "name_france": "Politique",
+        "name_spanish": "Política",
+        "name_hindi": "पॉलिटिक्‍स"
+    },
+    {
+        "sports_id": 203,
+        "name_eng": "Fistball",
+        "name_bangla": "ফিস্টবল",
+        "name_france": "Fistball",
+        "name_spanish": "Faustball",
+        "name_hindi": "फिस्‍टबॉल"
+    },
+    {
+        "sports_id": 204,
+        "name_eng": "Futsal 4x4",
+        "name_bangla": "ফুটসাল 4x4",
+        "name_france": "Futsal 4x4",
+        "name_spanish": "Fútbol sala 4x4",
+        "name_hindi": "फुटसल 4x4"
+    },
+    {
+        "sports_id": 205,
+        "name_eng": "Esports Bicycle Racing",
+        "name_bangla": "ইস্পোর্টস বাইসাইকেল রেসিং",
+        "name_france": "e-Sport Courses cyclistes",
+        "name_spanish": "eSports Carrera ciclista",
+        "name_hindi": "ईस्‍पोर्ट्स बाइसाइकल रेसिंग"
+    },
+    {
+        "sports_id": 206,
+        "name_eng": "Ringette",
+        "name_bangla": "রিংগেটি",
+        "name_france": "Ringuette",
+        "name_spanish": "Ringette",
+        "name_hindi": "Ringette"
+    },
+    {
+        "sports_id": 207,
+        "name_eng": "Jump Force",
+        "name_bangla": "Jump force",
+        "name_france": "Jump force",
+        "name_spanish": "Jump Force",
+        "name_hindi": "Jump force"
+    },
+    {
+        "sports_id": 208,
+        "name_eng": "Overcooked",
+        "name_bangla": "Overcooked",
+        "name_france": "Overcooked",
+        "name_spanish": "Overcooked",
+        "name_hindi": "Overcooked"
+    },
+    {
+        "sports_id": 209,
+        "name_eng": "Ball Grabbers",
+        "name_bangla": "Ball grabbers",
+        "name_france": "Ball grabbers",
+        "name_spanish": "Ball grabbers",
+        "name_hindi": "Ball grabbers"
+    },
+    {
+        "sports_id": 210,
+        "name_eng": "Card Football",
+        "name_bangla": "কার্ড ফুটবল",
+        "name_france": "Jeu de cartes de football",
+        "name_spanish": "Fútbol de cartas",
+        "name_hindi": "कार्ड फुटबॉल"
+    },
+    {
+        "sports_id": 211,
+        "name_eng": "Marble Football",
+        "name_bangla": "মার্বেল ফুটবল",
+        "name_france": "Marble Football",
+        "name_spanish": "Fútbol con canicas",
+        "name_hindi": "मार्बल फुटबॉल"
+    },
+    {
+        "sports_id": 212,
+        "name_eng": "Big Bash Cricket",
+        "name_bangla": "Big Bash Cricket",
+        "name_france": "Big Bash Cricket",
+        "name_spanish": "Big Bash Cricket",
+        "name_hindi": "Big Bash Cricket"
+    },
+    {
+        "sports_id": 213,
+        "name_eng": "Sekiro",
+        "name_bangla": "Sekiro",
+        "name_france": "Sekiro",
+        "name_spanish": "Sekiro",
+        "name_hindi": "Sekiro"
+    },
+    {
+        "sports_id": 214,
+        "name_eng": "Bomberman",
+        "name_bangla": "বমবার্ম্যান",
+        "name_france": "Bomberman",
+        "name_spanish": "Bomberman",
+        "name_hindi": "बॉम्‍बरमैन"
+    },
+    {
+        "sports_id": 215,
+        "name_eng": "Esports Taekwondo",
+        "name_bangla": "ইস্পোর্টস তায়কাউন্দো",
+        "name_france": "e-Sport Taekwondo",
+        "name_spanish": "eSports Taekwondo",
+        "name_hindi": "ईस्‍पोर्ट्स ताइक्‍वांडो"
+    },
+    {
+        "sports_id": 216,
+        "name_eng": "Eurovision",
+        "name_bangla": "ইউরোভিশন",
+        "name_france": "Eurovision",
+        "name_spanish": "Eurovisión",
+        "name_hindi": "यूरोविज़न"
+    },
+    {
+        "sports_id": 217,
+        "name_eng": "Skeet Shooting",
+        "name_bangla": "স্কিট শুটিং",
+        "name_france": "Ball-trap",
+        "name_spanish": "Tiro al plato",
+        "name_hindi": "स्कीट शूटिंग"
+    },
+    {
+        "sports_id": 218,
+        "name_eng": "Dead Or Alive",
+        "name_bangla": "Dead Or Alive",
+        "name_france": "Dead Or Alive",
+        "name_spanish": "Dead Or Alive",
+        "name_hindi": "Dead Or Alive"
+    },
+    {
+        "sports_id": 219,
+        "name_eng": "TABS",
+        "name_bangla": "TABS",
+        "name_france": "TABS",
+        "name_spanish": "TABS",
+        "name_hindi": "TABS"
+    },
+    {
+        "sports_id": 220,
+        "name_eng": "Boat Racing",
+        "name_bangla": "নৌকা বাইচ",
+        "name_france": "Course de bateaux",
+        "name_spanish": "Regata",
+        "name_hindi": "नौका रेस"
+    },
+    {
+        "sports_id": 221,
+        "name_eng": "Rumble Stars",
+        "name_bangla": "Rumble Stars",
+        "name_france": "Rumble Stars",
+        "name_spanish": "Rumble Stars",
+        "name_hindi": "Rumble Stars"
+    },
+    {
+        "sports_id": 222,
+        "name_eng": "Fishing",
+        "name_bangla": "মাছ ধরা",
+        "name_france": "Pêche",
+        "name_spanish": "Pesca",
+        "name_hindi": "फिशिंग"
+    },
+    {
+        "sports_id": 223,
+        "name_eng": "Spike Ball",
+        "name_bangla": "Spikeball",
+        "name_france": "Spikeball",
+        "name_spanish": "Spikeball",
+        "name_hindi": "Spikeball"
+    },
+    {
+        "sports_id": 224,
+        "name_eng": "Brawlout",
+        "name_bangla": "Brawlout",
+        "name_france": "Brawlout",
+        "name_spanish": "Brawlout",
+        "name_hindi": "Brawlout"
+    },
+    {
+        "sports_id": 225,
+        "name_eng": "Super Blood Hockey",
+        "name_bangla": "সুপার ব্লাড হকি",
+        "name_france": "Super Blood Hockey",
+        "name_spanish": "Super Blood Hockey",
+        "name_hindi": "सुपर ब्लड हॉकी"
+    },
+    {
+        "sports_id": 226,
+        "name_eng": "Pinball",
+        "name_bangla": "পিনবল",
+        "name_france": "Flipper",
+        "name_spanish": "Pinball",
+        "name_hindi": "पिनबॉल"
+    },
+    {
+        "sports_id": 227,
+        "name_eng": "Robot Champions",
+        "name_bangla": "Robot Champions",
+        "name_france": "Robot Champions",
+        "name_spanish": "Robot Champions",
+        "name_hindi": "Robot Champions"
+    },
+    {
+        "sports_id": 228,
+        "name_eng": "Boxing Champs",
+        "name_bangla": "Boxing Champs",
+        "name_france": "Boxing Champs",
+        "name_spanish": "Boxing Champs",
+        "name_hindi": "Boxing Champs"
+    },
+    {
+        "sports_id": 229,
+        "name_eng": "War Thunder",
+        "name_bangla": "War Thunder",
+        "name_france": "War Thunder",
+        "name_spanish": "War Thunder",
+        "name_hindi": "War Thunder"
+    },
+    {
+        "sports_id": 230,
+        "name_eng": "Footballtennis",
+        "name_bangla": "ফুটবলটেনিস",
+        "name_france": "Tennis-ballon",
+        "name_spanish": "Fútbol-tenis",
+        "name_hindi": "फुटबॉलटेनिस"
+    },
+    {
+        "sports_id": 231,
+        "name_eng": "Dota Auto Chess",
+        "name_bangla": "Dota Auto Chess",
+        "name_france": "Dota Auto Chess",
+        "name_spanish": "Dota Auto Chess",
+        "name_hindi": "Dota Auto Chess"
+    },
+    {
+        "sports_id": 232,
+        "name_eng": "Marble Golf",
+        "name_bangla": "মার্বেল গলফ",
+        "name_france": "Marble Golf",
+        "name_spanish": "Golf con canicas",
+        "name_hindi": "मार्बल गोल्‍फ"
+    },
+    {
+        "sports_id": 233,
+        "name_eng": "Marble Shooting",
+        "name_bangla": "মার্বেল শুটিং",
+        "name_france": "Marble Shooting",
+        "name_spanish": "Tiro con canicas",
+        "name_hindi": "मार्बल शूटिंग"
+    },
+    {
+        "sports_id": 234,
+        "name_eng": "Darts Live",
+        "name_bangla": "লাইভ ডার্ট",
+        "name_france": "Fléchettes En direct",
+        "name_spanish": "Dardos en directo",
+        "name_hindi": "लाइव डार्ट्स"
+    },
+    {
+        "sports_id": 235,
+        "name_eng": "Dice",
+        "name_bangla": "ডাইস",
+        "name_france": "Dés",
+        "name_spanish": "Dados",
+        "name_hindi": "डाइस"
+    },
+    {
+        "sports_id": 236,
+        "name_eng": "Baccarat",
+        "name_bangla": "বাকার‍্যাট",
+        "name_france": "Baccara",
+        "name_spanish": "Bacará",
+        "name_hindi": "बैकारेट"
+    },
+    {
+        "sports_id": 237,
+        "name_eng": "Kopanito Soccer",
+        "name_bangla": "Kopanito Soccer",
+        "name_france": "Kopanito Soccer",
+        "name_spanish": "Kopanito Soccer",
+        "name_hindi": "Kopanito Soccer"
+    },
+    {
+        "sports_id": 238,
+        "name_eng": "Mega Baseball",
+        "name_bangla": "Mega Baseball",
+        "name_france": "Mega Baseball",
+        "name_spanish": "Mega Baseball",
+        "name_hindi": "Mega Baseball"
+    },
+    {
+        "sports_id": 239,
+        "name_eng": "Teqball",
+        "name_bangla": "টেকবল",
+        "name_france": "Teqball",
+        "name_spanish": "Teqball",
+        "name_hindi": "Teqball"
+    },
+    {
+        "sports_id": 240,
+        "name_eng": "Marble Fidget Spinners",
+        "name_bangla": "মার্বেল ফিগেট স্পিনার্স",
+        "name_france": "Marble Fidget Spinners",
+        "name_spanish": "Spinner con canicas",
+        "name_hindi": "मार्बल फिजेट स्पिर्न्‍स"
+    },
+    {
+        "sports_id": 241,
+        "name_eng": "Raid: Shadow Legends",
+        "name_bangla": "Raid: Shadow Legends",
+        "name_france": "Raid: Shadow Legends",
+        "name_spanish": "Raid: Shadow Legends",
+        "name_hindi": "Raid: Shadow Legends"
+    },
+    {
+        "sports_id": 242,
+        "name_eng": "Keirin",
+        "name_bangla": "কেইরিন",
+        "name_france": "Keirin",
+        "name_spanish": "Keirin",
+        "name_hindi": "केरिन"
+    },
+    {
+        "sports_id": 243,
+        "name_eng": "Battleships",
+        "name_bangla": "ব্যাটেলশিপ",
+        "name_france": "Bataille navale",
+        "name_spanish": "Batalla naval",
+        "name_hindi": "बैटलशिप"
+    },
+    {
+        "sports_id": 244,
+        "name_eng": "Marble Billiards",
+        "name_bangla": "মার্বেল বিলিয়ার্ড",
+        "name_france": "Marble Billiards",
+        "name_spanish": "Billar con canicas",
+        "name_hindi": "मार्बल बिलियर्ड्स"
+    },
+    {
+        "sports_id": 245,
+        "name_eng": "Marble Collision",
+        "name_bangla": "মার্বেল কলিশন",
+        "name_france": "Marble Collision",
+        "name_spanish": "Colisión de canicas",
+        "name_hindi": "Marble Collision"
+    },
+    {
+        "sports_id": 246,
+        "name_eng": "Marble Slides",
+        "name_bangla": "মার্বেল স্লাইড",
+        "name_france": "Marble Slides",
+        "name_spanish": "Toboganes de canicas",
+        "name_hindi": "मार्बल स्‍लाइड्स"
+    },
+    {
+        "sports_id": 247,
+        "name_eng": "Marble Round Target",
+        "name_bangla": "মার্বেল রাউন্ড টার্গেট",
+        "name_france": "Marble Round Target",
+        "name_spanish": "Marble Round Target",
+        "name_hindi": "मार्बल राउंड टारगेट"
+    },
+    {
+        "sports_id": 248,
+        "name_eng": "Marble Waves",
+        "name_bangla": "মার্বেল ওয়েভস",
+        "name_france": "Marble Waves",
+        "name_spanish": "Curvas de canicas",
+        "name_hindi": "मार्बल वेव्‍स"
+    },
+    {
+        "sports_id": 249,
+        "name_eng": "Auto Race",
+        "name_bangla": "অটো রেস",
+        "name_france": "Auto Race",
+        "name_spanish": "Auto Race (deporte japonés)",
+        "name_hindi": "ऑटो रेस"
+    },
+    {
+        "sports_id": 250,
+        "name_eng": "Marble Curling",
+        "name_bangla": "মার্বেল কার্লিং",
+        "name_france": "Marble Curling",
+        "name_spanish": "Curling con canicas",
+        "name_hindi": "मार्बल कर्लिंग"
+    },
+    {
+        "sports_id": 251,
+        "name_eng": "Super Kickers League",
+        "name_bangla": "Super Kickers League",
+        "name_france": "Super Kickers League",
+        "name_spanish": "Super Kickers League",
+        "name_hindi": "Super Kickers League"
+    },
+    {
+        "sports_id": 252,
+        "name_eng": "Table Football",
+        "name_bangla": "টেবিল ফুটবল",
+        "name_france": "Baby-foot",
+        "name_spanish": "Fútbol de mesa",
+        "name_hindi": "टेबल फुटबॉल"
+    },
+    {
+        "sports_id": 253,
+        "name_eng": "Marble Race",
+        "name_bangla": "মার্বেল রেস",
+        "name_france": "Marble Race",
+        "name_spanish": "Carrera de canicas",
+        "name_hindi": "मार्बल रेस"
+    },
+    {
+        "sports_id": 254,
+        "name_eng": "Marble LOTTO",
+        "name_bangla": "মার্বেল LOTTO",
+        "name_france": "Marble LOTO",
+        "name_spanish": "Lotería de canicas",
+        "name_hindi": "मार्बल लोट्टो"
+    },
+    {
+        "sports_id": 255,
+        "name_eng": "Marble MMA",
+        "name_bangla": "মার্বেল MMA",
+        "name_france": "Marble MMA",
+        "name_spanish": "MMA con canicas",
+        "name_hindi": "मार्बल MMA"
+    },
+    {
+        "sports_id": 256,
+        "name_eng": "Air hockey",
+        "name_bangla": "এয়ার হকি",
+        "name_france": "Air hockey",
+        "name_spanish": "Aero-hockey",
+        "name_hindi": "एयर हॉकी"
+    },
+    {
+        "sports_id": 257,
+        "name_eng": "Seka",
+        "name_bangla": "সেকা",
+        "name_france": "Seka",
+        "name_spanish": "Seka",
+        "name_hindi": "Seka"
+    },
+    {
+        "sports_id": 258,
+        "name_eng": "Victory Formula",
+        "name_bangla": "জয়ের ফর্মুলা",
+        "name_france": "Victory Formula",
+        "name_spanish": "Fórmula de la Victoria",
+        "name_hindi": "जीत का फॉर्मूला"
+    },
+    {
+        "sports_id": 259,
+        "name_eng": "World of Warships",
+        "name_bangla": "World of Warships",
+        "name_france": "World of Warships",
+        "name_spanish": "World of Warships",
+        "name_hindi": "वर्ल्‍ड ऑफ वारशिप्‍स"
+    },
+    {
+        "sports_id": 260,
+        "name_eng": "Marble Block Breaker",
+        "name_bangla": "মার্বেল ব্লক ব্রেকার",
+        "name_france": "Marble Block Breaker",
+        "name_spanish": "Block Breaker con canicas",
+        "name_hindi": "मार्बल ब्‍लॉक ब्रेकर"
+    },
+    {
+        "sports_id": 261,
+        "name_eng": "Marble Baseball",
+        "name_bangla": "মার্বেল বেসবল",
+        "name_france": "Marble Baseball",
+        "name_spanish": "Béisbol con canicas",
+        "name_hindi": "मार्बल बेसबॉल"
+    },
+    {
+        "sports_id": 263,
+        "name_eng": "Street Power Football",
+        "name_bangla": "স্ট্রীট পাওয়ার ফুটবল",
+        "name_france": "Street Power Football",
+        "name_spanish": "Street Power Football",
+        "name_hindi": "स्‍ट्रीट पावर फुटबॉल"
+    },
+    {
+        "sports_id": 262,
+        "name_eng": "Headis",
+        "name_bangla": "Headis",
+        "name_france": "Headis",
+        "name_spanish": "Headis",
+        "name_hindi": "Headis"
+    },
+    {
+        "sports_id": 264,
+        "name_eng": "Esports Horse Racing",
+        "name_bangla": "ইস্পোর্টস ঘোড়দৌড়",
+        "name_france": "E-sport Courses hippiques",
+        "name_spanish": "eSports Carreras de caballos",
+        "name_hindi": "ईस्‍पोर्ट्स घुड़दौड़"
+    },
+    {
+        "sports_id": 265,
+        "name_eng": "Marble Volleyball",
+        "name_bangla": "মার্বেল ভলিবল",
+        "name_france": "Ballon de volley en marbre",
+        "name_spanish": "Voleibol con canicas",
+        "name_hindi": "मार्बल वॉलीबॉल"
+    },
+    {
+        "sports_id": 266,
+        "name_eng": "Marble Basketball",
+        "name_bangla": "মার্বেল বাস্কেটবল",
+        "name_france": "Ballon de basket en marbre",
+        "name_spanish": "Baloncesto con canicas",
+        "name_hindi": "मार्बल बास्‍केटबॉल"
+    },
+    {
+        "sports_id": 268,
+        "name_eng": "Russian Lotto",
+        "name_bangla": "রাশিয়ান লোটো",
+        "name_france": "Loto russe",
+        "name_spanish": "Lotería rusa",
+        "name_hindi": "रसियन लोटो"
+    },
+    {
+        "sports_id": 269,
+        "name_eng": "Winter Olympics",
+        "name_bangla": "শীতকালীন অলিম্পিক গেমস",
+        "name_france": "Jeux olympiques d'hiver",
+        "name_spanish": "Juegos Olímpicos de Invierno",
+        "name_hindi": "शीतकालीन ओलिंपिक गेम्‍स"
+    },
+    {
+        "sports_id": 270,
+        "name_eng": "Sport Climbing",
+        "name_bangla": "স্পোর্ট ক্লাইম্বিং",
+        "name_france": "Escalade sportive",
+        "name_spanish": "Escalada deportiva",
+        "name_hindi": "स्‍पोर्ट क्‍लाइम्बिंग"
+    },
+    {
+        "sports_id": 271,
+        "name_eng": "Karate",
+        "name_bangla": "কারাতে",
+        "name_france": "Karaté",
+        "name_spanish": "Karate",
+        "name_hindi": "कराटे"
+    },
+    {
+        "sports_id": 272,
+        "name_eng": "Esports Bowling",
+        "name_bangla": "ইস্পোর্টস বোলিং",
+        "name_france": "E-sport Bowling",
+        "name_spanish": "eSports Bolos",
+        "name_hindi": "ईस्पोर्ट्स बॉलिंग"
+    },
+    {
+        "sports_id": 273,
+        "name_eng": "WWE Battlegrounds",
+        "name_bangla": "WWE ব্যাটলগ্রাউন্ডস",
+        "name_france": "WWE Battlegrounds",
+        "name_spanish": "WWE Battlegrounds",
+        "name_hindi": "WWE Battlegrounds"
+    },
+    {
+        "sports_id": 274,
+        "name_eng": "Killer Joker",
+        "name_bangla": "কিলার জোকার",
+        "name_france": "Killer Joker",
+        "name_spanish": "Killer Joker",
+        "name_hindi": "Killer Joker"
+    },
+    {
+        "sports_id": 275,
+        "name_eng": "Kun Khmer",
+        "name_bangla": "কুন খেমার",
+        "name_france": "Boxe khmère",
+        "name_spanish": "Boxeo Jemer",
+        "name_hindi": "कुन खमेर"
+    },
+    {
+        "sports_id": 276,
+        "name_eng": "SEGA Football",
+        "name_bangla": "SEGA Football",
+        "name_france": "SEGA Football",
+        "name_spanish": "SEGA Football",
+        "name_hindi": "SEGA Football"
+    },
+    {
+        "sports_id": 277,
+        "name_eng": "Guilty Gear",
+        "name_bangla": "Guilty Gear",
+        "name_france": "Guilty Gear",
+        "name_spanish": "Guilty Gear",
+        "name_hindi": "Guilty Gear"
+    },
+    {
+        "sports_id": 278,
+        "name_eng": "Bare-knuckle Boxing",
+        "name_bangla": "গ্লাভস-বিহীন বক্সিং",
+        "name_france": "Boxe à mains nues",
+        "name_spanish": "Boxeo a manos desnudas",
+        "name_hindi": "बेयर-नक्कल बॉक्सिंग"
+    },
+    {
+        "sports_id": 279,
+        "name_eng": "Hyper Brawl",
+        "name_bangla": "Hyper Brawl",
+        "name_france": "Hyper Brawl",
+        "name_spanish": "Hyper Brawl",
+        "name_hindi": "Hyper Brawl"
+    },
+    {
+        "sports_id": 280,
+        "name_eng": "Big Rumble Boxing",
+        "name_bangla": "Big Rumble Boxing",
+        "name_france": "Big Rumble Boxing",
+        "name_spanish": "Big Rumble Boxing",
+        "name_hindi": "Big Rumble Boxing"
+    },
+    {
+        "sports_id": 281,
+        "name_eng": "Rink Hockey",
+        "name_bangla": "রোলার হকি",
+        "name_france": "Roller hockey",
+        "name_spanish": "Hockey sobre patines",
+        "name_hindi": "रोलर हॉकी"
+    },
+    {
+        "sports_id": 282,
+        "name_eng": "Padel",
+        "name_bangla": "প্যাডেল",
+        "name_france": "Padel",
+        "name_spanish": "Pádel",
+        "name_hindi": "पैडल"
+    },
+    {
+        "sports_id": 283,
+        "name_eng": "Pickleball",
+        "name_bangla": "Pickleball",
+        "name_france": "Pickleball",
+        "name_spanish": "Pickleball",
+        "name_hindi": "पिकलबॉल"
+    },
+    {
+        "sports_id": 284,
+        "name_eng": "Sette e mezzo",
+        "name_bangla": "Sette e mezzo",
+        "name_france": "Sept et Demi",
+        "name_spanish": "Sette e mezzo",
+        "name_hindi": "Sette e mezzo"
+    },
+    {
+        "sports_id": 285,
+        "name_eng": "Dodgeball",
+        "name_bangla": "ডজবল",
+        "name_france": "Dodgeball",
+        "name_spanish": "Dodgeball",
+        "name_hindi": "Dodgeball"
+    },
+    {
+        "sports_id": 286,
+        "name_eng": "Basque pelota",
+        "name_bangla": "বাস্ক পেলোটা",
+        "name_france": "Pelote basque",
+        "name_spanish": "Pelota vasca",
+        "name_hindi": "बास्क पैलोटा"
+    },
+    {
+        "sports_id": 287,
+        "name_eng": "Crystal",
+        "name_bangla": "Crystal",
+        "name_france": "Crystal",
+        "name_spanish": "Crystal",
+        "name_hindi": "Crystal"
+    },
+    {
+        "sports_id": 288,
+        "name_eng": "Ultimate",
+        "name_bangla": "আল্টিমেট",
+        "name_france": "Ultimate",
+        "name_spanish": "Ultimate",
+        "name_hindi": "सर्वश्रेष्ठ"
+    },
+    {
+        "sports_id": 289,
+        "name_eng": "Carrom",
+        "name_bangla": "ক্যারম",
+        "name_france": "Carrom",
+        "name_spanish": "Carrom",
+        "name_hindi": "कैरम"
+    },
+    {
+        "sports_id": 290,
+        "name_eng": "Kho Kho",
+        "name_bangla": "খো খো",
+        "name_france": "Kho Kho",
+        "name_spanish": "Kho Kho",
+        "name_hindi": "खो खो"
+    },
+    {
+        "sports_id": 291,
+        "name_eng": "GigaBash",
+        "name_bangla": "GigaBash",
+        "name_france": "GigaBash",
+        "name_spanish": "GigaBash",
+        "name_hindi": "GigaBash"
+    },
+    {
+        "sports_id": 292,
+        "name_eng": "Higher vs Lower",
+        "name_bangla": "Higher vs Lower",
+        "name_france": "Higher vs Lower",
+        "name_spanish": "Higher vs Lower",
+        "name_hindi": "Higher vs Lower"
+    },
+    {
+        "sports_id": 293,
+        "name_eng": "Super Soccer Blast",
+        "name_bangla": "Super Soccer Blast",
+        "name_france": "Super Soccer Blast",
+        "name_spanish": "Super Soccer Blast",
+        "name_hindi": "Super Soccer Blast"
+    },
+    {
+        "sports_id": 294,
+        "name_eng": "Polo",
+        "name_bangla": "পোলো",
+        "name_france": "Polo",
+        "name_spanish": "Polo",
+        "name_hindi": "पोलो"
+    },
+    {
+        "sports_id": 295,
+        "name_eng": "Indoor Cricket",
+        "name_bangla": "ইনডোর ক্রিকেট",
+        "name_france": "Cricket en salle",
+        "name_spanish": "Cricket de interior",
+        "name_hindi": "इंडोर क्रिकेट"
+    },
+    {
+        "sports_id": 296,
+        "name_eng": "Robot combat sports",
+        "name_bangla": "রোবট লড়াই খেলা",
+        "name_france": "Combat de robots",
+        "name_spanish": "Deportes de combate con robots",
+        "name_hindi": "रोबोट कम्बैट स्पोर्ट्स"
+    },
+    {
+        "sports_id": 298,
+        "name_eng": "Overwatch",
+        "name_bangla": "Overwatch",
+        "name_france": "Overwatch",
+        "name_spanish": "Overwatch",
+        "name_hindi": "Overwatch"
+    },
+    {
+        "sports_id": 299,
+        "name_eng": "Cornhole",
+        "name_bangla": "কর্নহোল",
+        "name_france": "Jeu de poches",
+        "name_spanish": "Cornhole",
+        "name_hindi": "कॉर्नहोल"
+    },
+    {
+        "sports_id": 300,
+        "name_eng": "Tape To Tape",
+        "name_bangla": "Tape To Tape",
+        "name_france": "Tape To Tape",
+        "name_spanish": "Tape To Tape",
+        "name_hindi": "Tape To Tape"
+    },
+    {
+        "sports_id": 301,
+        "name_eng": "Roulette",
+        "name_bangla": "রুলেট",
+        "name_france": "Roulette",
+        "name_spanish": "Ruleta",
+        "name_hindi": "रूले"
+    },
+    {
+        "sports_id": 302,
+        "name_eng": "Roller Champions",
+        "name_bangla": "Roller Champions",
+        "name_france": "Roller Champions",
+        "name_spanish": "Roller Champions",
+        "name_hindi": "Roller Champions"
+    },
+    {
+        "sports_id": 303,
+        "name_eng": "Games of the Future",
+        "name_bangla": "গেমস অফ দ্য ফিউচার",
+        "name_france": "Jeux de l'avenir",
+        "name_spanish": "Juegos del futuro",
+        "name_hindi": "भविष्य के गेम्स"
+    },
+    {
+        "sports_id": 304,
+        "name_eng": "Power of Power",
+        "name_bangla": "Power of Power",
+        "name_france": "Power of Power",
+        "name_spanish": "Power of Power",
+        "name_hindi": "Power of Power"
+    },
+    {
+        "sports_id": 305,
+        "name_eng": "Undisputed",
+        "name_bangla": "Undisputed",
+        "name_france": "Undisputed",
+        "name_spanish": "Undisputed",
+        "name_hindi": "Undisputed"
+    },
+    {
+        "sports_id": 306,
+        "name_eng": "Gold Rush",
+        "name_bangla": "Gold Rush",
+        "name_france": "Gold Rush",
+        "name_spanish": "Gold Rush",
+        "name_hindi": "Gold Rush"
+    },
+    {
+        "sports_id": 307,
+        "name_eng": "Pro Wrestling",
+        "name_bangla": "প্রো রেসলিং",
+        "name_france": "Catch",
+        "name_spanish": "Lucha libre profesional",
+        "name_hindi": "प्रो रेसलिंग"
+    },
+    {
+        "sports_id": 308,
+        "name_eng": "Disc Golf",
+        "name_bangla": "ডিস্ক গলফ",
+        "name_france": "Disc Golf",
+        "name_spanish": "Golf con disco",
+        "name_hindi": "डिस्क गोल्फ"
+    },
+    {
+        "sports_id": 309,
+        "name_eng": "Breakdancing",
+        "name_bangla": "ব্রেকড্যান্সিং",
+        "name_france": "Breakdance",
+        "name_spanish": "Breakdance",
+        "name_hindi": "ब्रेकडांसिंग"
+    },
+    {
+        "sports_id": 310,
+        "name_eng": "World of Warcraft",
+        "name_bangla": "World of Warcraft",
+        "name_france": "World of Warcraft",
+        "name_spanish": "World of Warcraft",
+        "name_hindi": "World of Warcraft"
+    },
+    {
+        "sports_id": 311,
+        "name_eng": "Card Cricket",
+        "name_bangla": "কার্ড ক্রিকেট",
+        "name_france": "Jeu de cartes de cricket",
+        "name_spanish": "Críquet de cartas",
+        "name_hindi": "कार्ड टिकट"
+    },
+    {
+        "sports_id": 314,
+        "name_eng": "Polybet",
+        "name_bangla": "পলিবেট",
+        "name_france": "Polybet",
+        "name_spanish": "Polyapuesta",
+        "name_hindi": "Polybet"
+    },
+    {
+        "sports_id": 317,
+        "name_eng": "Esports Quidditch",
+        "name_bangla": "ইস্পোর্টস কুইডিচ",
+        "name_france": "Quidditch e-sport",
+        "name_spanish": "eSports Quidditch",
+        "name_hindi": "ईस्पोर्ट्स क्विडिच"
+    }
+]

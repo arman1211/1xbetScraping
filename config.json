@@ -1,0 +1,8 @@
+{
+  "api_url": "https://1xbet.com/LiveFeed/BestGamesExtVZip",
+  "poll_interval_seconds": 20,
+  "target_timezone": "America/New_York",
+  "log_file": "live_updater.log",
+  "database_file": "live_sports_database.json",
+  "sports_info_file": "sports_all_languages.json"
+}
