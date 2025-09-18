@@ -1,0 +1,1059 @@
+[
+    {
+        "match_id": 17992078,
+        "sport_name": "Cricket",
+        "region": "India",
+        "league_name": "Red Premier League",
+        "team1": "Spectrum Kings Cricket Club",
+        "team2": "Sultan Warriors Baramulla",
+        "start_time_utc": "2025-09-18T08:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 3.09,
+            "team2_win": 1.3
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17981160,
+        "sport_name": "Cricket",
+        "region": "Twenty20",
+        "league_name": "Odisha Pro T20",
+        "team1": "Keonjhar Miners",
+        "team2": "Puri Titans",
+        "start_time_utc": "2025-09-18T08:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.3,
+            "team2_win": 1.55
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17981146,
+        "sport_name": "Cricket",
+        "region": "Twenty20",
+        "league_name": "3rd match",
+        "team1": "Zimbabwe",
+        "team2": "Namibia",
+        "start_time_utc": "2025-09-18T11:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.26,
+            "team2_win": 3.9
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17992076,
+        "sport_name": "Cricket",
+        "region": "India",
+        "league_name": "Red Premier League",
+        "team1": "Hill View Rajouri Cricket Club",
+        "team2": "United Imports Srinagar",
+        "start_time_utc": "2025-09-18T12:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 3.42,
+            "team2_win": 1.25
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17981162,
+        "sport_name": "Cricket",
+        "region": "Twenty20",
+        "league_name": "Odisha Pro T20",
+        "team1": "Rourkela Steelers",
+        "team2": "Sambalpur Warriors",
+        "start_time_utc": "2025-09-18T13:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.17,
+            "team2_win": 1.61
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17990372,
+        "sport_name": "Cricket",
+        "region": "USA",
+        "league_name": "Minor League Cricket",
+        "team1": "New Jersey Stallions",
+        "team2": "NYC Titans",
+        "start_time_utc": "2025-09-18T18:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.54,
+            "team2_win": 2.32
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17991508,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "Marsh Cup One-Day",
+        "team1": "Victoria",
+        "team2": "Tasmania",
+        "start_time_utc": "2025-09-19T04:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.06,
+            "team2_win": 1.71
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17973994,
+        "sport_name": "Cricket",
+        "region": "ODI",
+        "league_name": "Women 1-st match",
+        "team1": "Pakistan (w)",
+        "team2": "South Africa (w)",
+        "start_time_utc": "2025-09-19T09:55:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "1 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": null,
+        "livestream_url": null
+    },
+    {
+        "match_id": 17987188,
+        "sport_name": "Cricket",
+        "region": "ODI",
+        "league_name": "Women. 2nd ODI",
+        "team1": "Pakistan (w)",
+        "team2": "South Africa (w)",
+        "start_time_utc": "2025-09-19T10:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.99,
+            "team2_win": 1.36
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17991506,
+        "sport_name": "Cricket",
+        "region": "Twenty20",
+        "league_name": "T20 Series England vs South Africa",
+        "team1": "Ireland",
+        "team2": "England",
+        "start_time_utc": "2025-09-19T12:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 8.6,
+            "team2_win": 1.07
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17990374,
+        "sport_name": "Cricket",
+        "region": "USA",
+        "league_name": "Minor League Cricket",
+        "team1": "Atlanta Fire",
+        "team2": "Morrisville Raptors",
+        "start_time_utc": "2025-09-19T14:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.59,
+            "team2_win": 2.22
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17991518,
+        "sport_name": "Cricket",
+        "region": "USA",
+        "league_name": "Minor League Cricket",
+        "team1": "San Diego Surf Riders",
+        "team2": "East Bay Blazers",
+        "start_time_utc": "2025-09-19T17:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.13,
+            "team2_win": 1.64
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17991502,
+        "sport_name": "Cricket",
+        "region": "USA",
+        "league_name": "Minor League Cricket",
+        "team1": "Atlanta Lightning",
+        "team2": "Baltimore Royals\t",
+        "start_time_utc": "2025-09-19T18:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.56,
+            "team2_win": 1.45
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17991514,
+        "sport_name": "Cricket",
+        "region": "USA",
+        "league_name": "Minor League Cricket",
+        "team1": "New England Eagles",
+        "team2": "The Philadelphians",
+        "start_time_utc": "2025-09-19T18:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.9,
+            "team2_win": 1.8
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17991516,
+        "sport_name": "Cricket",
+        "region": "USA",
+        "league_name": "Minor League Cricket",
+        "team1": "Golden State Grizzlies",
+        "team2": "Silicon Valley Strikers",
+        "start_time_utc": "2025-09-19T21:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.02,
+            "team2_win": 1.71
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963886,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "QLD Kookaburra One day",
+        "team1": "Gold Coast 1st Grade",
+        "team2": "Toombul 1st Grade",
+        "start_time_utc": "2025-09-19T23:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.02,
+            "team2_win": 1.7
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963888,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "QLD Kookaburra One day",
+        "team1": "Wynnum-Manly 1st Grade",
+        "team2": "Western Suburbs 1st Grade",
+        "start_time_utc": "2025-09-19T23:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 4.45,
+            "team2_win": 1.17
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963892,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "QLD Kookaburra One day",
+        "team1": "Redlands 1st Grade",
+        "team2": "South Brisbane 1st Grade",
+        "start_time_utc": "2025-09-19T23:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.61,
+            "team2_win": 2.17
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963894,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "QLD Kookaburra One day",
+        "team1": "Valley 1st Grade",
+        "team2": "University of Queensland 1st Grade",
+        "start_time_utc": "2025-09-19T23:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.42,
+            "team2_win": 2.65
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963896,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "QLD Kookaburra One day",
+        "team1": "Ipswich 1st Grade",
+        "team2": "Sunshine Coast 1st Grade",
+        "start_time_utc": "2025-09-19T23:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.61,
+            "team2_win": 2.17
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963898,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "QLD Kookaburra One day",
+        "team1": "Northern Suburbs 1st Grade",
+        "team2": "Sandgate-Redcliffe 1st Grade",
+        "start_time_utc": "2025-09-19T23:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.18,
+            "team2_win": 4.25
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17981142,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "Marsh Cup One-Day",
+        "team1": "New South Wales",
+        "team2": "South Australia",
+        "start_time_utc": "2025-09-19T23:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.04,
+            "team2_win": 1.69
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17991512,
+        "sport_name": "Cricket",
+        "region": "ODI",
+        "league_name": "England (w) vs Pakistan (w)",
+        "team1": "India (w)",
+        "team2": "Australia (w)",
+        "start_time_utc": "2025-09-20T08:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.98,
+            "team2_win": 1.36
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963890,
+        "sport_name": "Cricket",
+        "region": "United Kingdom",
+        "league_name": "One-Day Cup",
+        "team1": "Hampshire",
+        "team2": "Worcestershire",
+        "start_time_utc": "2025-09-20T10:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.75,
+            "team2_win": 1.97
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963914,
+        "sport_name": "Cricket",
+        "region": "World Cup. ODI",
+        "league_name": "Women",
+        "team1": "India (w)",
+        "team2": "Sri Lanka (w)",
+        "start_time_utc": "2025-09-30T09:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.2,
+            "team2_win": 4.04
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963916,
+        "sport_name": "Cricket",
+        "region": "World Cup. ODI",
+        "league_name": "Women",
+        "team1": "Australia (w)",
+        "team2": "New Zealand (w)",
+        "start_time_utc": "2025-10-01T09:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.17,
+            "team2_win": 4.42
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963918,
+        "sport_name": "Cricket",
+        "region": "World Cup. ODI",
+        "league_name": "Women",
+        "team1": "Bangladesh (w)",
+        "team2": "Pakistan (w)",
+        "start_time_utc": "2025-10-02T09:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.65,
+            "team2_win": 1.42
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963912,
+        "sport_name": "Cricket",
+        "region": "World Cup. ODI",
+        "league_name": "Women",
+        "team1": "England (w)",
+        "team2": "South Africa (w)",
+        "start_time_utc": "2025-10-03T09:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.26,
+            "team2_win": 3.48
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963906,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "Women. Twenty20. Big Bash League",
+        "team1": "Brisbane Heat (w)",
+        "team2": "Melbourne Renegades (w)",
+        "start_time_utc": "2025-11-09T02:40:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.85,
+            "team2_win": 1.95
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963902,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "Women. Twenty20. Big Bash League",
+        "team1": "Sydney Thunder (w)",
+        "team2": "Hobart Hurricanes (w)",
+        "start_time_utc": "2025-11-09T06:10:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.75,
+            "team2_win": 2.08
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963908,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "Women. Twenty20. Big Bash League",
+        "team1": "Perth Scorchers (w)",
+        "team2": "Sydney Sixers (w)",
+        "start_time_utc": "2025-11-09T09:30:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.01,
+            "team2_win": 1.8
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17963904,
+        "sport_name": "Cricket",
+        "region": "Australia",
+        "league_name": "Women. Twenty20. Big Bash League",
+        "team1": "Melbourne Stars (w)",
+        "team2": "Adelaide Strikers (w)",
+        "start_time_utc": "2025-11-10T04:10:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.01,
+            "team2_win": 1.8
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17966352,
+        "sport_name": "Cricket",
+        "region": "National",
+        "league_name": "The Ashes series",
+        "team1": "Australia",
+        "team2": "England",
+        "start_time_utc": "2025-11-14T00:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": null,
+        "livestream_url": null
+    },
+    {
+        "match_id": 17704088,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Valery Osobov",
+        "team2": "Alexander Sidorenko",
+        "start_time_utc": "2025-09-20T13:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.65,
+            "draw": 20.0,
+            "team2_win": 2.38
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17704084,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Evgeny Shishkov",
+        "team2": "Ivan Nushkin",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.13,
+            "draw": 20.0,
+            "team2_win": 1.78
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17704086,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Tornike Mamukashvili",
+        "team2": "Ruslan Kastrykin",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.65,
+            "draw": 20.0,
+            "team2_win": 2.38
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17704090,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Vitaliy Staryh",
+        "team2": "Timur Akaimov",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.65,
+            "draw": 20.0,
+            "team2_win": 2.38
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17704092,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Serge Michel",
+        "team2": "Artak Sargsyan",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.78,
+            "draw": 20.0,
+            "team2_win": 2.13
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17704094,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Nikolay Maydanchuk",
+        "team2": "Denis Pilipchuk",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.93,
+            "draw": 20.0,
+            "team2_win": 1.93
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17704096,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Nikolai Chibisov",
+        "team2": "Murad Artsulaev",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.13,
+            "draw": 20.0,
+            "team2_win": 1.78
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17704098,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Muzarin Mizaushev",
+        "team2": "Abdulkadir Hajiyev",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.19,
+            "draw": 20.0,
+            "team2_win": 1.75
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17749650,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Nikolay Terehov",
+        "team2": "Ruslan Aliyarov",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.13,
+            "draw": 20.0,
+            "team2_win": 1.78
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17772910,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Azamat Espay",
+        "team2": "Mansur Azerbiev",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.65,
+            "draw": 20.0,
+            "team2_win": 2.38
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17815298,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Gia Torchinava",
+        "team2": "Maksim Gorbatko",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.16,
+            "draw": 20.0,
+            "team2_win": 1.77
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17826142,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Nikolai Gorbunov",
+        "team2": "Sergei Prikhodko",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.34,
+            "draw": 20.0,
+            "team2_win": 3.56
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17850166,
+        "sport_name": "Bare-knuckle boxing",
+        "region": "Top Dog FC",
+        "league_name": "",
+        "team1": "Alexander Shapovalov",
+        "team2": "Dmitry Stukachev",
+        "start_time_utc": "2025-09-20T15:00:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.23,
+            "draw": 20.0,
+            "team2_win": 4.67
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17988802,
+        "sport_name": "Padel Tennis",
+        "region": "Russia",
+        "league_name": "Liga Pro. Moscow",
+        "team1": "Kopylov S",
+        "team2": "Tomas A",
+        "start_time_utc": "2025-09-18T06:50:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.13,
+            "team2_win": 1.63
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17988796,
+        "sport_name": "Padel Tennis",
+        "region": "Russia",
+        "league_name": "Liga Pro. Moscow",
+        "team1": "Melnikov A",
+        "team2": "Kudriavtsev A",
+        "start_time_utc": "2025-09-18T07:20:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.5,
+            "team2_win": 2.4
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17988800,
+        "sport_name": "Padel Tennis",
+        "region": "Russia",
+        "league_name": "Liga Pro. Moscow",
+        "team1": "Kudriavtsev A",
+        "team2": "Tomas A",
+        "start_time_utc": "2025-09-18T07:50:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 1.85,
+            "team2_win": 1.85
+        },
+        "livestream_url": null
+    },
+    {
+        "match_id": 17988798,
+        "sport_name": "Padel Tennis",
+        "region": "Russia",
+        "league_name": "Liga Pro. Moscow",
+        "team1": "Kopylov S",
+        "team2": "Melnikov A",
+        "start_time_utc": "2025-09-18T08:20:00+00:00",
+        "live_details": {
+            "status": "",
+            "current_score": null,
+            "current_period": "0 set",
+            "match_time_minutes": null,
+            "period_scores": []
+        },
+        "main_odds": {
+            "team1_win": 2.4,
+            "team2_win": 1.5
+        },
+        "livestream_url": null
+    }
+]

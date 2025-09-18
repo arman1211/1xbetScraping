@@ -12,7 +12,7 @@ languages_to_fetch = {
 }
 
 # Base URL, the language code will be added in the loop
-base_url = "https://1xbet.com/service-api/RestCore/api/external/v1/Web/SportInfo?ref=1&gr=70&fcountry=19&lng="
+base_url = "https://tepowue7.xyz/service-api/RestCore/api/external/v1/Web/SportInfo?ref=1&gr=70&fcountry=19&lng="
 output_filename = "sports_all_languages.json"
 
 # This dictionary will store the merged data.

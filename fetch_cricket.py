@@ -4,7 +4,8 @@ from datetime import datetime
 import pytz
 
 # --- Configuration ---
-API_URL = "https://1xbet.com/LineFeed/Get1x2_VZip"
+# API_URL = "https://1xbet.com/LineFeed/Get1x2_VZip"
+API_URL = "https://tepowue7.xyz/service-api/LineFeed/Get1x2_VZip"
 OUTPUT_FILE = "cricket_matches.json"
 TARGET_TIMEZONE = 'America/New_York' # For US standard time
 
@@ -21,7 +22,7 @@ params = {
 }
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36'
 }
 
 def parse_misc_info(misc_array):

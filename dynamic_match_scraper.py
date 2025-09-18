@@ -5,7 +5,7 @@ import pytz
 import sys
 
 # --- Configuration ---
-API_URL = "https://1xbet.com/LineFeed/Get1x2_VZip"
+API_URL = "https://tepowue7.xyz/service-api/LineFeed/Get1x2_VZip"
 SPORTS_INFO_FILE = 'sports_all_languages.json'
 TARGET_TIMEZONE = 'America/New_York' 
 

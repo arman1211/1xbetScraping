@@ -117,7 +117,7 @@ if __name__ == "__main__":
                 logging.info(f"Fetching live data for Sport ID: {args.sports}...")
 
             else:
-                params = {"count": 50, "lng": "en", "mode": 4, "country": 19}
+                params = {"count": 50, "lng": "en", "mode": 4, "country": 19, "gr":70}
                 logging.info("Fetching live data for all sports...")
 
             headers = {
